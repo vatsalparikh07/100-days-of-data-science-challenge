@@ -1,4 +1,4 @@
-# Day 2. 100 Days of Data Science Challenge
+# Day 2. 100 Days of Data Science Challenge - 04/06/2024
 
 # EmoNet: Advanced Emotion Classification Using NLP Techniques
 
