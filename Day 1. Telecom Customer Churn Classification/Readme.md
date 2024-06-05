@@ -45,3 +45,8 @@ In the telecom industry, customers are able to choose from a pool of companies t
    
 4. **Evaluation and Reporting**:
    - Select a model that is expected to perform optimally on the unseen data and provide the predictions accordingly.
+
+---
+
+*This project is part of the 100 Days of Data Science Challenge. For daily updates and progress, visit the [GitHub repository](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main).* 
+
