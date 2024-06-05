@@ -1,4 +1,4 @@
-## Day 1. 100 Days of Data Science Challenge
+## Day 1. 100 Days of Data Science Challenge - 03/06/2024
 ## Binary Classification - Telecom company Customer Churn Classification
 
 #### Problem Statement
