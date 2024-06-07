@@ -15,8 +15,8 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%203.%20Building%20a%20Calorie%20Intake%20Calculator)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%202.%20Advanced%20Emotion%20Classification%20Using%20NLP%20Techniques/solution.ipynb)
 
-## Day 4. Sentiment Analysis on GameSphere Game Reviews - 05/06/2024
+## Day 4. Sentiment Analysis on GameSphere Game Reviews - 06/06/2024
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%202.%20Advanced%20Emotion%20Classification%20Using%20NLP%20Techniques/solution.ipynb)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews/solution.ipynb)
 
