@@ -20,3 +20,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews/solution.ipynb)
 
+## Day 5. Regression Problem: House Sales in King County, USA - 07/06/2024
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%204.%20Sentiment%20Analysis%20on%20GameSphere%20Game%20Reviews/solution.ipynb)
