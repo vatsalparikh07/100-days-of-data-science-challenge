@@ -1,4 +1,4 @@
-## Day 3. 100 Days of Data Science Challenge - 05/06/2024
+## Day 3. 100 Days of Data Science Challenge - 02/03/2025
 
 ## Building a Calorie Intake Calculator
 
