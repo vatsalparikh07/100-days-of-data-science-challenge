@@ -27,5 +27,5 @@
 
 ## Day 6. Data Science in Hospitality Management - 02/06/2025
 
-- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%205.%20Regression%20Problem%3A%20House%20Sales%20in%20King%20County%2C%20USA)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%205.%20Regression%20Problem%3A%20House%20Sales%20in%20King%20County%2C%20USA/solution.ipynb)
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%206.%20Data%20Science%20in%20Hospitality%20Management)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%206.%20Data%20Science%20in%20Hospitality%20Management/solution.ipynb)
