@@ -33,3 +33,9 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%207.%20Vector%20Embedding%20Classification)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%207.%20Vector%20Embedding%20Classification/solution.ipynb)
+
+## Day 8. TF-IDF Information Retrieval System - 02/08/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%208.%20TF-IDF%20Information%20Retrieval%20System)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%208.%20TF-IDF%20Information%20Retrieval%20System/solution.ipynb)
+
