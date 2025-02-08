@@ -1,4 +1,5 @@
 # Day 8. 100 Days of Data Science Challenge - 02/08/2025
+# 📰 TF-IDF Information Retrieval System
 **Building a search engine from scratch using NLP techniques**  
 *A semantic analysis project demonstrating document retrieval using custom TF-IDF implementation*
 
