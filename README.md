@@ -39,3 +39,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%208.%20TF-IDF%20Information%20Retrieval%20System)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%208.%20TF-IDF%20Information%20Retrieval%20System/solution.ipynb)
 
+## Day 9. Word2Vec News Embeddings - 02/09/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%209.%20Word2Vec%20News%20Embeddings)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%209.%20Word2Vec%20News%20Embeddings/solution.ipynb)
