@@ -54,8 +54,6 @@ Pipeline([('tokenizer', CustomLemmatizer()),('embeder', Word2Vec(n_vocab=5000,n_
 
 ---
 
----
-
 ## 🌐 Future Directions
 - Implement hierarchical softmax
 - Add phrase detection using collocation metrics
