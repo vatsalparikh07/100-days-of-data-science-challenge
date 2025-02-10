@@ -43,3 +43,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%209.%20Word2Vec%20News%20Embeddings)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%209.%20Word2Vec%20News%20Embeddings/solution.ipynb)
+
+## Day 10. Clickbait Detection using Naive Bayes - 02/10/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2010.%20Clickbait%20Detector%20using%20Naive%20Bayes)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2010.%20Clickbait%20Detector%20using%20Naive%20Bayes/solution.ipynb)
