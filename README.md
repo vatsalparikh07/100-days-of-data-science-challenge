@@ -48,3 +48,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2010.%20Clickbait%20Detector%20using%20Naive%20Bayes)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2010.%20Clickbait%20Detector%20using%20Naive%20Bayes/solution.ipynb)
+
+## Day 11. Medical Cost Prediction using Regression - 02/11/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2011.%20Medical%20Cost%20Prediction%20using%20Regression)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2011.%20Medical%20Cost%20Prediction%20using%20Regression/solution.ipynb)
