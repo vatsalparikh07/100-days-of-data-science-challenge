@@ -1,5 +1,5 @@
 # Day 12. 100 Days of Data Science Challenge - 02/12/2025
-# 🌿 Liver Disease Prediction 
+# 🌿 Liver Disease Prediction System
 
 **Classifying liver health using biochemical markers and patient data**  
 *A binary classification project leveraging ensemble methods and data visualization*
