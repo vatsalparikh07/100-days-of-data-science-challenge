@@ -53,3 +53,9 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2011.%20Medical%20Cost%20Prediction%20using%20Regression)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2011.%20Medical%20Cost%20Prediction%20using%20Regression/solution.ipynb)
+
+## Day 12. Liver Disease Prediction System - 02/12/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2012.%20Liver%20Disease%20Prediction%20System)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2012.%20Liver%20Disease%20Prediction%20System/solution.ipynb)
+
