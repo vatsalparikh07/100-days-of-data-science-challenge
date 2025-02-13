@@ -59,3 +59,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2012.%20Liver%20Disease%20Prediction%20System)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2012.%20Liver%20Disease%20Prediction%20System/solution.ipynb)
 
+## Day 13. BERT Text Classification - 02/13/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2013.%20BERT%20Text%20Classification)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2013.%20BERT%20Text%20Classification/solution.ipynb)
