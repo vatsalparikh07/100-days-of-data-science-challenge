@@ -99,8 +99,11 @@ I plotted **training vs. validation loss and accuracy** to understand model perf
 
 ## 💡 Reflections
 Day 14 of 100 Days of Data Science was an eye-opener!
-🔹 Custom models can sometimes outperform pretrained ones!
-🔹 Preprocessing & augmentation are critical for good performance.
-🔹 Experimenting with different architectures is key to deep learning success.
+
+🔹Custom models can sometimes outperform pretrained ones!
+
+🔹Preprocessing & augmentation are critical for good performance.
+
+🔹Experimenting with different architectures is key to deep learning success.
 
 This was an exciting project, and I can’t wait to explore more deep learning challenges! 🚀
