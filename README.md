@@ -63,3 +63,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2013.%20BERT%20Text%20Classification)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2013.%20BERT%20Text%20Classification/solution.ipynb)
+
+## Day 14. Fashion Vision: CNN vs ResNet Showdown - 02/14/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2014.%20Fashion%20Vision%3A%20CNN%20vs.%20ResNet%20Showdown)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2014.%20Fashion%20Vision%3A%20CNN%20vs.%20ResNet%20Showdown/solution.ipynb)
