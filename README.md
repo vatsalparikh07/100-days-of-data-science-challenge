@@ -73,3 +73,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2015.%20Uncovering%20Bean%20Disease%20Patterns%20with%20PCA)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2015.%20Uncovering%20Bean%20Disease%20Patterns%20with%20PCA/solution.ipynb)
+
+## Day 16. Fundamentals of NLP: Regex, Tokenization, and Search Prediction - 02/16/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2016.%20Fundamentals%20of%20NLP%3A%20Regex%2C%20Tokenization%2C%20and%20Search%20Prediction)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2016.%20Fundamentals%20of%20NLP%3A%20Regex%2C%20Tokenization%2C%20and%20Search%20Prediction/solution.ipynb)
