@@ -33,7 +33,8 @@ The dataset is processed to **identify named entities, extract unique words, and
 📌 **Goal:** Detect all **proper nouns (named entities)** in headlines  
 📌 **Method:**  
    - Build **regular expressions** to extract names (e.g., "Joe Biden", "Donald Trump")  
-   - Count **unique named entities**  
+   - Count **unique named entities**
+     
 📌 **Outcome:** Extracted **dozens of unique names** and printed headlines containing them  
 
 ### 🔹 **2. Vocabulary Building & Frequency Analysis**  
@@ -42,7 +43,8 @@ The dataset is processed to **identify named entities, extract unique words, and
    - Tokenize words  
    - Convert to **lowercase** (case folding)  
    - Apply **lemmatization** to get base forms  
-   - Store unique words in a **vocabulary set**  
+   - Store unique words in a **vocabulary set**
+     
 📌 **Outcome:**  
    - Built a vocabulary of **unique words**  
    - Plotted a **word frequency distribution** for the **top 100 most common words**  
@@ -52,7 +54,8 @@ The dataset is processed to **identify named entities, extract unique words, and
 📌 **Method:**  
    - Load words from the **WordList.txt** file  
    - Use **Levenshtein Distance** to find the closest matches  
-   - Return the **K most probable** words for autocompletion  
+   - Return the **K most probable** words for autocompletion
+      
 📌 **Example:**  
    - Input: `"why i"`  
    - Output: `["why is", "why it", "why i’m"]`  
@@ -62,7 +65,8 @@ The dataset is processed to **identify named entities, extract unique words, and
 📌 **Steps:**  
    - Run **ChatGPT** on the same task (extract named entities from headlines)  
    - Analyze **differences in accuracy & recall**  
-   - Document **strengths & weaknesses** of each approach  
+   - Document **strengths & weaknesses** of each approach
+     
 📌 **Findings:**  
    - **ChatGPT** is **better at contextual understanding** but sometimes **over-generates** names  
    - **Regex-based extraction** is **precise** but **misses variations & ambiguous cases**  
