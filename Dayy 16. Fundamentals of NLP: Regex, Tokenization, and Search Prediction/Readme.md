@@ -4,7 +4,7 @@
 
 ## 📝 Project Overview  
 Ever wondered how **news headlines** are structured or how **search engines predict your next word**?  
-In **HeadlineHunter**, I dive deep into **Natural Language Processing (NLP)** techniques to analyze **New York Times headlines**, build an **autocompletion tool**, and compare text extraction with ChatGPT.  
+In this project, I dive deep into **Natural Language Processing (NLP)** techniques to analyze **New York Times headlines**, build an **autocompletion tool**, and compare text extraction with ChatGPT.  
 
 🛠 **Techniques Used:**  
 ✔️ **Regex & Named Entity Recognition (NER)** for detecting proper nouns in headlines  
