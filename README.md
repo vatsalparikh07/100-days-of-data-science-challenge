@@ -68,3 +68,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2014.%20Fashion%20Vision%3A%20CNN%20vs.%20ResNet%20Showdown)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2014.%20Fashion%20Vision%3A%20CNN%20vs.%20ResNet%20Showdown/solution.ipynb)
+
+## Day 15. Uncovering Bean Disease with PCA - 02/15/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2015.%20Uncovering%20Bean%20Disease%20Patterns%20with%20PCA)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2015.%20Uncovering%20Bean%20Disease%20Patterns%20with%20PCA/solution.ipynb)
