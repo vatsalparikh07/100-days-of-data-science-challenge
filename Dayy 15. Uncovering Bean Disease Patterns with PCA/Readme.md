@@ -50,7 +50,8 @@ The dataset consists of **grayscale images** that undergo preprocessing for furt
 📌 **Architecture:**  
    - Dense layers with **ReLU activation**  
    - Batch normalization for stable learning  
-   - Output layer: **Softmax activation** for multi-class classification  
+   - Output layer: **Softmax activation** for multi-class classification
+     
 📌 **Training Observations:**  
    - Model **successfully classified bean diseases** with improved accuracy over time.  
    - Validation loss fluctuated, hinting at slight **overfitting**.  
