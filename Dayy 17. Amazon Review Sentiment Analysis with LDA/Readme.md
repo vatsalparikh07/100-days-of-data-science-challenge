@@ -2,10 +2,6 @@
 
 # Amazon Review Sentiment Analysis with LDA
 
-# 📊 Sentiment Analysis & Topic Modeling with LDA  
-
-**Day 17 of 100 Days of Data Science 🚀**  
-
 ## 📝 Project Overview  
 This project focuses on analyzing **Amazon customer reviews** using **Latent Dirichlet Allocation (LDA) for topic modeling** and **Logistic Regression for sentiment classification**.  
 The goal is to **identify key themes in reviews** and classify sentiment as **positive or negative** using text data.  
