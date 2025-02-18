@@ -78,3 +78,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2016.%20Fundamentals%20of%20NLP%3A%20Regex%2C%20Tokenization%2C%20and%20Search%20Prediction)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2016.%20Fundamentals%20of%20NLP%3A%20Regex%2C%20Tokenization%2C%20and%20Search%20Prediction/solution.ipynb)
+
+## Day 17. Amazon Review Sentiment Analysis with LDA - 02/17/2025
+
+-[Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA)
+-[Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA/solution.ipynb)
