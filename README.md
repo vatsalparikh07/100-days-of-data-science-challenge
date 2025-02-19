@@ -86,5 +86,5 @@
 
 ## Day 18. Vector Databases for Embeddings with Pinecone - 02/18/2025
 
-- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA/solution.ipynb)
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2018.%20Vector%20Database%20for%20Embeddings%20with%20Pinecone)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2018.%20Vector%20Database%20for%20Embeddings%20with%20Pinecone/solution.ipynb)
