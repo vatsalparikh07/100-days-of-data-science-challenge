@@ -83,3 +83,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA/solution.ipynb)
+
+## Day 17. Amazon Review Sentiment Analysis with LDA - 02/18/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2017.%20Amazon%20Review%20Sentiment%20Analysis%20with%20LDA/solution.ipynb)
