@@ -93,3 +93,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2019.%20Fine-tuning%20with%20Llama%203)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2019.%20Fine-tuning%20with%20Llama%203/solution.ipynb)
+
+## Day 20. Deep Learning for Images with PyTorch - 02/20/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2020.%20Deep%20Learning%20for%20Images%20with%20PyTorch)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2020.%20Deep%20Learning%20for%20Images%20with%20PyTorch/solution.ipynb)
