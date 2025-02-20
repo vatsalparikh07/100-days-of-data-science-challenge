@@ -88,3 +88,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2018.%20Vector%20Database%20for%20Embeddings%20with%20Pinecone)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2018.%20Vector%20Database%20for%20Embeddings%20with%20Pinecone/solution.ipynb)
+
+## Day 19. Fine-tuning with Llama 3 - 02/19/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2019.%20Fine-tuning%20with%20Llama%203)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2019.%20Fine-tuning%20with%20Llama%203/solution.ipynb)
