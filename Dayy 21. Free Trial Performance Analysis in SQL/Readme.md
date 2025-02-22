@@ -29,6 +29,8 @@ Key technical focus areas:
 | - Month Bucket           | - Region                  | 
 |                          | - Locked Price            |
 
+<img width="930" alt="Screenshot 2022-12-16 at 11 32 58" src="https://github.com/user-attachments/assets/67ef1ff7-68dc-4fc7-a681-2ac8ce3b02e5" />
+
 ---
 
 ## 🛠️ Core SQL Concepts Applied  
@@ -102,5 +104,3 @@ This analysis pattern can be adapted for:
 - Subscription churn prediction  
 - Pricing strategy A/B testing  
 - Regional marketing budget allocation  
-
-*"The true power of SQL lies not in querying data, but in framing business questions as solvable data problems."* - Project Retrospective
