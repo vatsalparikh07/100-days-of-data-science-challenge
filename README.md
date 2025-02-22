@@ -103,3 +103,7 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2021.%20Free%20Trial%20Performance%20Analysis%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2021.%20Free%20Trial%20Performance%20Analysis%20in%20SQL/solution.ipynb)
+
+## Day 22. Seoul Bike Sharing Data Visualization - 02/22/25
+
+
