@@ -106,4 +106,5 @@
 
 ## Day 22. Seoul Bike Sharing Data Visualization - 02/22/25
 
-
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2022.%20Seoul%20Bike%20Sharing%20Data%20Visualization)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2022.%20Seoul%20Bike%20Sharing%20Data%20Visualization/solution.ipynb)
