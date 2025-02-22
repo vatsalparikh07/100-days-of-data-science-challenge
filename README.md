@@ -98,3 +98,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2020.%20Deep%20Learning%20for%20Images%20with%20PyTorch)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2020.%20Deep%20Learning%20for%20Images%20with%20PyTorch/solution.ipynb)
+
+## Day 21. Free Trial Performance Analysis in SQL - 02/21/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2021.%20Free%20Trial%20Performance%20Analysis%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2021.%20Free%20Trial%20Performance%20Analysis%20in%20SQL/solution.ipynb)
