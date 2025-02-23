@@ -108,3 +108,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2022.%20Seoul%20Bike%20Sharing%20Data%20Visualization)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2022.%20Seoul%20Bike%20Sharing%20Data%20Visualization/solution.ipynb)
+
+## Day 23. Exploring World Cup Data in Python - 02/23/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2023.%20Exploring%20World%20Cup%20Data%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2023.%20Exploring%20World%20Cup%20Data%20in%20Python/solution.ipynb)
