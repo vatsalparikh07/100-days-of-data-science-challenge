@@ -113,3 +113,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2023.%20Exploring%20World%20Cup%20Data%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2023.%20Exploring%20World%20Cup%20Data%20in%20Python/solution.ipynb)
+
+## Day 24. Exploring Astronauts Extra Vehicular Activities in SQL - 02/24/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2024.%20Exploring%20Astronauts%20Extra%20Vehicular%20Activities%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2024.%20Exploring%20Astronauts%20Extra%20Vehicular%20Activities%20in%20SQL/solution.ipynb)
