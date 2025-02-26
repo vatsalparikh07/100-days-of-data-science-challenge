@@ -123,3 +123,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2025.%20Analyzing%20Streaming%20Service%20Content%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2025.%20Analyzing%20Streaming%20Service%20Content%20in%20SQL/solution.ipynb)
+
+## Day 26. NASA Planetary Exploration Budget Analysis in SQL - 02/26/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2026.%20NASA%20Planetary%20Exploration%20Budget%20Analysis%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2026.%20NASA%20Planetary%20Exploration%20Budget%20Analysis%20in%20SQL/solution.ipynb)
