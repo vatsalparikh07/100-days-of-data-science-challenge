@@ -118,3 +118,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2024.%20Exploring%20Astronauts%20Extra%20Vehicular%20Activities%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2024.%20Exploring%20Astronauts%20Extra%20Vehicular%20Activities%20in%20SQL/solution.ipynb)
+
+## Day 25. Analyzing Streaming Service Content in SQL - 02/25/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2025.%20Analyzing%20Streaming%20Service%20Content%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2025.%20Analyzing%20Streaming%20Service%20Content%20in%20SQL/solution.ipynb)
