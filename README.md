@@ -133,3 +133,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2027.%20Times%20Series%20Analysis%20of%20Thames%20River%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2027.%20Times%20Series%20Analysis%20of%20Thames%20River%20in%20Python/solution.ipynb)
+
+## Day 28. Students' Mental Health Analysis in SQL - 02/28/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2028.%20Students'%20Mental%20Health%20Analysis%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2028.%20Students'%20Mental%20Health%20Analysis%20in%20SQL/solution.ipynb)
