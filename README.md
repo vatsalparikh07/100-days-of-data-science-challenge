@@ -138,3 +138,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2028.%20Students'%20Mental%20Health%20Analysis%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2028.%20Students'%20Mental%20Health%20Analysis%20in%20SQL/solution.ipynb)
+
+## Day 29. Carbon Footprint Analysis in SQL - 03/01/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2029.%20Carbon%20Footprint%20Analysis%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2029.%20Carbon%20Footprint%20Analysis%20in%20SQL/solution.ipynb)
