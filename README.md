@@ -143,3 +143,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2029.%20Carbon%20Footprint%20Analysis%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2029.%20Carbon%20Footprint%20Analysis%20in%20SQL/solution.ipynb)
+
+## Day 30. Explaining Black-Box Machine Learning Models - 03/02/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2030.%20Explaining%20Black-Box%20Machine%20Learning%20Models)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2030.%20Explaining%20Black-Box%20Machine%20Learning%20Models/solution.ipynb)
