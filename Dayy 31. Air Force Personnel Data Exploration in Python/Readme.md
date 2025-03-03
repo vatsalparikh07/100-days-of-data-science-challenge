@@ -24,7 +24,7 @@ Analyze 2010 US Air Force personnel data to uncover demographic patterns in gend
 ## 🔬 Key Analyses  
 
 ### 1️⃣ Gender Distribution  
-![Gender Distribution](https://cdn.mathpix.com/cropped/2025_03_03_f7206d9a782a8bdfbbedg-3.jpg?height=712&width=1763)  
+![Gender Distribution](![1](https://github.com/user-attachments/assets/f079085a-b9b1-4704-981e-900e3b625736))  
 - **Male Dominance**: 80.6% of personnel (267,286)  
 - **Female Representation**: 19.4% (64,200)  
 
@@ -52,7 +52,7 @@ px.bar(total_counts_by_race, x='count', y='race', category_orders={'race': race_
 | Hispanic| O08             | 1     |
 
 **Paygrade Distribution**:  
-![Paygrade Pattern](https://cdn.mathpix.com/cropped/2025_03_03_f7206d9a782a8bdfbbedg-6.jpg?height=623&width=1709)  
+![Paygrade Pattern](![2](https://github.com/user-attachments/assets/9c211a1e-2547-4d0e-84e6-4610fcb3d0b5))  
 
 ```
 px.line(total_counts_by_paygrade, x='paygrade', y='count', title="Personnel Distribution Across Paygrades")
