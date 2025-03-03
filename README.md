@@ -148,3 +148,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2030.%20Explaining%20Black-Box%20Machine%20Learning%20Models)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2030.%20Explaining%20Black-Box%20Machine%20Learning%20Models/solution.ipynb)
+
+## Day 31. Air Force Personnel Data Exploration in Python - 03/03/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2031.%20Air%20Force%20Personnel%20Data%20Exploration%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2031.%20Air%20Force%20Personnel%20Data%20Exploration%20in%20Python/solution.ipynb)
