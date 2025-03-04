@@ -153,3 +153,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2031.%20Air%20Force%20Personnel%20Data%20Exploration%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2031.%20Air%20Force%20Personnel%20Data%20Exploration%20in%20Python/solution.ipynb)
+
+## Day 32. Visualizing Video Game Sales Data with ggplot2 in R - 03/04/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2032.%20Visualizing%20Video%20Game%20Sales%20Data%20with%20ggplot2%20in%20R)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2032.%20Visualizing%20Video%20Game%20Sales%20Data%20with%20ggplot2%20in%20R)
