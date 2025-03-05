@@ -157,4 +157,9 @@
 ## Day 32. Visualizing Video Game Sales Data with ggplot2 in R - 03/04/25
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2032.%20Visualizing%20Video%20Game%20Sales%20Data%20with%20ggplot2%20in%20R)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2032.%20Visualizing%20Video%20Game%20Sales%20Data%20with%20ggplot2%20in%20R)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2032.%20Visualizing%20Video%20Game%20Sales%20Data%20with%20ggplot2%20in%20R/solution.ipynb)
+
+## Day 33. Ticket Sales Data Analysis with Amazon Redshift - 03/05/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2033.%20Ticket%20Sales%20Data%20Analysis%20with%20Amazon%20Redshift)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2033.%20Ticket%20Sales%20Data%20Analysis%20with%20Amazon%20Redshift/solution.ipynb)
