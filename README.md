@@ -163,3 +163,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2033.%20Ticket%20Sales%20Data%20Analysis%20with%20Amazon%20Redshift)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2033.%20Ticket%20Sales%20Data%20Analysis%20with%20Amazon%20Redshift/solution.ipynb)
+
+## Day 34. Superbowl Analysis in Python - 03/06/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2034.%20Superbowl%20Analysis%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2034.%20Superbowl%20Analysis%20in%20Python/solution.ipynb)
