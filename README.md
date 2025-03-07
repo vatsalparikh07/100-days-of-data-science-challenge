@@ -168,3 +168,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2034.%20Superbowl%20Analysis%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2034.%20Superbowl%20Analysis%20in%20Python/solution.ipynb)
+
+## Day 35. A/B Testing in R - 03/07/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2035.%20A%20%7C%20B%20Testing%20in%20R)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2035.%20A%20%7C%20B%20Testing%20in%20R/solution.ipynb)
