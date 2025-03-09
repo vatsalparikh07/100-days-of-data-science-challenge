@@ -1,8 +1,6 @@
 # Day 36. 100 Days of Data Science Challenge - 03/08/2025
 # 📈 Time Series Analysis: Forecasting GameStop's Stock Price 🚀  
 
----
-
 ## 🌟 Project Overview  
 
 On Day 36, I explored the world of **Time Series Analysis** using **Python** to analyze and predict the stock price of **GameStop (GME)**. With data spanning from **2020 to 2023**, this project focused on understanding historical trends, visualizing price movements, and using **ARIMA** models to forecast future prices.  
