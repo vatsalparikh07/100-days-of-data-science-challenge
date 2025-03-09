@@ -173,3 +173,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2035.%20A%20%7C%20B%20Testing%20in%20R)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2035.%20A%20%7C%20B%20Testing%20in%20R/solution.ipynb)
+
+## Day 36. Time Series Analysis in Python : Predicting GameStop's Wild Ride - 03/08/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2036.%20Time%20Series%20Analysis%20in%20Python%3A%20Predicting%20GameStop's%20Wild%20Ride)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2036.%20Time%20Series%20Analysis%20in%20Python%3A%20Predicting%20GameStop's%20Wild%20Ride/solution.ipynb)
