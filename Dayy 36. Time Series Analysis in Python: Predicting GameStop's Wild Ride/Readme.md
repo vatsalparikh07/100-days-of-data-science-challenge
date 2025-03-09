@@ -96,10 +96,4 @@ This project was a fantastic opportunity to merge **data science** with **financ
 
 ---
 
-## 📜 License  
-
-Licensed under the **MIT License**.  
-
----
-
 Thanks for following along! If you're into **data science**, **finance**, or just love a good stock market story, let’s connect! 😊  
