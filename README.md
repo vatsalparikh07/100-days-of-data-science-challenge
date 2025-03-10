@@ -178,3 +178,7 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2036.%20Time%20Series%20Analysis%20in%20Python%3A%20Predicting%20GameStop's%20Wild%20Ride)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2036.%20Time%20Series%20Analysis%20in%20Python%3A%20Predicting%20GameStop's%20Wild%20Ride/solution.ipynb)
+
+## Day 37. Calculating KPIs using DAX in PowerBI - 03/09/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2037.%20Calculating%20KPIs%20with%20DAX%20in%20PowerBI)
