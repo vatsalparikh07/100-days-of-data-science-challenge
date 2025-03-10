@@ -182,6 +182,8 @@
 ## Day 37. Calculating KPIs using DAX in PowerBI - 03/09/25
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2037.%20Calculating%20KPIs%20with%20DAX%20in%20PowerBI)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2037.%20Calculating%20KPIs%20with%20DAX%20in%20PowerBI/solution.pbix)
+
 
 ## Day 38. Gender Bias Text Analysis in Python - 03/10/25
 
