@@ -193,3 +193,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2039.%20Experiment%20Tracking%20using%20MLFlow)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2039.%20Experiment%20Tracking%20using%20MLFlow/solution.ipynb)
+
+## Day 40. Marketing Campaign Dashboard in Tableau - 03/12/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2040.%20Marketing%20Campaign%20Dashboard%20in%20Tableau)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2040.%20Marketing%20Campaign%20Dashboard%20in%20Tableau/Marketing%20Campaign%20Analysis.twbx)
