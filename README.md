@@ -198,3 +198,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2040.%20Marketing%20Campaign%20Dashboard%20in%20Tableau)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2040.%20Marketing%20Campaign%20Dashboard%20in%20Tableau/Marketing%20Campaign%20Analysis.twbx)
+
+## Day 41. Building Chatbots with RAG using OpenAI and Pinecone - 03/13/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2041.%20Building%20Chatbots%20with%20RAG%20using%20OpenAI%20and%20PineCone)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2041.%20Building%20Chatbots%20with%20RAG%20using%20OpenAI%20and%20PineCone/solution.ipynb)
