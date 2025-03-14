@@ -203,3 +203,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2041.%20Building%20Chatbots%20with%20RAG%20using%20OpenAI%20and%20PineCone)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2041.%20Building%20Chatbots%20with%20RAG%20using%20OpenAI%20and%20PineCone/solution.ipynb)
+
+## Day 42. Analysing Survey Data with SQL and Python - 03/14/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python/solution.ipynb)
