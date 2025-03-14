@@ -92,7 +92,7 @@ By integrating **Pinecone vector storage**, we enable the chatbot to **retrieve 
 🔹 **Pinecone:** Vector storage & fast search  
 🔹 **Llama 2 Dataset:** AI research papers as knowledge base  
 
-🚀 **[View Code & Implementation]()**  
+🚀 **[View Code & Implementation](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2041.%20Building%20Chatbots%20with%20RAG%20using%20OpenAI%20and%20PineCone/solution.ipynb)**  
 
 ---
 
