@@ -1,0 +1,36 @@
+column,question,row,section,title,response_type
+question_2_row_1_transformed,2,1,estimated growth,Expected employee count in five years (as a percent from last available year),numeric
+question_2_row_2_transformed,2,2,estimated growth,Expected revenue in five years (as a percent from last available year),numeric
+question_3_row_1,3,1,company culture,Employees are encouraged to be creative,agree_disagree
+question_3_row_2,3,2,company culture,Managers are expected to be creative problem solvers,agree_disagree
+question_3_row_3,3,3,company culture,Employees' ability to function creatively is respected,agree_disagree
+question_3_row_4,3,4,company culture,We are constantly looking for ways to develop and offer new or improved products and services,agree_disagree
+question_3_row_5,3,5,company culture,Assistance in developing new ideas is readily available,agree_disagree
+question_3_row_6,3,6,company culture,Our organization is open and responsive to changes,agree_disagree
+question_3_row_7,3,7,company culture,"Managers here are always searching for fresh, new ways of looking at problems",agree_disagree
+question_3_row_8,3,8,company culture,Our organization has a clear and inspiring set of future goals,agree_disagree
+question_3_row_9,3,9,company culture,We have ensured that all managers and employees share the same vision of the future,agree_disagree
+question_3_row_10,3,10,company culture,All departments and employees share a clear vision of the future,agree_disagree
+question_3_row_11,3,11,company culture,We believe that higher risks are worth taking for high payoff,agree_disagree
+question_3_row_12,3,12,company culture,"We encourage innovative initiatives, knowing well that some will fail",agree_disagree
+question_3_row_13,3,13,company culture,We do not like to “play it safe”,agree_disagree
+question_3_row_14,3,14,company culture,Managers are constantly seeking new opportunities for the organization,agree_disagree
+question_3_row_15,3,15,company culture,Managers take the initiative in an effort to shape the environment to the organization’s advantage,agree_disagree
+question_3_row_16,3,16,company culture,Managers usually take the initiative by introducing new administrative techniques,agree_disagree
+question_4_row_1,4,1,management,"Our company's top management frequently has discussions on renewal, innovation, and growth with managers from other companies",agree_disagree
+question_4_row_2,4,2,management,"We have learned important new information on markets, technologies, and administration from interactions with managers from other companies",agree_disagree
+question_4_row_3,4,3,management,Interactions with managers from other companies have helped us build our capabilities and skills,agree_disagree
+question_4_row_4,4,4,management,Active discussions with managers from other companies have generated collaborations leading to new innovations,agree_disagree
+question_5_row_1,5,1,actions in the last 3 years,We commercialize products and services that challenge our previous products/services,agree_disagree
+question_5_row_2,5,2,actions in the last 3 years,We develop and commercialize products and services that are completely new,agree_disagree
+question_5_row_3,5,3,actions in the last 3 years,We frequently utilize new opportunities in new markets,agree_disagree
+question_5_row_4,5,4,actions in the last 3 years,We develop our business model to stand out from our competitors,agree_disagree
+question_5_row_5,5,5,actions in the last 3 years,We use experiments to identify and evaluate new business opportunities,agree_disagree
+question_5_row_6,5,6,actions in the last 3 years,We frequently make small adjustments to our existing products and services,agree_disagree
+question_5_row_7,5,7,actions in the last 3 years,We improve the efficiency of our products/services,agree_disagree
+question_5_row_8,5,8,actions in the last 3 years,We increase economies of scales in existing markets,agree_disagree
+question_5_row_9,5,9,actions in the last 3 years,We introduce improved versions of existing products and services for our local market,agree_disagree
+question_5_row_10,5,10,actions in the last 3 years,Our organization expands our offering for existing clients,agree_disagree
+question_6_row_1,6,1,industry in the last 3 years,The market we operate in is undergoing intense changes,agree_disagree
+question_6_row_2,6,2,industry in the last 3 years,Our clients regularly ask for new products and services,agree_disagree
+question_7_row_1,7,1,COVID-19,Has the COVID-19 pandemic has a sig- nificant impact on your firm's actions re- lated to the topics mentioned above dur- ing the previous year,yes_no
