@@ -78,7 +78,9 @@ Search engines and recommendation systems **fuel modern AI applications**—from
 
 ---
 
-## 🎨 Architecture & Workflow  
+## 🎨 Architecture & Workflow 
+
+![img](https://github.com/weaviate-tutorials/intro-workshop/blob/main/images/object_import_process_full.png?raw=1)
 
 1️⃣ **User asks a question** → Query is embedded into a **vector**  
 2️⃣ **Weaviate retrieves similar question-answer pairs** → **Semantic search**  
