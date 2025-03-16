@@ -209,10 +209,10 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python/solution.ipynb)
 
-## Day 43. Managing Feature Engineering using Feature Stores - 03/15/25
+## Day 43. Exploring Vector Databases with Weaviate in Python - 03/15/25
 
-- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores/solution.ipynb)
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Exploring%20Vector%20Databases%20with%20Weaviate%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Exploring%20Vector%20Databases%20with%20Weaviate%20in%20Python/solution.ipynb)
 
 ## Day 44. Architecting AI Agent for Financial Report Analysis - 03/16/25
 
