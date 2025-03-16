@@ -214,4 +214,8 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores/solution.ipynb)
 
+## Day 44. Architecting AI Agent for Financial Report Analysis - 03/16/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2044.%20Architecting%20AI%20Agent%20for%20Financial%20Report%20Analysis)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2044.%20Architecting%20AI%20Agent%20for%20Financial%20Report%20Analysis/solution.ipynb)
 
