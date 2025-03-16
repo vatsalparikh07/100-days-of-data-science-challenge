@@ -208,3 +208,10 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2042.%20Analysing%20Survey%20Data%20with%20SQL%20and%20Python/solution.ipynb)
+
+## Day 43. Managing Feature Engineering using Feature Stores - 03/15/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Managing%20Feature%20Engineering%20using%20Feature%20Stores/solution.ipynb)
+
+
