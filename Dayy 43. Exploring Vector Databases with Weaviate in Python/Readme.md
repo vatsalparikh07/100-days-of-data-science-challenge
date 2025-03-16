@@ -91,7 +91,7 @@ Search engines and recommendation systems **fuel modern AI applications**—from
 ✅ **OpenAI API** – LLM for embeddings and generative responses  
 ✅ **Python + LangChain** – To integrate retrieval & generation  
 
-🚀 **[View Code & Implementation](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/edit/main/Dayy%2043.%20Exploring%20Vector%20Databases%20with%20Weaviate%20in%20Python/solution.ipynb)**  
+🚀 **[View Code & Implementation](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2043.%20Exploring%20Vector%20Databases%20with%20Weaviate%20in%20Python/solution.ipynb)**  
 
 ---
 
