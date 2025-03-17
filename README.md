@@ -219,3 +219,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2044.%20Architecting%20AI%20Agent%20for%20Financial%20Report%20Analysis)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2044.%20Architecting%20AI%20Agent%20for%20Financial%20Report%20Analysis/solution.ipynb)
 
+## Day 45. Exploring FIFA World Cup Data in Power BI - 03/17/25
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI/solution.pbix)
