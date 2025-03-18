@@ -98,7 +98,7 @@ This dashboard is **not just a report—it’s an interactive story of football 
 | **Dashboard Section** | **Preview** |  
 |----------------------|------------|  
 | **Overview Page**  | ![Overview](overvieww.jpeg) |  
-| **Tournament Page**  | ![Tournament](bytournamentt.jpeg) |  
+| **Tournament Page**  | ![Tournament](bytournament.jpeg) |  
 
 🚀 **[View Full Dashboard Here](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI/solution.pbix)**  
 
