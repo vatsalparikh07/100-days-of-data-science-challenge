@@ -223,3 +223,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI/solution.pbix)
+
+## Day 46. Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2046.%20Seismic%20Analytics%20Pipeline%3A%20Data%20Engineering%20using%20Microsoft%20Fabric)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2046.%20Seismic%20Analytics%20Pipeline%3A%20Data%20Engineering%20using%20Microsoft%20Fabric/solution.ipynb)
