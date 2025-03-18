@@ -65,7 +65,7 @@ This dashboard is **not just a report—it’s an interactive story of football 
 
 ---
 
-## Example - Key Insights & Findings for 1998 World Cup
+## Key Insights & Findings
 
 | **Metric**               | **Top Country** |  
 |--------------------------|----------------|  
@@ -74,7 +74,7 @@ This dashboard is **not just a report—it’s an interactive story of football 
 | **Highest Goal-Scoring Year** | **World Cup 1998** |  
 | **Host Nation Win Percentage** | **28.6%** |  
 
-### ✨ Example Observations - 1998 World Cup  
+### ✨ Observations
 
 - **Germany has dominated in goal-scoring**, even outperforming Brazil.  
 - **Brazil reached the most finals**, proving consistent elite performance.  
