@@ -227,3 +227,8 @@
 ## Day 46. Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric
 
 - [Project Description and Solution](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2046.%20Seismic%20Analytics%20Pipeline%3A%20Data%20Engineering%20using%20Microsoft%20Fabric)
+
+## Day 47. Prompt Engineering for Code Generation
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation/solution.ipynb)
