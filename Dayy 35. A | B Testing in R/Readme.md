@@ -1,5 +1,5 @@
 # Day 35. 100 Days of Data Science Challenge - 03/07/2025
-# 📊 A/B Testing in R: Did Our Experiment Work?
+# 📊 Customer Spending Optimization via A/B Testing in R
 
 ## 🌟 Project Overview  
 
