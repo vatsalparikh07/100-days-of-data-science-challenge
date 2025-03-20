@@ -1,0 +1,609 @@
+datetime,product,n_sold
+2019-08-01,croissant,9.0
+2019-08-02,croissant,0.0
+2019-08-03,croissant,8.0
+2019-08-04,croissant,6.0
+2019-08-05,croissant,5.0
+2019-08-06,croissant,0.0
+2019-08-07,croissant,7.0
+2019-08-08,croissant,5.0
+2019-08-09,croissant,5.0
+2019-08-10,croissant,5.0
+2019-08-11,croissant,4.0
+2019-08-12,croissant,7.0
+2019-08-13,croissant,0.0
+2019-08-14,croissant,10.0
+2019-08-15,croissant,18.0
+2019-08-16,croissant,1.0
+2019-08-17,croissant,3.0
+2019-08-18,croissant,10.0
+2019-08-19,croissant,2.0
+2019-08-20,croissant,0.0
+2019-08-21,croissant,8.0
+2019-08-22,croissant,4.0
+2019-08-23,croissant,5.0
+2019-08-24,croissant,11.0
+2019-08-25,croissant,2.0
+2019-08-26,croissant,2.0
+2019-08-27,croissant,0.0
+2019-08-28,croissant,5.0
+2019-08-29,croissant,5.0
+2019-08-30,croissant,2.0
+2019-08-31,croissant,2.0
+2019-09-01,croissant,3.0
+2019-09-02,croissant,2.0
+2019-09-03,croissant,0.0
+2019-09-04,croissant,9.0
+2019-09-05,croissant,1.0
+2019-09-06,croissant,4.0
+2019-09-07,croissant,5.0
+2019-09-08,croissant,2.0
+2019-09-09,croissant,6.0
+2019-09-10,croissant,0.0
+2019-09-11,croissant,2.0
+2019-09-12,croissant,4.0
+2019-09-13,croissant,0.0
+2019-09-14,croissant,5.0
+2019-09-15,croissant,8.0
+2019-09-16,croissant,0.0
+2019-09-17,croissant,0.0
+2019-09-18,croissant,1.0
+2019-09-19,croissant,2.0
+2019-09-20,croissant,4.0
+2019-09-21,croissant,8.0
+2019-09-22,croissant,16.0
+2019-09-23,croissant,5.0
+2019-09-24,croissant,0.0
+2019-09-25,croissant,2.0
+2019-09-26,croissant,1.0
+2019-09-27,croissant,3.0
+2019-09-28,croissant,7.0
+2019-09-29,croissant,8.0
+2019-09-30,croissant,5.0
+2019-10-01,croissant,0.0
+2019-10-02,croissant,4.0
+2019-10-03,croissant,3.0
+2019-10-04,croissant,0.0
+2019-10-05,croissant,1.0
+2019-10-06,croissant,3.0
+2019-10-07,croissant,0.0
+2019-10-08,croissant,0.0
+2019-10-09,croissant,1.0
+2019-10-10,croissant,3.0
+2019-10-11,croissant,2.0
+2019-10-12,croissant,3.0
+2019-10-13,croissant,5.0
+2019-10-14,croissant,5.0
+2019-10-15,croissant,0.0
+2019-10-16,croissant,1.0
+2019-10-17,croissant,5.0
+2019-10-18,croissant,3.0
+2019-10-19,croissant,5.0
+2019-10-20,croissant,9.0
+2019-10-21,croissant,5.0
+2019-10-22,croissant,0.0
+2019-10-23,croissant,1.0
+2019-10-24,croissant,5.0
+2019-10-25,croissant,5.0
+2019-10-26,croissant,3.0
+2019-10-27,croissant,7.0
+2019-10-28,croissant,9.0
+2019-10-29,croissant,0.0
+2019-10-30,croissant,0.0
+2019-10-31,croissant,4.0
+2019-11-01,croissant,4.0
+2019-11-02,croissant,7.0
+2019-11-03,croissant,0.0
+2019-11-04,croissant,3.0
+2019-11-05,croissant,0.0
+2019-11-06,croissant,3.0
+2019-11-07,croissant,7.0
+2019-11-08,croissant,3.0
+2019-11-09,croissant,3.0
+2019-11-10,croissant,1.0
+2019-11-11,croissant,0.0
+2019-11-12,croissant,0.0
+2019-11-13,croissant,1.0
+2019-11-14,croissant,2.0
+2019-11-15,croissant,8.0
+2019-11-16,croissant,3.0
+2019-11-17,croissant,8.0
+2019-11-18,croissant,2.0
+2019-11-19,croissant,0.0
+2019-11-20,croissant,3.0
+2019-11-21,croissant,4.0
+2019-11-22,croissant,4.0
+2019-11-23,croissant,7.0
+2019-11-24,croissant,1.0
+2019-11-25,croissant,7.0
+2019-11-26,croissant,0.0
+2019-11-27,croissant,2.0
+2019-11-28,croissant,2.0
+2019-11-29,croissant,4.0
+2019-11-30,croissant,3.0
+2019-12-01,croissant,5.0
+2019-12-02,croissant,3.0
+2019-12-03,croissant,0.0
+2019-12-04,croissant,3.0
+2019-12-05,croissant,5.0
+2019-12-06,croissant,5.0
+2019-12-07,croissant,3.0
+2019-12-08,croissant,3.0
+2019-12-09,croissant,2.0
+2019-12-10,croissant,0.0
+2019-12-11,croissant,7.0
+2019-12-12,croissant,1.0
+2019-12-13,croissant,2.0
+2019-12-14,croissant,2.0
+2019-12-15,croissant,1.0
+2019-12-16,croissant,1.0
+2019-12-17,croissant,0.0
+2019-12-18,croissant,2.0
+2019-12-19,croissant,5.0
+2019-12-20,croissant,2.0
+2019-12-21,croissant,6.0
+2019-12-22,croissant,7.0
+2019-12-23,croissant,2.0
+2019-12-24,croissant,0.0
+2019-12-25,croissant,4.0
+2019-12-26,croissant,1.0
+2019-12-27,croissant,1.0
+2019-12-28,croissant,12.0
+2019-12-29,croissant,0.0
+2019-12-30,croissant,4.0
+2019-08-01,tiramisu croissant,4.0
+2019-08-02,tiramisu croissant,3.0
+2019-08-03,tiramisu croissant,0.0
+2019-08-04,tiramisu croissant,2.0
+2019-08-05,tiramisu croissant,4.0
+2019-08-06,tiramisu croissant,0.0
+2019-08-07,tiramisu croissant,2.0
+2019-08-08,tiramisu croissant,4.0
+2019-08-09,tiramisu croissant,0.0
+2019-08-10,tiramisu croissant,6.0
+2019-08-11,tiramisu croissant,3.0
+2019-08-12,tiramisu croissant,1.0
+2019-08-13,tiramisu croissant,0.0
+2019-08-14,tiramisu croissant,1.0
+2019-08-15,tiramisu croissant,2.0
+2019-08-16,tiramisu croissant,1.0
+2019-08-17,tiramisu croissant,6.0
+2019-08-18,tiramisu croissant,4.0
+2019-08-19,tiramisu croissant,7.0
+2019-08-20,tiramisu croissant,0.0
+2019-08-21,tiramisu croissant,2.0
+2019-08-22,tiramisu croissant,4.0
+2019-08-23,tiramisu croissant,0.0
+2019-08-24,tiramisu croissant,2.0
+2019-08-25,tiramisu croissant,3.0
+2019-08-26,tiramisu croissant,6.0
+2019-08-27,tiramisu croissant,0.0
+2019-08-28,tiramisu croissant,3.0
+2019-08-29,tiramisu croissant,1.0
+2019-08-30,tiramisu croissant,3.0
+2019-08-31,tiramisu croissant,3.0
+2019-09-01,tiramisu croissant,1.0
+2019-09-02,tiramisu croissant,3.0
+2019-09-03,tiramisu croissant,0.0
+2019-09-04,tiramisu croissant,5.0
+2019-09-05,tiramisu croissant,3.0
+2019-09-06,tiramisu croissant,2.0
+2019-09-07,tiramisu croissant,4.0
+2019-09-08,tiramisu croissant,2.0
+2019-09-09,tiramisu croissant,2.0
+2019-09-10,tiramisu croissant,0.0
+2019-09-11,tiramisu croissant,2.0
+2019-09-12,tiramisu croissant,2.0
+2019-09-13,tiramisu croissant,0.0
+2019-09-14,tiramisu croissant,4.0
+2019-09-15,tiramisu croissant,5.0
+2019-09-16,tiramisu croissant,0.0
+2019-09-17,tiramisu croissant,0.0
+2019-09-18,tiramisu croissant,2.0
+2019-09-19,tiramisu croissant,6.0
+2019-09-20,tiramisu croissant,6.0
+2019-09-21,tiramisu croissant,5.0
+2019-09-22,tiramisu croissant,4.0
+2019-09-23,tiramisu croissant,4.0
+2019-09-24,tiramisu croissant,0.0
+2019-09-25,tiramisu croissant,2.0
+2019-09-26,tiramisu croissant,0.0
+2019-09-27,tiramisu croissant,1.0
+2019-09-28,tiramisu croissant,5.0
+2019-09-29,tiramisu croissant,4.0
+2019-09-30,tiramisu croissant,2.0
+2019-10-01,tiramisu croissant,0.0
+2019-10-02,tiramisu croissant,1.0
+2019-10-03,tiramisu croissant,7.0
+2019-10-04,tiramisu croissant,0.0
+2019-10-05,tiramisu croissant,3.0
+2019-10-06,tiramisu croissant,1.0
+2019-10-07,tiramisu croissant,3.0
+2019-10-08,tiramisu croissant,0.0
+2019-10-09,tiramisu croissant,1.0
+2019-10-10,tiramisu croissant,7.0
+2019-10-11,tiramisu croissant,2.0
+2019-10-12,tiramisu croissant,2.0
+2019-10-13,tiramisu croissant,3.0
+2019-10-14,tiramisu croissant,4.0
+2019-10-15,tiramisu croissant,0.0
+2019-10-16,tiramisu croissant,2.0
+2019-10-17,tiramisu croissant,3.0
+2019-10-18,tiramisu croissant,0.0
+2019-10-19,tiramisu croissant,4.0
+2019-10-20,tiramisu croissant,1.0
+2019-10-21,tiramisu croissant,9.0
+2019-10-22,tiramisu croissant,0.0
+2019-10-23,tiramisu croissant,1.0
+2019-10-24,tiramisu croissant,5.0
+2019-10-25,tiramisu croissant,1.0
+2019-10-26,tiramisu croissant,4.0
+2019-10-27,tiramisu croissant,2.0
+2019-10-28,tiramisu croissant,2.0
+2019-10-29,tiramisu croissant,0.0
+2019-10-30,tiramisu croissant,0.0
+2019-10-31,tiramisu croissant,0.0
+2019-11-01,tiramisu croissant,2.0
+2019-11-02,tiramisu croissant,3.0
+2019-11-03,tiramisu croissant,3.0
+2019-11-04,tiramisu croissant,1.0
+2019-11-05,tiramisu croissant,0.0
+2019-11-06,tiramisu croissant,1.0
+2019-11-07,tiramisu croissant,1.0
+2019-11-08,tiramisu croissant,3.0
+2019-11-09,tiramisu croissant,7.0
+2019-11-10,tiramisu croissant,7.0
+2019-11-11,tiramisu croissant,3.0
+2019-11-12,tiramisu croissant,0.0
+2019-11-13,tiramisu croissant,5.0
+2019-11-14,tiramisu croissant,1.0
+2019-11-15,tiramisu croissant,2.0
+2019-11-16,tiramisu croissant,1.0
+2019-11-17,tiramisu croissant,4.0
+2019-11-18,tiramisu croissant,4.0
+2019-11-19,tiramisu croissant,0.0
+2019-11-20,tiramisu croissant,2.0
+2019-11-21,tiramisu croissant,0.0
+2019-11-22,tiramisu croissant,0.0
+2019-11-23,tiramisu croissant,6.0
+2019-11-24,tiramisu croissant,3.0
+2019-11-25,tiramisu croissant,2.0
+2019-11-26,tiramisu croissant,0.0
+2019-11-27,tiramisu croissant,2.0
+2019-11-28,tiramisu croissant,4.0
+2019-11-29,tiramisu croissant,4.0
+2019-11-30,tiramisu croissant,7.0
+2019-12-01,tiramisu croissant,7.0
+2019-12-02,tiramisu croissant,2.0
+2019-12-03,tiramisu croissant,0.0
+2019-12-04,tiramisu croissant,1.0
+2019-12-05,tiramisu croissant,7.0
+2019-12-06,tiramisu croissant,2.0
+2019-12-07,tiramisu croissant,4.0
+2019-12-08,tiramisu croissant,11.0
+2019-12-09,tiramisu croissant,7.0
+2019-12-10,tiramisu croissant,0.0
+2019-12-11,tiramisu croissant,3.0
+2019-12-12,tiramisu croissant,6.0
+2019-12-13,tiramisu croissant,0.0
+2019-12-14,tiramisu croissant,7.0
+2019-12-15,tiramisu croissant,2.0
+2019-12-16,tiramisu croissant,5.0
+2019-12-17,tiramisu croissant,0.0
+2019-12-18,tiramisu croissant,2.0
+2019-12-19,tiramisu croissant,4.0
+2019-12-20,tiramisu croissant,3.0
+2019-12-21,tiramisu croissant,3.0
+2019-12-22,tiramisu croissant,6.0
+2019-12-23,tiramisu croissant,2.0
+2019-12-24,tiramisu croissant,2.0
+2019-12-25,tiramisu croissant,3.0
+2019-12-26,tiramisu croissant,4.0
+2019-12-27,tiramisu croissant,2.0
+2019-12-28,tiramisu croissant,9.0
+2019-12-29,tiramisu croissant,5.0
+2019-12-30,tiramisu croissant,8.0
+2019-08-01,pain au chocolat,7.0
+2019-08-02,pain au chocolat,1.0
+2019-08-03,pain au chocolat,4.0
+2019-08-04,pain au chocolat,5.0
+2019-08-05,pain au chocolat,6.0
+2019-08-06,pain au chocolat,0.0
+2019-08-07,pain au chocolat,4.0
+2019-08-08,pain au chocolat,3.0
+2019-08-09,pain au chocolat,1.0
+2019-08-10,pain au chocolat,7.0
+2019-08-11,pain au chocolat,9.0
+2019-08-12,pain au chocolat,4.0
+2019-08-13,pain au chocolat,0.0
+2019-08-14,pain au chocolat,4.0
+2019-08-15,pain au chocolat,1.0
+2019-08-16,pain au chocolat,1.0
+2019-08-17,pain au chocolat,4.0
+2019-08-18,pain au chocolat,6.0
+2019-08-19,pain au chocolat,2.0
+2019-08-20,pain au chocolat,0.0
+2019-08-21,pain au chocolat,4.0
+2019-08-22,pain au chocolat,4.0
+2019-08-23,pain au chocolat,2.0
+2019-08-24,pain au chocolat,3.0
+2019-08-25,pain au chocolat,5.0
+2019-08-26,pain au chocolat,1.0
+2019-08-27,pain au chocolat,0.0
+2019-08-28,pain au chocolat,3.0
+2019-08-29,pain au chocolat,2.0
+2019-08-30,pain au chocolat,4.0
+2019-08-31,pain au chocolat,4.0
+2019-09-01,pain au chocolat,7.0
+2019-09-02,pain au chocolat,0.0
+2019-09-03,pain au chocolat,0.0
+2019-09-04,pain au chocolat,6.0
+2019-09-05,pain au chocolat,3.0
+2019-09-06,pain au chocolat,2.0
+2019-09-07,pain au chocolat,0.0
+2019-09-08,pain au chocolat,1.0
+2019-09-09,pain au chocolat,3.0
+2019-09-10,pain au chocolat,0.0
+2019-09-11,pain au chocolat,2.0
+2019-09-12,pain au chocolat,2.0
+2019-09-13,pain au chocolat,0.0
+2019-09-14,pain au chocolat,2.0
+2019-09-15,pain au chocolat,4.0
+2019-09-16,pain au chocolat,0.0
+2019-09-17,pain au chocolat,0.0
+2019-09-18,pain au chocolat,6.0
+2019-09-19,pain au chocolat,3.0
+2019-09-20,pain au chocolat,2.0
+2019-09-21,pain au chocolat,5.0
+2019-09-22,pain au chocolat,8.0
+2019-09-23,pain au chocolat,5.0
+2019-09-24,pain au chocolat,0.0
+2019-09-25,pain au chocolat,3.0
+2019-09-26,pain au chocolat,0.0
+2019-09-27,pain au chocolat,2.0
+2019-09-28,pain au chocolat,5.0
+2019-09-29,pain au chocolat,8.0
+2019-09-30,pain au chocolat,0.0
+2019-10-01,pain au chocolat,0.0
+2019-10-02,pain au chocolat,3.0
+2019-10-03,pain au chocolat,5.0
+2019-10-04,pain au chocolat,1.0
+2019-10-05,pain au chocolat,1.0
+2019-10-06,pain au chocolat,3.0
+2019-10-07,pain au chocolat,0.0
+2019-10-08,pain au chocolat,0.0
+2019-10-09,pain au chocolat,0.0
+2019-10-10,pain au chocolat,1.0
+2019-10-11,pain au chocolat,1.0
+2019-10-12,pain au chocolat,3.0
+2019-10-13,pain au chocolat,1.0
+2019-10-14,pain au chocolat,6.0
+2019-10-15,pain au chocolat,0.0
+2019-10-16,pain au chocolat,6.0
+2019-10-17,pain au chocolat,4.0
+2019-10-18,pain au chocolat,1.0
+2019-10-19,pain au chocolat,6.0
+2019-10-20,pain au chocolat,6.0
+2019-10-21,pain au chocolat,5.0
+2019-10-22,pain au chocolat,0.0
+2019-10-23,pain au chocolat,3.0
+2019-10-24,pain au chocolat,7.0
+2019-10-25,pain au chocolat,2.0
+2019-10-26,pain au chocolat,1.0
+2019-10-27,pain au chocolat,4.0
+2019-10-28,pain au chocolat,5.0
+2019-10-29,pain au chocolat,0.0
+2019-10-30,pain au chocolat,0.0
+2019-10-31,pain au chocolat,5.0
+2019-11-01,pain au chocolat,3.0
+2019-11-02,pain au chocolat,4.0
+2019-11-03,pain au chocolat,5.0
+2019-11-04,pain au chocolat,1.0
+2019-11-05,pain au chocolat,0.0
+2019-11-06,pain au chocolat,2.0
+2019-11-07,pain au chocolat,1.0
+2019-11-08,pain au chocolat,4.0
+2019-11-09,pain au chocolat,4.0
+2019-11-10,pain au chocolat,4.0
+2019-11-11,pain au chocolat,0.0
+2019-11-12,pain au chocolat,0.0
+2019-11-13,pain au chocolat,1.0
+2019-11-14,pain au chocolat,0.0
+2019-11-15,pain au chocolat,3.0
+2019-11-16,pain au chocolat,1.0
+2019-11-17,pain au chocolat,2.0
+2019-11-18,pain au chocolat,2.0
+2019-11-19,pain au chocolat,0.0
+2019-11-20,pain au chocolat,1.0
+2019-11-21,pain au chocolat,0.0
+2019-11-22,pain au chocolat,0.0
+2019-11-23,pain au chocolat,2.0
+2019-11-24,pain au chocolat,1.0
+2019-11-25,pain au chocolat,8.0
+2019-11-26,pain au chocolat,0.0
+2019-11-27,pain au chocolat,4.0
+2019-11-28,pain au chocolat,2.0
+2019-11-29,pain au chocolat,4.0
+2019-11-30,pain au chocolat,3.0
+2019-12-01,pain au chocolat,5.0
+2019-12-02,pain au chocolat,3.0
+2019-12-03,pain au chocolat,0.0
+2019-12-04,pain au chocolat,1.0
+2019-12-05,pain au chocolat,4.0
+2019-12-06,pain au chocolat,2.0
+2019-12-07,pain au chocolat,4.0
+2019-12-08,pain au chocolat,0.0
+2019-12-09,pain au chocolat,1.0
+2019-12-10,pain au chocolat,0.0
+2019-12-11,pain au chocolat,6.0
+2019-12-12,pain au chocolat,2.0
+2019-12-13,pain au chocolat,1.0
+2019-12-14,pain au chocolat,1.0
+2019-12-15,pain au chocolat,1.0
+2019-12-16,pain au chocolat,2.0
+2019-12-17,pain au chocolat,0.0
+2019-12-18,pain au chocolat,4.0
+2019-12-19,pain au chocolat,5.0
+2019-12-20,pain au chocolat,0.0
+2019-12-21,pain au chocolat,5.0
+2019-12-22,pain au chocolat,2.0
+2019-12-23,pain au chocolat,2.0
+2019-12-24,pain au chocolat,0.0
+2019-12-25,pain au chocolat,0.0
+2019-12-26,pain au chocolat,0.0
+2019-12-27,pain au chocolat,2.0
+2019-12-28,pain au chocolat,4.0
+2019-12-29,pain au chocolat,4.0
+2019-12-30,pain au chocolat,6.0
+2019-08-01,almond croissant,0.0
+2019-08-02,almond croissant,0.0
+2019-08-03,almond croissant,3.0
+2019-08-04,almond croissant,1.0
+2019-08-05,almond croissant,2.0
+2019-08-06,almond croissant,0.0
+2019-08-07,almond croissant,0.0
+2019-08-08,almond croissant,0.0
+2019-08-09,almond croissant,0.0
+2019-08-10,almond croissant,2.0
+2019-08-11,almond croissant,2.0
+2019-08-12,almond croissant,2.0
+2019-08-13,almond croissant,0.0
+2019-08-14,almond croissant,4.0
+2019-08-15,almond croissant,0.0
+2019-08-16,almond croissant,1.0
+2019-08-17,almond croissant,1.0
+2019-08-18,almond croissant,4.0
+2019-08-19,almond croissant,3.0
+2019-08-20,almond croissant,0.0
+2019-08-21,almond croissant,2.0
+2019-08-22,almond croissant,1.0
+2019-08-23,almond croissant,1.0
+2019-08-24,almond croissant,2.0
+2019-08-25,almond croissant,1.0
+2019-08-26,almond croissant,1.0
+2019-08-27,almond croissant,0.0
+2019-08-28,almond croissant,1.0
+2019-08-29,almond croissant,3.0
+2019-08-30,almond croissant,1.0
+2019-08-31,almond croissant,0.0
+2019-09-01,almond croissant,2.0
+2019-09-02,almond croissant,4.0
+2019-09-03,almond croissant,0.0
+2019-09-04,almond croissant,0.0
+2019-09-05,almond croissant,0.0
+2019-09-06,almond croissant,2.0
+2019-09-07,almond croissant,3.0
+2019-09-08,almond croissant,1.0
+2019-09-09,almond croissant,0.0
+2019-09-10,almond croissant,0.0
+2019-09-11,almond croissant,0.0
+2019-09-12,almond croissant,1.0
+2019-09-13,almond croissant,0.0
+2019-09-14,almond croissant,1.0
+2019-09-15,almond croissant,1.0
+2019-09-16,almond croissant,0.0
+2019-09-17,almond croissant,0.0
+2019-09-18,almond croissant,0.0
+2019-09-19,almond croissant,2.0
+2019-09-20,almond croissant,0.0
+2019-09-21,almond croissant,2.0
+2019-09-22,almond croissant,3.0
+2019-09-23,almond croissant,0.0
+2019-09-24,almond croissant,0.0
+2019-09-25,almond croissant,2.0
+2019-09-26,almond croissant,0.0
+2019-09-27,almond croissant,0.0
+2019-09-28,almond croissant,0.0
+2019-09-29,almond croissant,1.0
+2019-09-30,almond croissant,0.0
+2019-10-01,almond croissant,0.0
+2019-10-02,almond croissant,0.0
+2019-10-03,almond croissant,2.0
+2019-10-04,almond croissant,0.0
+2019-10-05,almond croissant,2.0
+2019-10-06,almond croissant,0.0
+2019-10-07,almond croissant,0.0
+2019-10-08,almond croissant,0.0
+2019-10-09,almond croissant,0.0
+2019-10-10,almond croissant,0.0
+2019-10-11,almond croissant,2.0
+2019-10-12,almond croissant,0.0
+2019-10-13,almond croissant,3.0
+2019-10-14,almond croissant,2.0
+2019-10-15,almond croissant,0.0
+2019-10-16,almond croissant,2.0
+2019-10-17,almond croissant,2.0
+2019-10-18,almond croissant,1.0
+2019-10-19,almond croissant,2.0
+2019-10-20,almond croissant,0.0
+2019-10-21,almond croissant,2.0
+2019-10-22,almond croissant,0.0
+2019-10-23,almond croissant,1.0
+2019-10-24,almond croissant,0.0
+2019-10-25,almond croissant,1.0
+2019-10-26,almond croissant,0.0
+2019-10-27,almond croissant,0.0
+2019-10-28,almond croissant,2.0
+2019-10-29,almond croissant,0.0
+2019-10-30,almond croissant,0.0
+2019-10-31,almond croissant,2.0
+2019-11-01,almond croissant,0.0
+2019-11-02,almond croissant,0.0
+2019-11-03,almond croissant,0.0
+2019-11-04,almond croissant,0.0
+2019-11-05,almond croissant,0.0
+2019-11-06,almond croissant,4.0
+2019-11-07,almond croissant,0.0
+2019-11-08,almond croissant,1.0
+2019-11-09,almond croissant,1.0
+2019-11-10,almond croissant,1.0
+2019-11-11,almond croissant,0.0
+2019-11-12,almond croissant,0.0
+2019-11-13,almond croissant,1.0
+2019-11-14,almond croissant,0.0
+2019-11-15,almond croissant,0.0
+2019-11-16,almond croissant,0.0
+2019-11-17,almond croissant,0.0
+2019-11-18,almond croissant,0.0
+2019-11-19,almond croissant,0.0
+2019-11-20,almond croissant,0.0
+2019-11-21,almond croissant,0.0
+2019-11-22,almond croissant,0.0
+2019-11-23,almond croissant,0.0
+2019-11-24,almond croissant,2.0
+2019-11-25,almond croissant,2.0
+2019-11-26,almond croissant,0.0
+2019-11-27,almond croissant,0.0
+2019-11-28,almond croissant,0.0
+2019-11-29,almond croissant,2.0
+2019-11-30,almond croissant,1.0
+2019-12-01,almond croissant,0.0
+2019-12-02,almond croissant,0.0
+2019-12-03,almond croissant,0.0
+2019-12-04,almond croissant,3.0
+2019-12-05,almond croissant,0.0
+2019-12-06,almond croissant,1.0
+2019-12-07,almond croissant,1.0
+2019-12-08,almond croissant,5.0
+2019-12-09,almond croissant,0.0
+2019-12-10,almond croissant,0.0
+2019-12-11,almond croissant,2.0
+2019-12-12,almond croissant,0.0
+2019-12-13,almond croissant,0.0
+2019-12-14,almond croissant,0.0
+2019-12-15,almond croissant,1.0
+2019-12-16,almond croissant,0.0
+2019-12-17,almond croissant,0.0
+2019-12-18,almond croissant,0.0
+2019-12-19,almond croissant,0.0
+2019-12-20,almond croissant,2.0
+2019-12-21,almond croissant,1.0
+2019-12-22,almond croissant,0.0
+2019-12-23,almond croissant,1.0
+2019-12-24,almond croissant,0.0
+2019-12-25,almond croissant,0.0
+2019-12-26,almond croissant,0.0
+2019-12-27,almond croissant,0.0
+2019-12-28,almond croissant,2.0
+2019-12-29,almond croissant,1.0
+2019-12-30,almond croissant,2.0
