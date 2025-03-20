@@ -232,3 +232,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation/solution.ipynb)
+
+## Day 48. Natural Language Interfaces to Software with GPT-4o Function Calling
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling/solution.ipynb)
