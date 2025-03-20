@@ -81,8 +81,6 @@ By answering these questions, businesses can **allocate budgets more effectively
 ✅ **Campaign Comparison Dashboard** – Identifies top-performing marketing channels  
 ✅ **Interactive Region-Based Performance Heatmap** – Helps optimize ad targeting  
 
-🚀 **[View Dashboard Here](https://public.tableau.com/app/profile/vatsalparikh/viz/MarketingCampaignAnalysis_17418222690410/Dashboard1)**  
-
 ---
 
 ## 🚧 Challenges & Solutions  
