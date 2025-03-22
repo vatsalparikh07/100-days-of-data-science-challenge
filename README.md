@@ -242,3 +242,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard/superstore-kpis.twbx)
+
+## Day 50. Sentiment Analysis and Prediction of Movie Reviews with ML
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML/solution.ipynb)
