@@ -224,16 +224,16 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2045.%20Exploring%20FIFA%20World%20Cup%20Data%20in%20Power%20BI/solution.pbix)
 
-## Day 46. Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric
+## Day 46. Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric - 03/18/2025
 
 - [Project Description and Solution](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2046.%20Seismic%20Analytics%20Pipeline%3A%20Data%20Engineering%20using%20Microsoft%20Fabric)
 
-## Day 47. Prompt Engineering for Code Generation
+## Day 47. Prompt Engineering for Code Generation - 03/19/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2047.%20Prompt%20Engineering%20for%20Code%20Generation/solution.ipynb)
 
-## Day 48. Natural Language Interfaces to Software with GPT-4o Function Calling
+## Day 48. Natural Language Interfaces to Software with GPT-4o Function Calling - 03/20/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling/solution.ipynb)
