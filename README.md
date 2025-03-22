@@ -237,3 +237,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling/solution.ipynb)
+
+## Day 49. 
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard/superstore-kpis.twbx)
