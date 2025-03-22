@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9bf00188-8148-4cb0-9f3f-8d50ced10d38)# Day 50. 100 Days of Data Science Challenge - 03/22/2025
+# Day 50. 100 Days of Data Science Challenge - 03/22/2025
 # 🎭 Sentiment Analysis & Prediction – Movie Reviews with ML  
 
 ## 🌟 Project Overview  
