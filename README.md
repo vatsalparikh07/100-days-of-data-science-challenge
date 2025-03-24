@@ -248,6 +248,6 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML/solution.ipynb)
 
-## Day 51. 
+## Day 51. Contoso Chat: Retail RAG Copilot with Azure AI Foundry and Prompty
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2051.%20Contoso%20Chat:%20Retail%20RAG%20Copilot%20with%20Azure%20AI%20Foundry%20and%20Prompty)
