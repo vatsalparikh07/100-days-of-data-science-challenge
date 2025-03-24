@@ -41,11 +41,11 @@ For a more comprehensive list of best practices and security recommendations for
 
 _Contoso Outdoor_ is an online retailer specializing in hiking and camping equipment for outdoor enthusiasts. The website offers an extensive catalog of products - resulting in customers needing product information and recommendations to assist them in making relevant purchases.
 
-![Contoso Outdoor](./docs/img/app-scenario-ui.png)
+![Contoso Outdoor](https://github.com/vatsalparikh07/contoso-chat/blob/main//docs/img/app-scenario-ui.png)
 
 This sample implements _Contoso Chat_ - a retail copilot solution for Contoso Outdoor that uses a _retrieval augmented generation_ design pattern to ground chatbot responses in the retailer's product and customer data. Customers can ask questions from the website in natural language, and get relevant responses with potential recommendations based on their purchase history - with responsible AI practices to ensure response quality and safety.
 
-![Contoso Chat](./docs/img/app-scenario-ai.png)
+![Contoso Chat](https://github.com/vatsalparikh07/contoso-chat/blob/main//docs/img/app-scenario-ai.png)
 
 The sample illustrates the end-to-end workflow (GenAIOps) for building a RAG-based copilot **code-first** with Azure AI and Prompty. By exploring and deploying this sample, you will learn to:
 
@@ -74,7 +74,7 @@ It also comes with:
 - Sample datasets and custom evaluators using prompty assets
 
 ### Architecture Diagram 
-![Architecture](./docs/img/arch-contoso-retail-aca.png)
+![Architecture](https://github.com/vatsalparikh07/contoso-chat/blob/main//docs/img/arch-contoso-retail-aca.png)
 
 ## Pre-requisites
 
