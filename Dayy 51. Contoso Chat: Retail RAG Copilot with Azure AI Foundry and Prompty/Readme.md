@@ -23,18 +23,6 @@
 · [Responsible AI Guidelines](#responsible-ai-guidelines)
 
 
-## Important Security Notice 
-
-This template, the application code and configuration it contains, has been built to showcase Microsoft Azure specific services and tools. We strongly advise our customers not to make this code part of their production environments without implementing or enabling additional security features.  
-
-For a more comprehensive list of best practices and security recommendations for Intelligent Applications, visit our [official documentation](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app).
-
-> [!WARNING]  
->
-> **Some of the features used in this repository are in preview.** Preview versions are provided without a service level agreement, and they are not recommended for production workloads. Certain features might not be supported or might have constrained capabilities. For more information, see [Supplemental Terms of Use for Microsoft Azure Previews](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/).
-
-**Sample application code is included in this project**. You can use or modify this app code or you can rip it out and include your own.
-
 ---
 
 ## Overview
