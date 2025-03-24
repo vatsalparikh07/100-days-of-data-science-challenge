@@ -238,17 +238,23 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2048.%20Natural%20Language%20Interfaces%20to%20Software%20with%20GPT-4o%20Function%20Calling/solution.ipynb)
 
-## Day 49. Business Reporting in Tableau with Superstore KPIs Dashboard
-
+## Day 49. Business Reporting in Tableau with Superstore KPIs Dashboard - 03/21/2025
+ 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2049.%20Business%20Reporting%20in%20Tableau%20with%20Superstore%20KPIs%20Dashboard/superstore-kpis.twbx)
 
-## Day 50. Sentiment Analysis and Prediction of Movie Reviews with ML
+## Day 50. Sentiment Analysis and Prediction of Movie Reviews with ML - 03/22/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2050.%20Sentiment%20Analysis%20and%20Prediction%20of%20Movie%20Reviews%20with%20ML/solution.ipynb)
 
-## Day 51. Contoso Chat: Retail RAG Copilot with Azure AI Foundry and Prompty
+## Day 51. Contoso Chat: Retail RAG Copilot with Azure AI Foundry and Prompty - 03/23/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2051.%20Contoso%20Chat:%20Retail%20RAG%20Copilot%20with%20Azure%20AI%20Foundry%20and%20Prompty)
 - [Solution Folder](https://github.com/vatsalparikh07/contoso-chat)
+
+## Day 52. Contoso Sales Report Dashboard in Tableau - 03/24/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2052.%20Contoso%20Sales%20Report%20Dashboard%20in%20Tableau)
+- [Solution File](https://public.tableau.com/app/profile/vatsalparikh/viz/ContosoBI-RetailDashboard/ContosoSalesReportoverview3)
+
