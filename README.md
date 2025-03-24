@@ -251,3 +251,4 @@
 ## Day 51. Contoso Chat: Retail RAG Copilot with Azure AI Foundry and Prompty
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2051.%20Contoso%20Chat:%20Retail%20RAG%20Copilot%20with%20Azure%20AI%20Foundry%20and%20Prompty)
+- [Solution Folder](https://github.com/vatsalparikh07/contoso-chat)
