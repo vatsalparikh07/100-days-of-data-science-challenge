@@ -3,7 +3,6 @@
 # 📊 Contoso Sales Report Dashboard: Empowering Retail Analytics  
 
 **Project Status**: ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)  
-**Last Updated**: March 24, 2025  
 **Tableau Public Link**: [Explore the Interactive Dashboard ↗](https://public.tableau.com/app/profile/vatsalparikh/viz/ContosoBI-RetailDashboard/ContosoSalesReportoverview3)  
 ---
 
