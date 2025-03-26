@@ -258,3 +258,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2052.%20Contoso%20Sales%20Report%20Dashboard%20in%20Tableau)
 - [Solution File](https://public.tableau.com/app/profile/vatsalparikh/viz/ContosoBI-RetailDashboard/ContosoSalesReportoverview3)
 
+## Day 53. Local AI-Powered PDF Query System with DeepSeek R1, Ollama and RAG - 03/25/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2053.%20Local%20AI-Powered%20PDF%20Query%20System%20with%20DeepSeek%20R1%2C%20Ollama%20and%20RAG)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2053.%20Local%20AI-Powered%20PDF%20Query%20System%20with%20DeepSeek%20R1%2C%20Ollama%20and%20RAG/solution.ipynb)
