@@ -1,7 +1,6 @@
 # Day 53. 100 Days of Data Science Challenge - 03/25/2025
 
 # DeepSeek-R1 RAG Chatbot: Local PDF Query Assistant
----
 
 ## Overview
 
