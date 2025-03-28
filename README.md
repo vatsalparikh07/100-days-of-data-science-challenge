@@ -271,3 +271,4 @@
 ## Day 55. Introduction to DuckDB SQL - 03/27/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2055.%20Introduction%20to%20DuckDB%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2055.%20Introduction%20to%20DuckDB%20SQL/solution.ipynb)
