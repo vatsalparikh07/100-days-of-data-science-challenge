@@ -273,7 +273,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2055.%20Introduction%20to%20DuckDB%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2055.%20Introduction%20to%20DuckDB%20SQL/solution.ipynb)
 
-## Day 56. 
+## Day 56. Building Financial Data Applications with ChatGPT O1-preview - 03/28/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2056.%20Building%20Financial%20Data%20Applications%20with%20ChatGPT%20O1-preview)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2056.%20Building%20Financial%20Data%20Applications%20with%20ChatGPT%20O1-preview/solution.ipynb)
