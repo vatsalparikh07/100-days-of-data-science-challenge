@@ -277,3 +277,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2056.%20Building%20Financial%20Data%20Applications%20with%20ChatGPT%20O1-preview)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2056.%20Building%20Financial%20Data%20Applications%20with%20ChatGPT%20O1-preview/solution.ipynb)
+
+## Day 57. Carbon Footprint Forecaster - Decoding Lifestyle Impact on Emissions - 03/29/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2057.%20Carbon%20Footprint%20Forecaster%20-%20Decoding%20Lifestyle%20Impact%20on%20Emissions)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2057.%20Carbon%20Footprint%20Forecaster%20-%20Decoding%20Lifestyle%20Impact%20on%20Emissions/solution.ipynb)
