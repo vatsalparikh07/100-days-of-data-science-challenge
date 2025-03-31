@@ -282,3 +282,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2057.%20Carbon%20Footprint%20Forecaster%20-%20Decoding%20Lifestyle%20Impact%20on%20Emissions)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2057.%20Carbon%20Footprint%20Forecaster%20-%20Decoding%20Lifestyle%20Impact%20on%20Emissions/solution.ipynb)
+
+## Day 58. Loan Approval Predictor - Logistic Regression for Credit Risk Analysis - 03/30/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2058.%20Loan%20Approval%20Predictor%3A%20Logistic%20Regression%20for%20Credit%20Risk%20Analysis)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2058.%20Loan%20Approval%20Predictor%3A%20Logistic%20Regression%20for%20Credit%20Risk%20Analysis/solution.ipynb)
