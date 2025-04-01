@@ -56,6 +56,10 @@ A word cloud generated from the cleaned dataset highlights the most frequently d
 
 ## Network Visualizations
 
+### Semantic Tree 
+
+![Semantic Tree](https://github.com/user-attachments/assets/9adaad1c-c20b-4819-aa85-4f0b54cd8c60)
+
 ### Semantic Tree (Word Pair Count >10)
 
 ![Semantic Tree](https://pplx-res.cloudinary.com/image/upload/v1743525844/user_uploads/RdjbdaHnhodACgk/Semantic-Tree-WP-10.jpg)
