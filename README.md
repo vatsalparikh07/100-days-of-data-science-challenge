@@ -287,3 +287,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2058.%20Loan%20Approval%20Predictor%3A%20Logistic%20Regression%20for%20Credit%20Risk%20Analysis)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2058.%20Loan%20Approval%20Predictor%3A%20Logistic%20Regression%20for%20Credit%20Risk%20Analysis/solution.ipynb)
+
+## Day 59. Agentic AI System for Enhanced Contract and Supply Chain Management for International Shipping - 03/31/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2059.%20Agentic%20AI%20System%20for%20Enhanced%20Contract%20and%20Supply%20Chain%20Management%20for%20International%20Shipping)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2059.%20Agentic%20AI%20System%20for%20Enhanced%20Contract%20and%20Supply%20Chain%20Management%20for%20International%20Shipping/solution.ipynb)
