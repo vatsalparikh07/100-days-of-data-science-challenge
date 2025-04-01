@@ -292,3 +292,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2059.%20Agentic%20AI%20System%20for%20Enhanced%20Contract%20and%20Supply%20Chain%20Management%20for%20International%20Shipping)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2059.%20Agentic%20AI%20System%20for%20Enhanced%20Contract%20and%20Supply%20Chain%20Management%20for%20International%20Shipping/solution.ipynb)
+
+## Day 60. YouTube Gaming Discourse Analysis : Black Myth Wukong - 04/01/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2060.%20YouTube%20Gaming%20Discourse%20Analysis%3A%20Black%20Myth%20Wukong)
+- [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2060.%20YouTube%20Gaming%20Discourse%20Analysis%3A%20Black%20Myth%20Wukong/solution.docx)
