@@ -297,3 +297,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2060.%20YouTube%20Gaming%20Discourse%20Analysis%3A%20Black%20Myth%20Wukong)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2060.%20YouTube%20Gaming%20Discourse%20Analysis%3A%20Black%20Myth%20Wukong/solution.docx)
+
+## Day 61. Exploratory Data Analysis (EDA) on Agricultural Raw Material Prices - 04/02/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2061.%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Agricultural%20Raw%20Material%20Prices)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2061.%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Agricultural%20Raw%20Material%20Prices/solution.ipynb)
