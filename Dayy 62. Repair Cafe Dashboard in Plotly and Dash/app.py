@@ -30,24 +30,16 @@ max_fixed = df['repair_status'].value_counts(normalize=True).max()
 
 
 # Create app object=============================================================================
-app = Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB, "/assets/styles.css"])
+app = Dash(__name__, external_stylesheets=[dbc.themes.SPACELAB, "/data/styles.css"])
 
 server = app.server
 
 # ===================Create components==========================================================
 # Create header with link to Figure Friday challenge
 header = html.Div([
-    html.Img(src='assets/repairing-tools.png', style={'width': '48px', 'margin-left': '10px'}),
+    html.Img(src='data/repairing-tools.png', style={'width': '48px', 'margin-left': '10px'}),
     html.H2('Repair Cafe International Dashboard', 
              style={'textAlign': 'center', 'color': 'white',  'padding': 15, 'margin-bottom': 0}),
-    html.A(
-        html.Img(src='assets/plotly_logo_dark.png', 
-                 id='image-link',
-                 style={'cursor': 'pointer', 'height': '48px'}),
-        href='https://community.plotly.com/t/figure-friday-2024-week-43/88243', 
-        target='_blank' ,
-        style={'display': 'flex', 'justify-content': 'end'}), 
-
     dbc.Tooltip("Click to view Challenge Figure Friday 2024 - week 43",
                  target="image-link", 
                  placement="top" , 
@@ -234,10 +226,7 @@ app.layout = dbc.Container([
 
     dbc.Row([
         dbc.Col([
-            html.H6("Created with 🤍 by Natalia", style={'margin':'10px'}),
-            html.A(html.Img(src='assets/github_blue.png', style={'height': '32px'}), 
-                href="https://github.com/natatsypora/figure-friday-week43-dash-app",
-                target="_blank")                      
+            html.H6("Created with 🤍 by Vatsal", style={'margin':'10px'}),              
             ], width=12, style={'background-color': 'white', 'padding': '20px',  'display': 'flex', 'justify-content': 'center',}),  
         ])
 ],     
