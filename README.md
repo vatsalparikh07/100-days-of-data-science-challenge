@@ -302,3 +302,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2061.%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Agricultural%20Raw%20Material%20Prices)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2061.%20Exploratory%20Data%20Analysis%20(EDA)%20on%20Agricultural%20Raw%20Material%20Prices/solution.ipynb)
+
+## Day 62. Repair Cafe Dashboard in Plotly and Dash - 04/03/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2062.%20Repair%20Cafe%20Dashboard%20in%20Plotly%20and%20Dash)
+- [Dashboard Link](https://repair-cafe-dashboard.onrender.com/)
