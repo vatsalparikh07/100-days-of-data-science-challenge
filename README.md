@@ -307,3 +307,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2062.%20Repair%20Cafe%20Dashboard%20in%20Plotly%20and%20Dash)
 - [Dashboard Link](https://repair-cafe-dashboard.onrender.com/)
+
+## Day 63. Using Joins to Analyse Book Sales in SQL - 04/04/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2063.%20Using%20Joins%20to%20Analyze%20Book%20Sales%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2063.%20Using%20Joins%20to%20Analyze%20Book%20Sales%20in%20SQL/solution.ipynb)
