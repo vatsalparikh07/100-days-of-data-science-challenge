@@ -4,7 +4,7 @@
 
 An interactive dashboard built with Plotly and Dash to analyze repair data from global Repair Café events. The dashboard provides insights into repair success rates, commonly repaired products, and repair outcomes across various categories. 
 
-[**Visit the live dashboard here**](https://repair-cafe-dashboard.onrender.com/)
+[**Visit the live dashboard here**](https://repair-cafe-dashboard.onrender.com/) (Please allow upto 1 min. for the app to render as I'm using a free tier deployment service🥹)
 
 ---
 
