@@ -385,7 +385,7 @@ NAVBAR = dbc.Navbar(
                 [
                     dbc.Col(html.Img(src=PLOTLY_LOGO, height="30px")),
                     dbc.Col(
-                        dbc.NavbarBrand("Bank Customer Complaints", className="ml-2")
+                        dbc.NavbarBrand("Bank Customer Complaints Dashboard by Vatsal Parikh", className="ml-2")
                     ),
                 ],
                 align="center",
