@@ -1,1 +1,29 @@
+/* custom-styles.css */
+.ag-header-cell {
+    font-size: 16px !important;  /* Set font size for header cells */
+    font-weight: 400;}
+
+.ag-cell {
+    font-size: 14px !important;  /* Set font size for normal cells */
+}
+
+/* Set background color for AG Grid headers */
+.ag-header-cell {
+    background-color: #446E9B !important;
+    color: white;  /* Set text color to white for better contrast */
+}
+
+/* Set color for filter icons */ 
+.ag-header-cell .ag-icon { 
+    color: white !important; /* Set icon color to white */
+}
+
+/* Custom styles for tooltip with link */
+.custom-tooltip .tooltip-inner {
+    background-color: #456F9C !important;  /* Desired background color */
+    color: white !important;  /* Text color for contrast */
+    font-size: 14px !important;  /* Font size */
+    max-width: 220px !important;  /* Set a max-width for text wrapping */
+    word-wrap: break-word !important;  /* Enable word wrapping */
+}
 
