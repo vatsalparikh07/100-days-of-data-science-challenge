@@ -312,3 +312,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2063.%20Using%20Joins%20to%20Analyze%20Book%20Sales%20in%20SQL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2063.%20Using%20Joins%20to%20Analyze%20Book%20Sales%20in%20SQL/solution.ipynb)
+
+## Day 64. Fast Food Chains: Mapping Geographic Hotspots and Assessing Their Nutritional Impact on Public Health - 04/05/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2064.%20Fast%20Food%20Chains:%20Mapping%20Geographic%20Hotspots%20and%20Assessing%20Their%20Nutritional%20Impact)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2064.%20Fast%20Food%20Chains:%20Mapping%20Geographic%20Hotspots%20and%20Assessing%20Their%20Nutritional%20Impact/solution.ipynb)
