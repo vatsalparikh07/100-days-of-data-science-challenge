@@ -79,8 +79,8 @@ We’ve used powerful visualizations to illuminate how a $142.55 billion industr
 > - Urban areas house 65% of all restaurants  
 > - Restaurant density correlates (r=0.78) with state obesity rates  
 
-![Scatter Sodium](https://i.imgur.com/NY50Fg0.png)  
-*Calories vs Sodium: The red line marks the daily limit (2000mg).*
+![image](https://github.com/user-attachments/assets/9ef2cfb5-3e38-482a-96d4-2d3c6424fcbc)
+*Calories vs Sugar: The red line marks the daily limit (25g).*
 
 ---
 
