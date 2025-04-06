@@ -317,3 +317,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2064.%20Fast%20Food%20Chains:%20Mapping%20Geographic%20Hotspots%20and%20Assessing%20Their%20Nutritional%20Impact)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2064.%20Fast%20Food%20Chains:%20Mapping%20Geographic%20Hotspots%20and%20Assessing%20Their%20Nutritional%20Impact/solution.ipynb)
+
+## Day 65. Machine Learning in Production with Python - 04/06/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2065.%20Machine%20Learning%20in%20Production%20with%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2065.%20Machine%20Learning%20in%20Production%20with%20Python/solution.ipynb)
