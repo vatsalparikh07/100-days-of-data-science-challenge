@@ -327,3 +327,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2066.%20Getting%20Started%20with%20Data%20Pipelines%20for%20ETL)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2066.%20Getting%20Started%20with%20Data%20Pipelines%20for%20ETL/solution.ipynb)
+
+## Day 67. Getting Started with Java for Data - 04/08/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2067.%20Getting%20Started%20with%20Java%20for%20Data)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2067.%20Getting%20Started%20with%20Java%20for%20Data/src/main/java/org/example/Main.java)
