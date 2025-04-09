@@ -4,7 +4,7 @@
 
 ![image](https://github.com/user-attachments/assets/e7d8dc4c-49dd-4536-8952-1c8058c2888d)
 
-Ever argue about which PlayStation was *really* the best? Or wonder why certain games blew up in Japan but not the US? 🤔 Me too! That's why I created this interactive Tableau dashboard. We're digging into the **massive Video Game Sales dataset** [1] (think **13,000+ PlayStation titles!**) to visually explore the rise and evolution of Sony's iconic consoles from the OG PlayStation all the way through the PS4 era (plus a nod to the PSP).
+Ever argue about which PlayStation was *really* the best? Or wonder why certain games blew up in Japan but not the US? 🤔 Me too! That's why I created this interactive Tableau dashboard. We're digging into the **massive Video Game Sales dataset** (think **13,000+ PlayStation titles!**) to visually explore the rise and evolution of Sony's iconic consoles from the OG PlayStation all the way through the PS4 era (plus a nod to the PSP).
 
 This isn't just charts and numbers; it's a time machine for gaming history, showing how sales ebbed and flowed, which genres ruled the roost, and who the biggest players were on the publishing scene.
 
@@ -45,7 +45,7 @@ No wizards here, just data and smart tools:
 
 *   **The Brain:** **Tableau Public** is where all the visualization magic happens. It lets you slice, dice, and interact with the data visually.
 *   **The Raw Material:** The project uses the public "Video Game Sales" dataset (`vgsales.csv` attached) [1]. It's a treasure trove of gaming history (though mostly physical sales, keep that in mind!).
-*   **The Prep Work (Likely Python/Pandas):** Before Tableau could shine, the raw CSV needed some TLC. This meant:
+*   **The Prep Work (Python, Pandas):** Before Tableau could shine, the raw CSV needed some TLC. This meant:
     *   **Filtering:** Isolating just the PlayStation platforms (PS, PS2, PS3, PS4, PSP).
     *   **Cleaning:** Tidying up messy Publisher names and making sure Genres were consistent.
     *   **Calculating:** Adding things like Global Sales totals if they weren't perfect.
