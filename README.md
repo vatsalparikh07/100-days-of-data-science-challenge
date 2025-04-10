@@ -333,7 +333,13 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2067.%20Getting%20Started%20with%20Java%20for%20Data)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2067.%20Getting%20Started%20with%20Java%20for%20Data/src/main/java/org/example/Main.java)
 
-  ## Day 68. PlayStation Market Analysis & Performance Dashboard in Tableau - 04/09/2025
+## Day 68. PlayStation Market Analysis & Performance Dashboard in Tableau - 04/09/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2068.%20PlayStation%20Market%20Analysis%20%26%20Performance%20Dashboard%20in%20Tableau)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2068.%20PlayStation%20Market%20Analysis%20%26%20Performance%20Dashboard%20in%20Tableau/playstation-dashboard.twbx)
+
+## Day 69. Analysing Google Sheets Data in Python - 04/10/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2069.%20Analyzing%20Google%20Sheets%20Data%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2069.%20Analyzing%20Google%20Sheets%20Data%20in%20Python/solution.ipynb)
+
