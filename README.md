@@ -343,7 +343,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2069.%20Analyzing%20Google%20Sheets%20Data%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2069.%20Analyzing%20Google%20Sheets%20Data%20in%20Python/solution.ipynb)
 
-## Day 70. Visualizing Cost Savings from Early Cancer Diagnosis in Tableau - 04/11/2025
+## Day 70. Visualizing Cost Savings for Early Cancer Diagnosis in Tableau - 04/11/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2070.%20Visualizing%20Cost%20Savings%20from%20Early%20Cancer%20Diagnosis%20in%20Tableau)
-- [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2070.%20Visualizing%20Cost%20Savings%20from%20Early%20Cancer%20Diagnosis%20in%20Tableau/cancer-cost-diagnosis-dashboard.twbx)
+- [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2070.%20Visualizing%20Cost%20Savings%20from%20Early%20Cancer%20Diagnosis%20in%20Tableau/cancer-cost-diagnosis-dashboard.twb)
