@@ -1,0 +1,1565 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20243.25.0208.0338                               -->
+<workbook original-version='18.1' source-build='2024.3.4 (20243.25.0208.0338)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AccessibleZoneTabOrder />
+    <AnimationOnByDefault />
+    <AutoCreateAndUpdateDSDPhoneLayouts />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SetMembershipControl />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <repository-location id='Book1_17444118174420' path='/workbooks' revision='1.0' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='Cancer Diagnoses California 2004-2012' inline='true' name='federated.10arbt002o89jo149xs1r0exliep' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Cancer Diagnoses California 2004-2012' name='excel-direct.15lqfg60bfxgq71fihbwg1wict2g'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='E:/100-days-of-data-science-challenge/Day 70/Cancer Diagnoses California 2004-2012.xlsx' interpretationMode='0' password='' server='' validate='no' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.15lqfg60bfxgq71fihbwg1wict2g' name='Cancer Diagnoses California 200' table='[&apos;Cancer Diagnoses California 200$&apos;]' type='table'>
+          <columns gridOrigin='A1:F6:no:A1:F6:0' header='yes' outcome='2'>
+            <column datatype='string' name='Stage Name' ordinal='0' />
+            <column datatype='integer' name='Breast' ordinal='1' />
+            <column datatype='integer' name='Colon' ordinal='2' />
+            <column datatype='integer' name='Rectum' ordinal='3' />
+            <column datatype='integer' name='Lung' ordinal='4' />
+            <column datatype='integer' name='Prostate' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:F6:no:A1:F6:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Stage Name</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Stage Name]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Stage Name</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Breast</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Breast]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Breast</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Colon</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Colon]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Colon</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Rectum</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Rectum]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Rectum</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Lung</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Lung]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Lung</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Prostate</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Prostate]</local-name>
+            <parent-name>[Cancer Diagnoses California 200]</parent-name>
+            <remote-alias>Prostate</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='integer' name='[Breast]' role='measure' type='quantitative' />
+      <column caption='Total Cases' datatype='integer' name='[Calculation_1356427979752620032]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='[Breast]+ [Colon]+[Lung]+[Prostate]+[Rectum]' />
+      </column>
+      <column datatype='integer' name='[Colon]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Lung]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Prostate]' role='measure' type='quantitative' />
+      <column datatype='integer' name='[Rectum]' role='measure' type='quantitative' />
+      <column datatype='string' name='[Stage Name]' role='dimension' type='nominal' />
+      <column caption='Cancer Diagnoses California 200' datatype='table' name='[__tableau_internal_object_id__].[Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C]' role='measure' type='quantitative' />
+      <column-instance column='[Stage Name]' derivation='None' name='[none:Stage Name:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Breast]' derivation='Sum' name='[sum:Breast:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Colon]' derivation='Sum' name='[sum:Colon:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Lung]' derivation='Sum' name='[sum:Lung:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Prostate]' derivation='Sum' name='[sum:Prostate:qk]' pivot='key' type='quantitative' />
+      <column-instance column='[Rectum]' derivation='Sum' name='[sum:Rectum:qk]' pivot='key' type='quantitative' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/VATSAL~1/AppData/Local/Temp/TableauTemp/#TableauTemp_04w2gjc1wf7g1q194mwaq0u0eare.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='04/11/2025 10:17:58 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Stage Name</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Stage Name]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Stage Name</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RIN_S2' />
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Breast</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Breast]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Breast</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Colon</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Colon]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Colon</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Rectum</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Rectum]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Rectum</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Lung</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Lung]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Lung</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Prostate</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Prostate]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Prostate</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Cancer Diagnoses California 200</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout common-percentage='1' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' user-set-layout-v2='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[:Measure Names]' type='palette'>
+            <map to='#4e79a7'>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Rectum:qk]&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Breast:qk]&quot;</bucket>
+            </map>
+            <map to='#76b7b2'>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Prostate:qk]&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Lung:qk]&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Colon:qk]&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Stage Name:nk]' palette='red_gold_10_0' type='palette'>
+            <map to='#b71d3e'>
+              <bucket>&quot;IV&quot;</bucket>
+            </map>
+            <map to='#de5747'>
+              <bucket>&quot;III&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;?&quot;</bucket>
+            </map>
+            <map to='#f4d166'>
+              <bucket>&quot;0&quot;</bucket>
+            </map>
+            <map to='#fa8f4d'>
+              <bucket>&quot;I/II&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <object-graph>
+        <objects>
+          <object caption='Cancer Diagnoses California 200' id='Cancer Diagnoses California 200_99D8E78CF3614B8A9B7888900839298C'>
+            <properties context=''>
+              <relation connection='excel-direct.15lqfg60bfxgq71fihbwg1wict2g' name='Cancer Diagnoses California 200' table='[&apos;Cancer Diagnoses California 200$&apos;]' type='table'>
+                <columns gridOrigin='A1:F6:no:A1:F6:0' header='yes' outcome='2'>
+                  <column datatype='string' name='Stage Name' ordinal='0' />
+                  <column datatype='integer' name='Breast' ordinal='1' />
+                  <column datatype='integer' name='Colon' ordinal='2' />
+                  <column datatype='integer' name='Rectum' ordinal='3' />
+                  <column datatype='integer' name='Lung' ordinal='4' />
+                  <column datatype='integer' name='Prostate' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+    <datasource caption='Breast Cancer Cost by Stage' inline='true' name='federated.1ofhbj21ilye0x1cm6wbh1xchi32' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Breast Cancer Cost by_ Stage' name='excel-direct.1o1i8yx1l2re3j11wez2z05hpypz'>
+            <connection class='excel-direct' cleaning='no' compat='no' dataRefreshTime='' filename='E:/100-days-of-data-science-challenge/Day 70/Breast Cancer Cost by_ Stage.xlsx' interpretationMode='0' password='' server='' validate='no' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='excel-direct.1o1i8yx1l2re3j11wez2z05hpypz' name='Breast Cancer Cost by Stage' table='[&apos;Breast Cancer Cost by Stage$&apos;]' type='table'>
+          <columns gridOrigin='A1:C5:no:A1:C5:0' header='yes' outcome='2'>
+            <column datatype='string' name='Disease stage' ordinal='0' />
+            <column datatype='integer' name='0–12 months postdiagnosis ($ cost)' ordinal='1' />
+            <column datatype='integer' name='12–24 months postdiagnosis ($ cost)' ordinal='2' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Breast Cancer Cost by Stage]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='integer' name='context'>0</attribute>
+              <attribute datatype='string' name='gridOrigin'>&quot;A1:C5:no:A1:C5:0&quot;</attribute>
+              <attribute datatype='boolean' name='header'>true</attribute>
+              <attribute datatype='integer' name='outcome'>2</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Disease stage</remote-name>
+            <remote-type>130</remote-type>
+            <local-name>[Disease stage]</local-name>
+            <parent-name>[Breast Cancer Cost by Stage]</parent-name>
+            <remote-alias>Disease stage</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <collation flag='1' name='LEN_RIN_S2' />
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;WSTR&quot;</attribute>
+            </attributes>
+            <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>0–12 months postdiagnosis ($ cost)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[0–12 months postdiagnosis ($ cost)]</local-name>
+            <parent-name>[Breast Cancer Cost by Stage]</parent-name>
+            <remote-alias>0–12 months postdiagnosis ($ cost)</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>12–24 months postdiagnosis ($ cost)</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[12–24 months postdiagnosis ($ cost)]</local-name>
+            <parent-name>[Breast Cancer Cost by Stage]</parent-name>
+            <remote-alias>12–24 months postdiagnosis ($ cost)</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='DebugRemoteType'>&quot;I8&quot;</attribute>
+            </attributes>
+            <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='0–12 Months Postdiagnosis ($ Cost)' datatype='integer' name='[0–12 months postdiagnosis ($ cost)]' role='measure' type='quantitative' />
+      <column caption='12–24 Months Postdiagnosis ($ Cost)' datatype='integer' name='[12–24 months postdiagnosis ($ cost)]' role='measure' type='quantitative' />
+      <column caption='Total Cost for CA (0-12 Months)' datatype='integer' name='[Calculation_1356427979770286081]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='SUM([federated.10arbt002o89jo149xs1r0exliep].[Breast]) * SUM([0–12 months postdiagnosis ($ cost)])' />
+      </column>
+      <column datatype='string' name='[Disease stage]' role='dimension' type='nominal' />
+      <column caption='Breast Cancer Cost by Stage' datatype='table' name='[__tableau_internal_object_id__].[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]' role='measure' type='quantitative' />
+      <column-instance column='[Disease stage]' derivation='None' name='[none:Disease stage:nk]' pivot='key' type='nominal' />
+      <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='C:/Users/VATSAL~1/AppData/Local/Temp/TableauTemp/#TableauTemp_10a0iks1jb3100159mkey0xd2chq.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='04/11/2025 10:18:21 PM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Disease stage</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Disease stage]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Disease stage</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Breast Cancer Cost by Stage</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='1' name='LEN_RIN_S2' />
+              <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>0–12 months postdiagnosis ($ cost)</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[0–12 months postdiagnosis ($ cost)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>0–12 months postdiagnosis ($ cost)</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Breast Cancer Cost by Stage</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>12–24 months postdiagnosis ($ cost)</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[12–24 months postdiagnosis ($ cost)]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>12–24 months postdiagnosis ($ cost)</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Breast Cancer Cost by Stage</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>4</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Disease stage:nk]' palette='purple_pink_gray_10_0' type='palette'>
+            <map to='#8074a8'>
+              <bucket>&quot;0&quot;</bucket>
+            </map>
+            <map to='#c46487'>
+              <bucket>&quot;III&quot;</bucket>
+            </map>
+            <map to='#c6c1f0'>
+              <bucket>&quot;I/II&quot;</bucket>
+            </map>
+            <map to='#ffbed1'>
+              <bucket>&quot;IV&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;United States&quot;' />
+      </semantic-values>
+      <datasource-dependencies datasource='federated.10arbt002o89jo149xs1r0exliep'>
+        <column datatype='integer' name='[Breast]' role='measure' type='quantitative' />
+      </datasource-dependencies>
+      <object-graph>
+        <objects>
+          <object caption='Breast Cancer Cost by Stage' id='Breast Cancer Cost by Stage_4B376D3D6DD1435FA56265CDBD471C5E'>
+            <properties context=''>
+              <relation connection='excel-direct.1o1i8yx1l2re3j11wez2z05hpypz' name='Breast Cancer Cost by Stage' table='[&apos;Breast Cancer Cost by Stage$&apos;]' type='table'>
+                <columns gridOrigin='A1:C5:no:A1:C5:0' header='yes' outcome='2'>
+                  <column datatype='string' name='Disease stage' ordinal='0' />
+                  <column datatype='integer' name='0–12 months postdiagnosis ($ cost)' ordinal='1' />
+                  <column datatype='integer' name='12–24 months postdiagnosis ($ cost)' ordinal='2' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <datasource-relationships>
+    <datasource-dependencies datasource='federated.10arbt002o89jo149xs1r0exliep'>
+      <column datatype='string' name='[Stage Name]' role='dimension' type='nominal' />
+      <column-instance column='[Stage Name]' derivation='None' name='[none:Stage Name:nk]' pivot='key' type='nominal' />
+    </datasource-dependencies>
+    <datasource-dependencies datasource='federated.1ofhbj21ilye0x1cm6wbh1xchi32'>
+      <column datatype='string' name='[Disease stage]' role='dimension' type='nominal' />
+      <column-instance column='[Disease stage]' derivation='None' name='[none:Disease stage:nk]' pivot='key' type='nominal' />
+    </datasource-dependencies>
+    <datasource-relationship source='federated.1ofhbj21ilye0x1cm6wbh1xchi32' target='federated.10arbt002o89jo149xs1r0exliep'>
+      <column-mapping>
+        <map key='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' value='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' />
+      </column-mapping>
+    </datasource-relationship>
+  </datasource-relationships>
+  <actions>
+    <action caption='Highlight 1 (generated)' name='[Action1_4AB889A72D164FC5B0CE760AB259825E]'>
+      <activation auto-clear='true' type='on-select' />
+      <source dashboard='Dashboard 1' type='sheet' />
+      <command command='tsc:brush'>
+        <param name='field-captions' value='Disease stage' />
+        <param name='target' value='Dashboard 1' />
+      </command>
+    </action>
+  </actions>
+  <worksheets>
+    <worksheet name='Breast Cancer Costs'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='12'>What is the cost of breast cancer treatment depending on stage?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Breast Cancer Cost by Stage' name='federated.1ofhbj21ilye0x1cm6wbh1xchi32' />
+          </datasources>
+          <datasource-dependencies datasource='federated.1ofhbj21ilye0x1cm6wbh1xchi32'>
+            <column caption='0–12 Months Postdiagnosis ($ Cost)' datatype='integer' name='[0–12 months postdiagnosis ($ cost)]' role='measure' type='quantitative' />
+            <column caption='12–24 Months Postdiagnosis ($ Cost)' datatype='integer' name='[12–24 months postdiagnosis ($ cost)]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Disease stage]' role='dimension' type='nominal' />
+            <column-instance column='[Disease stage]' derivation='None' name='[none:Disease stage:nk]' pivot='key' type='nominal' />
+            <column-instance column='[0–12 months postdiagnosis ($ cost)]' derivation='Sum' name='[sum:0–12 months postdiagnosis ($ cost):qk]' pivot='key' type='quantitative' />
+            <column-instance column='[12–24 months postdiagnosis ($ cost)]' derivation='Sum' name='[sum:12–24 months postdiagnosis ($ cost):qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[sum:0–12 months postdiagnosis ($ cost):qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[sum:12–24 months postdiagnosis ($ cost):qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[:Measure Names]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[Multiple Values]' scope='rows' value='Total Cost' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='height' field='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[:Measure Names]' value='41' />
+          </style-rule>
+          <style-rule element='legend-title-text'>
+            <format attr='color' field='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' value='Disease stage'>
+              <formatted-text>
+                <run>Disease stage</run>
+              </formatted-text>
+            </format>
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[Multiple Values]</rows>
+        <cols>([federated.1ofhbj21ilye0x1cm6wbh1xchi32].[:Measure Names] / [federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk])</cols>
+      </table>
+      <simple-id uuid='{EFBC7959-68A7-4095-8173-CFB9BAEF3CFB}' />
+    </worksheet>
+    <worksheet name='Cancer Prevalence'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='12'>What types of cancer are most prevalent?</run>
+            <run>Æ&#10;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Cancer Diagnoses California 2004-2012' name='federated.10arbt002o89jo149xs1r0exliep' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10arbt002o89jo149xs1r0exliep'>
+            <column datatype='integer' name='[Breast]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Colon]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Lung]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Prostate]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Rectum]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Stage Name]' role='dimension' type='nominal' />
+            <column-instance column='[Stage Name]' derivation='None' name='[none:Stage Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Breast]' derivation='Sum' name='[sum:Breast:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Colon]' derivation='Sum' name='[sum:Colon:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Lung]' derivation='Sum' name='[sum:Lung:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Prostate]' derivation='Sum' name='[sum:Prostate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Rectum]' derivation='Sum' name='[sum:Rectum:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Breast:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Colon:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Lung:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Prostate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Rectum:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Rectum:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Colon:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Lung:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Prostate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Breast:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Stage Name:nk]' />
+              <groupfilter function='member' level='[none:Stage Name:nk]' member='&quot;?&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]</column>
+            <column>[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.10arbt002o89jo149xs1r0exliep].[Multiple Values]' scope='rows' value='Total Cases' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' />
+              <text column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>Stage &lt;</run>
+                <run>[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.10arbt002o89jo149xs1r0exliep].[Multiple Values]</rows>
+        <cols>[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]</cols>
+      </table>
+      <simple-id uuid='{E10117EE-96E2-428E-8DFA-F6C0E8AA5A35}' />
+    </worksheet>
+    <worksheet name='Cancer Stage Diagnoses'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='12'>What stage do most diagnoses happen?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Cancer Diagnoses California 2004-2012' name='federated.10arbt002o89jo149xs1r0exliep' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10arbt002o89jo149xs1r0exliep'>
+            <column datatype='integer' name='[Breast]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Colon]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Lung]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Prostate]' role='measure' type='quantitative' />
+            <column datatype='integer' name='[Rectum]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Stage Name]' role='dimension' type='nominal' />
+            <column-instance column='[Stage Name]' derivation='None' name='[none:Stage Name:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Breast]' derivation='Sum' name='[sum:Breast:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Colon]' derivation='Sum' name='[sum:Colon:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Lung]' derivation='Sum' name='[sum:Lung:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Prostate]' derivation='Sum' name='[sum:Prostate:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Rectum]' derivation='Sum' name='[sum:Rectum:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]'>
+            <groupfilter function='union' user:op='manual'>
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Rectum:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Colon:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Lung:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Prostate:qk]&quot;' />
+              <groupfilter function='member' level='[:Measure Names]' member='&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Breast:qk]&quot;' />
+            </groupfilter>
+          </filter>
+          <manual-sort column='[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Rectum:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Colon:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Lung:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Prostate:qk]&quot;</bucket>
+              <bucket>&quot;[federated.10arbt002o89jo149xs1r0exliep].[sum:Breast:qk]&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <filter class='categorical' column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]'>
+            <groupfilter function='except' user:ui-domain='database' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Stage Name:nk]' />
+              <groupfilter function='member' level='[none:Stage Name:nk]' member='&quot;?&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.10arbt002o89jo149xs1r0exliep].[:Measure Names]</column>
+            <column>[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.10arbt002o89jo149xs1r0exliep].[Multiple Values]' scope='rows' value='Total Cases' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' />
+              <text column='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>Stage &lt;</run>
+                <run>[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='cell'>
+                <format attr='vertical-align' value='top' />
+                <format attr='text-align' value='auto' />
+                <format attr='wrap' value='off' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.10arbt002o89jo149xs1r0exliep].[Multiple Values]</rows>
+        <cols>([federated.10arbt002o89jo149xs1r0exliep].[:Measure Names] / [federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk])</cols>
+      </table>
+      <simple-id uuid='{A6F424BF-3C13-4FA4-A6CB-31735D6A0E27}' />
+    </worksheet>
+    <worksheet name='Total Cost for California'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run bold='true' fontsize='12'>What was cost by stage of breast cancer in CA from 2004-2012?</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Breast Cancer Cost by Stage' name='federated.1ofhbj21ilye0x1cm6wbh1xchi32' />
+            <datasource caption='Cancer Diagnoses California 2004-2012' name='federated.10arbt002o89jo149xs1r0exliep' />
+          </datasources>
+          <datasource-dependencies datasource='federated.10arbt002o89jo149xs1r0exliep'>
+            <column datatype='integer' name='[Breast]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Stage Name]' role='dimension' type='nominal' />
+            <column-instance column='[Stage Name]' derivation='None' name='[none:Stage Name:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <datasource-dependencies datasource='federated.1ofhbj21ilye0x1cm6wbh1xchi32'>
+            <column caption='0–12 Months Postdiagnosis ($ Cost)' datatype='integer' name='[0–12 months postdiagnosis ($ cost)]' role='measure' type='quantitative' />
+            <column caption='Total Cost for CA (0-12 Months)' datatype='integer' name='[Calculation_1356427979770286081]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='SUM([federated.10arbt002o89jo149xs1r0exliep].[Breast]) * SUM([0–12 months postdiagnosis ($ cost)])' />
+            </column>
+            <column datatype='string' name='[Disease stage]' role='dimension' type='nominal' />
+            <column-instance column='[Disease stage]' derivation='None' name='[none:Disease stage:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_1356427979770286081]' derivation='User' name='[usr:Calculation_1356427979770286081:qk]' pivot='key' type='quantitative' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' />
+              <text column='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[usr:Calculation_1356427979770286081:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>$ &lt;</run>
+                <run>[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[usr:Calculation_1356427979770286081:qk]</run>
+                <run>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[usr:Calculation_1356427979770286081:qk]</rows>
+        <cols>[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]</cols>
+      </table>
+      <simple-id uuid='{6D5AC4C5-7B22-4437-B502-4E30EF13EFE2}' />
+    </worksheet>
+  </worksheets>
+  <dashboards>
+    <dashboard enable-sort-zone-taborder='true' name='Dashboard 1'>
+      <style />
+      <size sizing-mode='automatic' />
+      <zones>
+        <zone h='100000' id='4' type-v2='layout-basic' w='100000' x='0' y='0'>
+          <zone h='98002' id='7' param='horz' type-v2='layout-flow' w='99034' x='483' y='999'>
+            <zone h='98002' id='5' type-v2='layout-basic' w='89378' x='483' y='999'>
+              <zone h='49001' id='3' name='Cancer Prevalence' w='44689' x='483' y='999'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49001' id='9' name='Cancer Stage Diagnoses' w='44689' x='45172' y='999'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49001' id='10' name='Breast Cancer Costs' w='44689' x='483' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='49001' id='12' name='Total Cost for California' w='44689' x='45172' y='50000'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+            <zone fixed-size='160' h='98002' id='6' is-fixed='true' param='vert' type-v2='layout-flow' w='9656' x='89861' y='999'>
+              <zone h='14232' id='8' name='Cancer Prevalence' pane-specification-id='0' param='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' type-v2='color' w='9656' x='89861' y='999'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+              <zone h='14232' id='11' name='Breast Cancer Costs' pane-specification-id='0' param='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' type-v2='color' w='9656' x='89861' y='15231'>
+                <zone-style>
+                  <format attr='border-color' value='#000000' />
+                  <format attr='border-style' value='none' />
+                  <format attr='border-width' value='0' />
+                  <format attr='margin' value='4' />
+                </zone-style>
+              </zone>
+            </zone>
+          </zone>
+          <zone-style>
+            <format attr='border-color' value='#000000' />
+            <format attr='border-style' value='none' />
+            <format attr='border-width' value='0' />
+            <format attr='margin' value='8' />
+          </zone-style>
+        </zone>
+      </zones>
+      <devicelayouts>
+        <devicelayout auto-generated='true' name='Phone'>
+          <size maxheight='1300' minheight='1300' sizing-mode='vscroll' />
+          <zones>
+            <zone h='100000' id='18' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98002' id='17' param='vert' type-v2='layout-flow' w='99034' x='483' y='999'>
+                <zone fixed-size='280' h='49001' id='3' is-fixed='true' name='Cancer Prevalence' w='44689' x='483' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='14232' id='8' name='Cancer Prevalence' pane-specification-id='0' param='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' type-v2='color' w='9656' x='89861' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49001' id='9' is-fixed='true' name='Cancer Stage Diagnoses' w='44689' x='45172' y='999'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49001' id='10' is-fixed='true' name='Breast Cancer Costs' w='44689' x='483' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone h='14232' id='11' name='Breast Cancer Costs' pane-specification-id='0' param='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' type-v2='color' w='9656' x='89861' y='15231'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+                <zone fixed-size='280' h='49001' id='12' is-fixed='true' name='Total Cost for California' w='44689' x='45172' y='50000'>
+                  <zone-style>
+                    <format attr='border-color' value='#000000' />
+                    <format attr='border-style' value='none' />
+                    <format attr='border-width' value='0' />
+                    <format attr='margin' value='4' />
+                    <format attr='padding' value='0' />
+                  </zone-style>
+                </zone>
+              </zone>
+              <zone-style>
+                <format attr='border-color' value='#000000' />
+                <format attr='border-style' value='none' />
+                <format attr='border-width' value='0' />
+                <format attr='margin' value='8' />
+              </zone-style>
+            </zone>
+          </zones>
+        </devicelayout>
+      </devicelayouts>
+      <simple-id uuid='{6DB8FBAB-F4E7-4C1F-AB51-4F489CF1CE37}' />
+    </dashboard>
+  </dashboards>
+  <windows saved-dpi-scale-factor='1.25' source-height='63'>
+    <window class='worksheet' name='Cancer Prevalence'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-width' />
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{591BF454-087F-4F6F-8BA4-929100CFBE7F}' />
+    </window>
+    <window class='worksheet' name='Cancer Stage Diagnoses'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <default-map-tool-selection tool='2' />
+      </viewpoint>
+      <simple-id uuid='{F953A228-E393-4A5D-A788-DB38E31DB07D}' />
+    </window>
+    <window class='worksheet' name='Breast Cancer Costs'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+            <card type='measures' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{8C08DBFC-797A-4169-A587-C3E23179E2E3}' />
+    </window>
+    <window class='worksheet' name='Total Cost for California'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{AD17273A-CFDB-4804-B4C7-6A2D0D6F5C43}' />
+    </window>
+    <window class='dashboard' maximized='true' name='Dashboard 1'>
+      <viewpoints>
+        <viewpoint name='Breast Cancer Costs'>
+          <zoom type='entire-view' />
+          <highlight field='[federated.1ofhbj21ilye0x1cm6wbh1xchi32].[none:Disease stage:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Cancer Prevalence'>
+          <zoom type='entire-view' />
+          <highlight field='[federated.10arbt002o89jo149xs1r0exliep].[none:Stage Name:nk]'>
+            <bucket-selection />
+          </highlight>
+        </viewpoint>
+        <viewpoint name='Cancer Stage Diagnoses'>
+          <zoom type='entire-view' />
+        </viewpoint>
+        <viewpoint name='Total Cost for California'>
+          <zoom type='entire-view' />
+        </viewpoint>
+      </viewpoints>
+      <active id='4' />
+      <simple-id uuid='{EDEAADB8-2089-4E7F-A164-453A22BAEB35}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Breast Cancer Costs' width='192'>
+      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
+      k4VWcBEAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='192' name='Dashboard 1' width='192'>
+      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
+      h6hxaLxw+FVmQgl6u9oJz47x4uFXSKkykesDfHL8JHPRAl1tjVw9f5w33/kASRL55S9/id3f
+      xPzwp7z74XFau3s58e7rHDtxCl9jJ0fffpmLw7Ps2/cIdQ6VwYUi21rr7mX9R9BzHD11jXR8
+      kWQqz/TU1M1doD29Tbzy+lF+8sz3eOu1t+nZvRury88zP3+a/rNX0E02WjwwERc4eOAQ3//W
+      IQAmRsfI5zJk8wViiSRIMrt37+Lnz/4ci2jiz3/4UxYmh3jvw4/ZtXMb589fAEqcvTjGv//b
+      v+Ha+eN8/S+fITndRzCaolAokNct7Dl4kB99/9sAfHL2Mv/u3z3LmZNnOXToED9++nsAmB0+
+      /ubf/DecP36c/v5rfOs73+Hjo8fZ1dvKmfMXEUx26l0afaOzJFIZ4okYvTt28PQzv8Bvl+k/
+      /RG9T/yQx/b3gslGoxv6R6fJaQ7+bHsd506fpODu4q+eepw/fXKSXV31nLrQz+WrQ3zvu99E
+      wMSOvQf5N7/4MXMTgzT2/hlDp4/SvmsPfZ+eJ1tU2bOnhwtnrrHz4EGe/ekPmJpb4qfP/DWa
+      ZqHFpXPu1DF0bzPjA30EgzM8+uQPic6PsGPHHp7+yb8i4DQzcO4YHYe+x4EdHVw4+RHuxm4G
+      +i+xMDfDUz96lqnhK7z3p4/ZtaOb8xc+ZTGa5Md/9V2uXbrAxdElnv3ZX2ECRsdGCQXnOfDt
+      vyQcnODoRx/z42f/jsjcGABHP/mEnzz7d4x+eobr8/M89VfPMDu6HIArlUpSyOcwe+o5ePAA
+      33lsH7rJSrNP5PyZM8wWHOzr8DM2eIWJqE5+YZKMaOHaVJS/fGLP1tTyVbB568nHppDsVaj5
+      KLpsu1kAHbv2MjGzyM4dOwnOzLG9LYDX68Mkm3E5rAxevczMUgKr2YzTnOPIsXMAOF1uVFXH
+      ZpHJ55aX61tb23jlxT9gcrqxWWQ8bhd7d/Rw5eowLS3NgImWOjv/9M/PU9++jSMvP0/aFMBh
+      FjCbRPL5Ag0uE68dOQrAtuYafv3r/0r7jt3YnU4+X4C0mRT+6df/TOfuvTS2tuNxWtnV20n/
+      0BRtTTVc6+tjLpRAFsFisVDM56lr7uTjN/5ANFuia9cjnHrnMEfPXGTgyhXmQgmsZhm/34fV
+      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
+      m9So/PLkmwAAAABJRU5ErkJggg==
+    </thumbnail>
+    <thumbnail height='192' name='Total Cost for California' width='192'>
+      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
+      EGbMjgAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
