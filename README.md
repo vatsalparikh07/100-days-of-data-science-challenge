@@ -348,7 +348,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2070.%20Visualizing%20Cost%20Savings%20from%20Early%20Cancer%20Diagnosis%20in%20Tableau)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2070.%20Visualizing%20Cost%20Savings%20from%20Early%20Cancer%20Diagnosis%20in%20Tableau/cancer-cost-diagnosis-dashboard.twb)
 
-## Day 71. 
+## Day 71. Analyzing eCommerce Data in Tableau - 04/12/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2071.%20Analyzing%20eCommerce%20Data%20in%20Tableau)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2071.%20Analyzing%20eCommerce%20Data%20in%20Tableau/ecommerce-data-dashboard.twbx)
