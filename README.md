@@ -352,3 +352,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2071.%20Analyzing%20eCommerce%20Data%20in%20Tableau)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2071.%20Analyzing%20eCommerce%20Data%20in%20Tableau/ecommerce-data-dashboard.twbx)
+
+## Day 72. Building AI Applications with LangChain and GPT - 04/13/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2072.%20Building%20AI%20Applications%20with%20Langchain%20and%20GPT)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2072.%20Building%20AI%20Applications%20with%20Langchain%20and%20GPT/solution.ipynb)
