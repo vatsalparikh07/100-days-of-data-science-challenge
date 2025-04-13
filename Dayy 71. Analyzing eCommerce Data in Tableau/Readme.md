@@ -7,7 +7,7 @@
 
 ![Executive Dashboard Preview](https://pplx-res.cloudinary.com/image/upload/v1744505516/user_uploads/ITgdeUFGdFUnqya/1.jpg)
 
-![2](https://github.com/user-attachments/assets/85305ca6-c84c-47cd-9b99-a30330168ebf)
+![image](https://github.com/user-attachments/assets/5e6e4f38-0eb7-4031-96c5-c66af904bdc8)
 
 ## 🚀 The Mission: From Raw Sales Data to Strategic Insights for Munchy's Pet Supply
 
