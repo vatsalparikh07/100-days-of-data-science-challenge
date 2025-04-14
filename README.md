@@ -361,4 +361,4 @@
 ## Day 73. Marketing Spend and Revenue Analysis in Snowflake - 04/14/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake/solution.ipynb)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake/Snowpark_For_Python_DE.ipynb)
