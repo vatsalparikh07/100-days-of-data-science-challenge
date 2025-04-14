@@ -357,3 +357,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2072.%20Building%20AI%20Applications%20with%20Langchain%20and%20GPT)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2072.%20Building%20AI%20Applications%20with%20Langchain%20and%20GPT/solution.ipynb)
+
+## Day 73. Marketing Spend and Revenue Analysis in Snowflake - 04/14/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake/solution.ipynb)
