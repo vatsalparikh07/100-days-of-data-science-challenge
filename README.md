@@ -362,3 +362,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2073.%20Marketing%20Spend%20and%20Revenue%20Analysis%20in%20Snowflake/Snowpark_For_Python_DE.ipynb)
+
+## Day 74. Getting Started with the OpenAI API and ChatGPT - 04/15/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT/solution.ipynb)
