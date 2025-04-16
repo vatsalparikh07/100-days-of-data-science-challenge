@@ -367,3 +367,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT/solution.ipynb)
+
+## Day 75. SQL Fundamentals: NYC Airbnb Data Exploration
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2075.%20SQL%20Fundamentals%3A%20NYC%20Airbnb%20Data%20Exploration)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2075.%20SQL%20Fundamentals%3A%20NYC%20Airbnb%20Data%20Exploration/solution.ipynb)
