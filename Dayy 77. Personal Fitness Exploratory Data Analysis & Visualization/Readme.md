@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1dae45de-4417-46ac-a3b2-bdd517929b08)# Day 77. 100 Days of Data Science Challenge - 04/18/2025 
+# Day 77. 100 Days of Data Science Challenge - 04/18/2025 
 
 ## 💪 Personal Fitness Data Analysis & Visualization 📊
 
