@@ -70,6 +70,8 @@ HAVING AVG(water_related_adaptation_tech) > 1;
 
 *Pattern*: Tech adoption correlates with higher GDP (R²=0.68) - middle-income countries lead adaptation efforts.
 
+![1](https://github.com/user-attachments/assets/8ae9955a-87d5-490f-beb8-ee60f855af46)
+
 ---
 
 ## Tools & Methods
