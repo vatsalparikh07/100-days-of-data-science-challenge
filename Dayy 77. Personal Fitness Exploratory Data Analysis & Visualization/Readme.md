@@ -6,7 +6,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-yellowgreen?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
 [![Plotly Express](https://img.shields.io/badge/Plotly-Interactive_Viz-blueviolet?style=flat-square&logo=plotly)](https://plotly.com/python/plotly-express/)
 [![Dataset](https://img.shields.io/badge/Dataset-Personal_Fitness-orange?style=flat-square)](./fitness_data.csv)
-[![Day 77](https://img.shields.io/badge/100DaysOfDataScience-Day_X-brightgreen?style=flat-square)](https://www.100daysofcode.com/) <!-- Update Day Number! -->
+[![Day 77](https://img.shields.io/badge/100DaysOfDataScience-Day_77-brightgreen?style=flat-square)](https://www.100daysofcode.com/) <!-- Update Day Number! -->
 
 ## 🚀 The Mission: Turning Raw Fitness Data into Actionable Insights
 
