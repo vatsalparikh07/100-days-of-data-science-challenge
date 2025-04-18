@@ -72,14 +72,6 @@ HAVING AVG(water_related_adaptation_tech) > 1;
 
 ---
 
-### 3. Institutional Efficiency Impact
-![Days to Register Property vs Tech Adoption](https://via.placeholder.com/600x300.png?text=Institutional+Efficiency+vs+Tech+Adoption)
-*Analysis shows countries with <30-day property registration:*
-- 3.2× higher tech adoption rates
-- 1.8× faster response to water stress changes
-
----
-
 ## Tools & Methods
 - **SQL**: Data aggregation, filtering, and correlation analysis
 - **Python/Pandas**: Advanced statistical analysis and visualization
