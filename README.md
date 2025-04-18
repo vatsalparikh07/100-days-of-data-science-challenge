@@ -368,12 +368,12 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2074.%20Getting%20Started%20with%20the%20OpenAI%20API%20and%20ChatGPT/solution.ipynb)
 
-## Day 75. SQL Fundamentals: NYC Airbnb Data Exploration
+## Day 75. SQL Fundamentals: NYC Airbnb Data Exploration - 04/16/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2075.%20SQL%20Fundamentals%3A%20NYC%20Airbnb%20Data%20Exploration)
 - [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2075.%20SQL%20Fundamentals%3A%20NYC%20Airbnb%20Data%20Exploration/solution.ipynb)
 
-## Day 76. Climate Change Adaptation EDA : Water Sector Innovation in Africa
+## Day 76. Climate Change Adaptation EDA : Water Sector Innovation in Africa - 04/17/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2076.%20Climate%20Change%20Adaptation%20EDA%20%3A%20Water%20Sector%20Innovation%20in%20Africa)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2076.%20Climate%20Change%20Adaptation%20EDA%20%3A%20Water%20Sector%20Innovation%20in%20Africa/solution.ipynb)
