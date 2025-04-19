@@ -382,3 +382,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2077.%20Personal%20Fitness%20Exploratory%20Data%20Analysis%20%26%20Visualization)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2077.%20Personal%20Fitness%20Exploratory%20Data%20Analysis%20%26%20Visualization/solution.ipynb)
+
+## Day 78. Multimodal AI Video Analysis Toolkit with LangChain and OpenAI - 04/19/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2078.%20Multimodal%20AI%20Video%20Analysis%20Toolkit%20with%20LangChain%20%26%20OpenAI)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2078.%20Multimodal%20AI%20Video%20Analysis%20Toolkit%20with%20LangChain%20%26%20OpenAI/solution.ipynb)
