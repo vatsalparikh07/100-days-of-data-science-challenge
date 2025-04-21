@@ -387,3 +387,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2078.%20Multimodal%20AI%20Video%20Analysis%20Toolkit%20with%20LangChain%20%26%20OpenAI)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2078.%20Multimodal%20AI%20Video%20Analysis%20Toolkit%20with%20LangChain%20%26%20OpenAI/solution.ipynb)
+
+## Day 79. Python Data Workflows: Analyzing Media Giants & NFL Showdowns - 04/20/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2079.%20Python%20Data%20Workflows%3A%20Analyzing%20Media%20Giants%20%26%20NFL%20Showdowns)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2079.%20Python%20Data%20Workflows%3A%20Analyzing%20Media%20Giants%20%26%20NFL%20Showdowns/solution.ipynb)
