@@ -392,3 +392,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2079.%20Python%20Data%20Workflows%3A%20Analyzing%20Media%20Giants%20%26%20NFL%20Showdowns)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2079.%20Python%20Data%20Workflows%3A%20Analyzing%20Media%20Giants%20%26%20NFL%20Showdowns/solution.ipynb)
+
+## Day 80. Building a Diffuser Model From Scratch with PyTorch - 04/21/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2080.%20Building%20a%20Diffuser%20Model%20From%20Scratch%20with%20PyTorch)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2080.%20Building%20a%20Diffuser%20Model%20From%20Scratch%20with%20PyTorch/solution.ipynb)
