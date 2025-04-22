@@ -397,3 +397,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2080.%20Building%20a%20Diffuser%20Model%20From%20Scratch%20with%20PyTorch)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2080.%20Building%20a%20Diffuser%20Model%20From%20Scratch%20with%20PyTorch/solution.ipynb)
+
+## Day 81. Visualizing Sales Data with PivotCharts in Excel - 04/22/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2081.%20Visualizing%20Sales%20Data%20with%20PivotCharts%20in%20Excel)
+- [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2081.%20Visualizing%20Sales%20Data%20with%20PivotCharts%20in%20Excel/superstore_sales.xlsx)
