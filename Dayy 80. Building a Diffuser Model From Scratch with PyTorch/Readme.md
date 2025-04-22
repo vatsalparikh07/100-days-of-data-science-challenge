@@ -41,6 +41,8 @@ Welcome to Day 80 of my #100DaysOfDataScience journey! Today's project dives dee
 *   **End-to-End Training:** Implemented a complete PyTorch training loop using `AdamW` optimizer for 25 epochs, tracking loss (`~0.03` by end).
 *   **Image Generation & Interpolation:** Successfully generated images for specific classes ("boot", "purse") and even explored generating hybrid images by averaging class embeddings ("sneaker" + "boot").
 
+![image](https://github.com/user-attachments/assets/bb00f7c4-9cf8-4c55-bfb1-6286360d174f)
+
 ---
 
 ## 🛠️ Tech Stack: The Generative AI Toolkit
@@ -74,6 +76,8 @@ Building a diffusion model involves several key steps, which this project implem
         *   Final convolutions (`self.prediction`, `self.variance`) to predict the noise and optionally the variance.
     *   **Time Embedding:** `nn.Embedding(steps, time_size)` converts the discrete timestep `t` into a learnable vector.
     *   **Conditional Embedding:** The separate `encoder = nn.Embedding(10, digit_size)` learns a vector for each of the 10 Fashion MNIST classes.
+
+![image](https://github.com/user-attachments/assets/83603718-ac82-4137-8064-63d58d0c9315)
 
 4.  **Adding Control (Conditioning & Classifier-Free Guidance):**
     *   **Conditioning:** The `encoder` provides the class embedding, which is concatenated with the time embedding and fed into the U-Net blocks. This tells the U-Net *what* kind of item to denoise towards.
