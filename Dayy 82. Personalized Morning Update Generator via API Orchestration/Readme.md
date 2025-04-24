@@ -1,5 +1,7 @@
 # Personalized Morning Update Generator via API Orchestration ☀️📰
 
+
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=flat-square)](https://www.python.org/)
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-yellowgreen?style=flat-square)](https://requests.readthedocs.io/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-Chat_&_TTS-brightgreen?logo=openai&style=flat-square)](https://platform.openai.com/docs)
