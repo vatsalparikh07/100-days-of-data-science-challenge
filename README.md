@@ -402,3 +402,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2081.%20Visualizing%20Sales%20Data%20with%20PivotCharts%20in%20Excel)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2081.%20Visualizing%20Sales%20Data%20with%20PivotCharts%20in%20Excel/superstore_sales.xlsx)
+
+## Day 82. Personal Morning Update Generator via API Orchestration - 04/22/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2082.%20Personalized%20Morning%20Update%20Generator%20via%20API%20Orchestration)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2082.%20Personalized%20Morning%20Update%20Generator%20via%20API%20Orchestration/solution.ipynb)
