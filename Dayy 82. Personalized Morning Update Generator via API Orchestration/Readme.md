@@ -1,12 +1,12 @@
 # Personalized Morning Update Generator via API Orchestration ☀️📰
 
-
-
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=flat-square)](https://www.python.org/)
 [![Requests](https://img.shields.io/badge/Requests-HTTP_Client-yellowgreen?style=flat-square)](https://requests.readthedocs.io/)
 [![OpenAI API](https://img.shields.io/badge/OpenAI-Chat_&_TTS-brightgreen?logo=openai&style=flat-square)](https://platform.openai.com/docs)
 [![External APIs](https://img.shields.io/badge/APIs-NewsAPI,_Meteosource-orange?style=flat-square)](https://newsapi.org/)
 [![100DaysOfCode](https://img.shields.io/badge/100DaysOfDataScience-Day_82-purple?style=flat-square)](https://www.100daysofcode.com/)
+
+https://github.com/user-attachments/assets/2691e681-afb5-4483-b92c-90bd50ecca4d
 
 ![code-along-schema](https://github.com/user-attachments/assets/3f16a4e4-7cf3-4944-91dd-21ee6689500c)
 
