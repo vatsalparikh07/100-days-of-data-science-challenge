@@ -412,3 +412,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2083.%20Data%20Wrangling%20in%20Julia%3A%20Student%20Record%20Analysis)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2083.%20Data%20Wrangling%20in%20Julia%3A%20Student%20Record%20Analysis/solution.ipynb)
+
+## Day 84. Analyzing Sora Discourse : Topic Modeling on Reddit Discussions - 04/25/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2084.%20Analyzing%20Sora%20Discourse%3A%20Topic%20Modeling%20on%20Reddit%20Discussions)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2084.%20Analyzing%20Sora%20Discourse%3A%20Topic%20Modeling%20on%20Reddit%20Discussions/solution.ipynb)
