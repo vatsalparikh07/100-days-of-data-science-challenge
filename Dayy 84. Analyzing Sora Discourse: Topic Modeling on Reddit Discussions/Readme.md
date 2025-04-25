@@ -1,4 +1,4 @@
-# Analyzing Sora Discourse: Topic Modeling on Reddit Discussions 💬 (Day 84)
+# Analyzing Sora Discourse: Topic Modeling on Reddit Discussions 💬
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&style=flat-square)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-yellowgreen?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
