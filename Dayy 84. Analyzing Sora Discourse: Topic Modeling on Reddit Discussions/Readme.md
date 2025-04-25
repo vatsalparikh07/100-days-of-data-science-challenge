@@ -21,7 +21,7 @@ Using **Natural Language Processing (NLP)** techniques, specifically **Topic Mod
 
 **Why This Matters:** Understanding public perception is crucial as generative AI rapidly evolves. This analysis provides valuable insights into societal reactions, excitement, and anxieties surrounding cutting-edge AI advancements like Sora.
 
-**Read the Full Research Paper:** [arXiv:2407.13071 - Analysing the Public Discourse around OpenAI's Text-To-Video Model 'Sora' using Topic Modeling](https://arxiv.org/abs/2407.13071)
+**Read the Full Research Paper:** [Analysing the Public Discourse around OpenAI's Text-To-Video Model 'Sora' using Topic Modeling](https://arxiv.org/abs/2407.13071)
 
 ![image](https://github.com/user-attachments/assets/eb8feccc-326a-42c3-ad77-49e644e75303)
 *(Bar Charts showing Word Count and Importance of Topic Keywords)*
