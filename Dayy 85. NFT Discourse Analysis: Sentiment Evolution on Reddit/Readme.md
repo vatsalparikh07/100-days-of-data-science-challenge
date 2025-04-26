@@ -92,6 +92,7 @@ Our process involved several key stages, meticulously documented in `solution.ip
 The visualizations paint a clear picture of the NFT sentiment rollercoaster on Reddit:
 
 *   **Sentiment Distribution (Figure 2 in Paper):** While many comments were neutral, the overall distribution leaned slightly positive, but with significant tails indicating strong opinions on both ends.
+
     ![Sentiment Distribution Chart](https://cdn.mathpix.com/cropped/2025_04_26_78b8780ca905cb2cac9ag-3.jpg?height=569&width=1571&top_left_y=1115&top_left_x=251)
     *Fig 2: Distribution of Sentiment Scores (Box Plot & Histogram)*
 
