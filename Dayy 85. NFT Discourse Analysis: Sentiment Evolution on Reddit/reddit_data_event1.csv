@@ -1,0 +1,596 @@
+Author,Text,Date,Score,Author_ID,Subreddit
+Clumsywon,"I have a couple of layman's thoughts I'm still sorting out. One is that the nft is not the art. The nft is just data. The trading card or artwork or song whatever has its use value in a different media that can be separated from the blockchain. 
+
+I can look at the finest nfts demanding the highest prices and just download or screen capture them. I then have exactly what the owner has except for this abstract concept of the contract.  They say that blockchains are permanent. but a lot of the nfts are tied to particular marketplaces. Like I can get a Wax trading card that only exists in the Wax ecosystem or I can get fine art at Nifty Gateway that is only compatible with the Nifty website. 
+
+What happens to the nft if the organization that hosts it goes bankrupt and closes up shop?  You can say that the unique contract still exists somewhere in the net but what does that mean when the host doesn't exist? If WilliamShatner.io shuts down do I really have anything other than a jpeg of a ham actor with no monetary value?
+I'm not trying to be a naysayer here I've spent money in the marketplace and I'm enjoying seeing new projects pop up. It just raises a lot of questions about what value is and how the market might be manipulated.
+
+Also this part I totally don't understand. They say that blockchains can be looked at for verification and proves ownership. But if I look at the ethereum or other blockchain and find the contract what will I actually see? Is the nft content embedded there or is it just a chunk of data with my associated key number?",1610815148.0,226,12yz4p11,NFT
+Jeffdud3,"If I buy an nft and download its asset(s) can I still sell it again? So its not like a unique file, but a unique download link? And then Id be trusted not to upload that file somewhere else?",1612198151.0,35,6e27h,NFT
+Bach_Bach_Bach,I so appreciate this so much. Im a musician and photographer and am hungry for info!,1610583036.0,33,90vlaeky,NFT
+beemoTheAngryRoomba,"im new to NFT but not to crypto, I'd like some help on how to think or perceive the variety of lens on the authenticity of physical goods with NFT, or if that's even a viable use of NFT's
+
+How do you keep a physical collectible authentic with its associated NFT. For example, what if I saw a collectible items 'watermarked' with its NFT, I liked it so much that I went home and literally made a copy of it. It's so similar that unless a person had been sitting down with both versions for a few hours you wouldn't be able to say which one was the first and real one. 
+
+Then i went on an NFT minting site and registered my copy with its own NFT.
+
+Technically now there are two of these collectible items with their own NFT. In that way they are different because they have their own NFT to identify each other, but the physical items aren't unique in its idea and conception.
+
+Or is that out of the realm of NFT and proving authenticity? As in, now there are just two instances of a similar collectible item that are separated by their NFT identity?
+
+I suppose it's just something I haven't really absorbed and realized the intrinsic value of owning a particular NFT versus owning a collectible that happens to have its own NFT. Like I'm not able to associate value with owning a specific NFT, I'm associating the value of the collectible that the NFT is attached with.
+
+Anyways I'm not knocking on NFTs, I am very interested in them and want to learn and understand everything about them! Thanks for any help/advice/suggestions",1613780086.0,23,ac01le60,NFT
+Arghmybrain,"I have some questions!
+
+Data storage: 
+
+* Mintable says they are the only ones where you can choose where to store data. Where do other minting places store their date?
+* If you let mintable handle it, where do they store their data?
+* How future-proof is IPFS?
+* If you make your own choice, what's a good secure place to store data? 
+* Is there any possible way to change that link to the data in the future in case it somehow goes down?
+
+Pricing:
+
+* Is there a list of the costs other minting place charge?
+* Do you always pay per NFT, or only ever per batch?
+
+Other questions:
+
+* What are the downsides to mintable's gasless minting?
+* If you'd like to start a collectible set to add to in the future, is gassless minting a good option or should you really use the normal method?
+* Do other stores have an upside mintable doesn't?
+* Should I wait for l2? I understood it's coming in an update soon. (really confused on the l2 stuff)
+* Are there non-ethereum based NFT art/collectible protocols that might be preferable?
+* Any other important info that's not included in this how to mint tutorial?",1614966984.0,19,72e7k7j6,NFT
+theaveragehousecat,This is such a cool emerging market,1612294758.0,19,zoj7o,NFT
+Sturmgewehrkreuz,Thanks a ton! I just posted a piece in mintable (gasless). I still have no idea wtf I am doing lol I have a super vague understanding on cryptcurrency/cryptoart/etc.,1612296225.0,14,pq69y,NFT
+groenic,due to the high gas fees could it be that NFTs will be run on another blockchain like Cardano in the near future? i mean i saw some guy picking up an item in decentraland worth 30 cents and he had to pay like 80 cents or something for gas fees.,1614255097.0,9,11pgmx,NFT
+6packofbeard,"I try to simplify the NFT introduction with this [article](https://iconforge.medium.com/icon-forge-what-are-nfts-f261df1d38ac). The more people investing, the merrier! ICON has its first NFT marketplace now with the online strategy game [projectnebula.app](https://projectnebula.app)",1611136926.0,8,8ri3p47v,NFT
+Fashankadank,"Thanks for this guide. 
+Helped me understand a lot better, though I'll still need to watch a video/hear the info to really articulate it better. 
+
+In less time than it took me to read your post I created an account on mintable.app. As well as creating a wallet on metamask. 
+
+I then listed a photo of my cats napping together for $1. Never enough cat NFTs, right??",1613082115.0,8,z3yel,NFT
+danknuggies4,"But if I make an nft don't I keep the original file? Or is the file uploaded and locked? 
+
+Whats to stop me from minting the same thing over and over?",1612311245.0,7,1s8hqbx6,NFT
+GabeRull,"If you wanted to write your own smart contract for listing an NFT auction, how would you get word out about it to the community? Is there a directory of sorts for the blockchain that guarantees people will see it without doing anything? Or would you want to promote it on reddit or social media or something like that? Also, if I'm writing my own code for the smart contract, might I still want to use mintable for any part of the process? Or would that no longer be necessary?
+
+I am a computer science student and need a project to show potential employers. I was thinking of attempting to sell some art in the form of NFT and writing smart contracts. I don't yet know if that would be impressive or not, because I don't really know how much coding goes into the process or if it is even difficult. But I would like to give it a try.",1612166003.0,6,6xjpz85p,NFT
+FrostingAfraid8233," Super noob question: let's say I buy some digital art. How likely is that I will be able to get it sold at a higher price? Like, what are the factors/tell-tale sign I need to look for for a good buy? I'm trying to understand the economics of it all to optimize my purchases.",1612203953.0,3,,NFT
+Wolfpack252,"This is really interesting to me. I get NFTs are copyrighted, immutable, resellable, etc. but how does this provide utility to the consumer beyond just being store of value and hopefully accretion over time?
+
+The example I have in my head (and what got me interested) is seeing a LeBron James digital highlight being sold for over $100k. What does the owner of this highlight get out of this ownership that I dont have watching that highlight (and plenty others) on YouTube? Seems like they incur a lot of risk if that marketplace fails, and Im just not understanding where the value is of actually owning this data. 
+
+Im not a naysayer on this technology, just genuinely curious and would love to hear from someone more well-read.",1612305787.0,4,28pcilkh,NFT
+behindblueyes34,"So I'm just learning NFTs, I'm a noob
+
+But, what's the market like on photography?
+I'm a creative type, but photography is my thing and wanna incorporate it.",1614348324.0,5,6f6copt0,NFT
+RelativePotential120,"Can a NFT be Gifted out of the owners collection? say someone is selling 100 nft's and they are listed on opensea, can they remove a couple and give them to people?",1613621279.0,3,aaioknur,NFT
+Professional_Knee196,"https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:157820:0xdb69744c14c6545822a57fe1476b154f27e4045e
+
+My first NFT created. Crypto to the moon",1614167031.0,3,a1zw93hy,NFT
+CutInteresting3789,Hey if ETH forks which chain is the real owner of the NFT?,1614745663.0,3,7rhxfbed,NFT
+Veganjuly,Is there a site / wallet where one can view all their NFTs in one place? Hotshots next to eth based NFTs?,1615088401.0,3,ar5re0h5,NFT
+tsafa88,"Can anyone explain how royalties work? I can't understand how you can have an 'automatic' royalty based on a percentage (of sale price I assume?)? How can the token be aware of the sale price? Unless it's locked into some proprietary platform but wouldn't that make it far less valuable than a token you can transfer freely?
+
+If there is a royalty based upon sale price, why wouldn't buyers and sellers just understate the sale price?
+
+I can understand how you could have a static/fixed or graduating ETH fee in order to be able to transfer the NFT but how could this be aware of the sale price?
+
+Also what are the favored standards for creating art NFTs that would be most compatible with the best platforms for initial sale and later resales?
+
+""Some NFTs will automatically pay out royalties to their creators when they're sold. This is still a developing concept but it's one of the most powerful. Original owners of EulerBeats Originals earn an 8% royalty every time the NFT is sold on. And some platforms, like Foundation and Zora, support royalties for their artists.
+
+This is completely automatic so creators can just sit back and earn royalties as their work is sold from person to person. At the moment, figuring out royalties is very manual and lacks accuracy  a lot of creators don't get paid what they deserve. If your NFT has a royalty programmed into it, you'll never miss out."" - [https://ethereum.org/en/nft/](https://ethereum.org/en/nft/)
+
+Thanks.
+
+  
+Edit: This appears to be the correct answer:
+
+EXAMPLE TIME!
+
+1. You decide to mint and sell your CG teapot NFT on Rarible.
+
+2. When youre creating your listing, you opt for a 20% royalty. (On Rarible, you can choose whatever percentage you want.)
+
+3. A few days later, your item sells for 5 ETH (5 Ether, equivalent to $3,700 USD at the time of writing). NICE!
+
+4. You keep all of that money, minus Raribles commission fees.
+
+5. The following week, the original buyer of your NFT sells it on Raribles secondary marketplace for 6 ETH ($4,400 USD). Since you set a 20% commission, youll make about $880 on that transactioneven though you were not directly involved in it.
+
+6. The next week, the new owner sells your NFT on OpenSea. (All Rarible items can be listed and sold on OpenSea as well.) Unfortunately in this case, you dont get any royalties. Royalties from Rarible (where you minted) are not currently transferrable to OpenSea. Bummer.
+
+Again, royalty systems differ for each marketplace. Take some time to research each platform before deciding where to sell your stuff.
+
+https://justincone.com/posts/nft-skeptics-guide/
+
+Also see:
+
+https://eips.ethereum.org/EIPS/eip-2981
+
+This is important for creators and collectors. I'm surprised the answer is so hard to find.",1615113106.0,3,52qndydz,NFT
+redditnathan1,"A friend has a new physical product with a patent in the works, its really cool. I wonder if they could use NFT to sell the Copyright, Patent, Trademark, and all business assets. Like an IPO, launch, and sale of the company at one time. Educate me.",1615194848.0,3,3ggoe,NFT
+SexFartGuy,"Would it be possible, theoretically to mint moments in time; say major historical events or things of the sort?",1615861089.0,3,sbkhmcz,NFT
+what2do4you,"Are there other use cases aside from digital art? I would like to understand other ways NFTs are useful in day to day life. Also, is there a compelling use case for blockchain to physical real world benefits?",1613135088.0,2,4axiye5,NFT
+pickmez,"Very new to this area.
+
+Can I NFT original writing?
+
+I create a lot written erotica I'd love to make some originals to get started.
+
+Idk if these sites have rules against written erotica though",1613281215.0,2,ku0js,NFT
+Chickfizz-eats-memes,Im very confused but interested. Time to learn more,1613472971.0,2,4beon265,NFT
+chartropper,What are a few good NFT tokens to buy right now?,1614021192.0,2,6oya8y4u,NFT
+bmac5252,Is it possible to transfer NFTs to a cold wallet?,1614138738.0,2,354gzfyk,NFT
+Pterodactyl2021,Whats the best way to start getting into the NFT space? should i start creating art or is there other ways to use NFT's? This space seems very interesting and i would like to dive in.,1614217538.0,2,629knrbv,NFT
+jdizzlegpillz,"What happens if someone say stole a audio file of a song from a friend illegally and then uploaded it as something for sale and sold it? I know people who will try to fuck others over doing that. Pretty much what can be done if some stole something from you, and sold it as there own art.",1614532002.0,2,3nvhekzo,NFT
+trip92,"Hey,  I,m new to crypto and Nft,  Got to say i love this rabbit hole.  I'm real curious in the application of nft used as a way to fund events such as concerts for example.  If anyone could link me to info or engage in conversation.  No one i know is into crypto and i feel like talking it out and exposing myself more just is the way to learn this",1614956576.0,2,5uvywhcm,NFT
+Id6gawd24,"Nice  
+So much knowledge in one article",1615048563.0,2,,NFT
+Tommycourtney,Does anyone know if the digital clothing designs from [Ionbh](http://ionbha.co.uk/login/?redirect_to=http%3A%2F%2Fionbha.co.uk%2F) are NFTs?,1615131582.0,2,9iwh86i2,NFT
+pixelmanning,"Question, would people buy nude/porn pixel art NFTs?",1615141080.0,2,ark203fu,NFT
+albyantoniazzi,"Just minted my first NFT 
+
+https://mintable.app/collectibles/item/Pangxie-Holy-crab/kbEpqkXir_fJnJw",1615208137.0,2,rcin5,NFT
+XshaosX,"I'm confused.
+
+If I go for the gas free option, do I still have to pay the price of opening a store?",1615208280.0,2,12tcgsal,NFT
+CarrionComfort,">4. **Collectible** - These NFTs/items are collectible. You can hold onto them, and their value will only go up in price since there are little ways to dilute the collection. Buying them to resell them can earn you thousands of dollars. There are plenty of people who do it everyday and earn a living from it.
+
+This is stupid. Just because there is little supply doesn't mean the value goes up. 
+
+If you're trying to explain digital bartering you should know better than to sound like a bad salesman.",1615230917.0,2,bt6lt,NFT
+Gahdzilluh,Can a random joe of the street make an NFT of a licensed character like batman and sell it? If DC ever got into NFTs would they shut that down? Or can anyone make anything and sell it?,1615249752.0,2,22j40d0u,NFT
+awebig,"K... Brand new to this... but I see the potential. 
+
+Big Question for me
+
+As an obscure musician/composer... over 25 years of original music, 10 albums released that I own 100%.  Over last 2 years, 3 hours of unreleased compositions I am offering to film and TV.... and truck loads of strange little noises and bits, samples that could be bought to add to someone elses score.      
+Is NFT a potential route, if my name and work is not widely established, but I am working hard to promote?  
+
+My thought is, I could turn my work to NFT's....  Connect with my fans from over the years, offering to sell a majority, while I continue performing and marketing the pieces to publisher, film, TV etc.  The benefit not being owning a 'big' artists song... Instead, the potential of it becoming worth much more, if used in film, tv and new media?  
+
+
+Thanks for the time and help.... This is a curious topic.,, and could be a saviour for the music industry.",1615267273.0,2,5rlbb4,NFT
+toruan_jb,"After reading this thread for sometime, i still dont get this :
+
+How is an NFT attached in any way to the physical form ( if it has one ) ? If a painting is an NFT, how can we be sure that the painting is the exact painting that the NFT is attached to ?",1615324182.0,2,424emunz,NFT
+BootySenpai,"Did we solve the carbon foot print problem yet? Because its really straining the relationships between art groups right now.
+
+Personally I was really into NFT but Idk if I can bring my self to be such a energy waster. 
+
+anyone have any thoughts on this subject?
+
+NFT is really cool but.....man that dark side is pretty bad",1615844104.0,2,ip0xo,NFT
+photosophic,"I have some questions. Any help is much appreciated.
+
+1- Can an NFT be ""programmed"" for usage rights to expire and revert back to the creator/seller after a certain time has lapsed? 
+
+2- Can the NFT limit the buyer to how or where the actual asset is presenting? For example, I am a commercial photographer who sells usage rights to clients for specific uses like website only, social media only for 2 years, etc. Frequently clients don't come back to me for extensions of usage rights because frankly, they don't know they have to by the time 2 years go by. 
+
+3- Can an NFT have royalties build in for more than 1 creator such as director and on-camera talent or producer and musician?
+
+Thank you Reddit Community.",1615846700.0,2,hp14y,NFT
+SergKlyosov,Thank you for the useful guide,1617972520.0,2,4yrxt4iq,NFT
+NFTheft,NFTs are like buying really expensive shoes or a Pokmon cards. You just hope some other idiot who is willing to pay more for it !,1618503468.0,2,b1fiznp2,NFT
+PatriciaHarris_,"The crypto industry is taking a paradigm shift. NFT is becoming the new hype for the entire crypto community with major NFT projects surging 1,700%+ by market cap, according to Forbes.
+
+Some of the biggest platforms in NFT:
+
+a) [Unifty.io](https://Unifty.io)
+
+UNIFTY is a new hub for NFT projects to mint, buy, sell, swap and create NFT farms with just a few clicks! No coding or difficult contract interactions required.
+
+It is a multi-chain NFT platform that supports five chains - $ETH, $BSC, $xDAI, $CELO, $MATIC.
+
+Recently, it became the first NFT marketplace on Avalanche.
+
+Token: $NIF
+
+&#x200B;
+
+b) CityAlpaca
+
+Alpaca City is a virtual world built on Ethereum blockchain where users can manage their on-chain assets through collecting and breeding adorable Alpacas.
+
+Token: $ALPA
+
+&#x200B;
+
+c) Opensea
+
+A peer-to-peer marketplace for rare digital items. Buy, sell, auction, and discover collectibles. Digital marketplace. Explore art. Types: Rare digital items, Digital collectibles, Buy, Sell and Discover.
+
+&#x200B;
+
+d) Rarible
+
+Rarible is a software allowing digital artists and creators to issue and sell custom crypto assets that represent ownership in their digital work.
+
+Of note, Rarible is both a marketplace for those assets, as well as a distributed network built on Ethereum that enables their trade without a middleman.
+
+Token: $RARI",1619853025.0,2,,NFT
+franzlopez,"NFTs are the future and I recommend that you guys check out NFT Tech! It's about to be launched and it is backed up by solid investors! Heard it's the Amazon for NFTs and lets you trade on a liquid marketplace. Well, let us not miss out!",1622039121.0,2,cawyk9t9,NFT
+Positive-Plankton898,Go check out this nft https://mintable.app/art/item/The-eternal-hands-Eternal-fire-hands-greatness-artwork/kgvRTJNd13Ynv-K,1622211475.0,2,bjjgrgce,NFT
+Slatfalf_NFTs,"Very useful, Thank you kind mods!",1622332718.0,2,buz7xf70,NFT
+TheGodlyBird,"I have a graet Idea  for a NFT Collection, but i need a Artist, photoshop aso.",1622895979.0,2,at54eehp,NFT
+gdm41,"I would recommend the wax blockchain for Nfts, eth has high fees atm. Take a look at atmomicub.io",1611580164.0,1,dc6em,NFT
+MaxRockatansky514,"Fantastic post, great information 
+
+There are many NFT options including on demand minting using uMint only found on Phantasma.  uMint uses the worlds first SmartNFT technology to add various attributes within your NFT including infusing various crypto assets.  Then list your NFT on the worlds first cross chain marketplace - Ghostmarket for free.  So minting and selling NFTs has never been so cheap....forever.
+
+https://youtu.be/pG6l6mloCdw
+
+https://medium.com/phantasticphantasma/create-your-own-nfts-2a4d593ee8db
+
+https://ghostmarket.io/
+
+https://medium.com/phantasticphantasma/the-smart-nft-3a1ff1c03328
+
+Phantasma is a tri chain, interoperable with Ethereum and Neo with 5000k tx/s.   Phantasma doesnt suffer from the constraints of high fees as found on Ethereum based projects.  Mint NFTs for pennies.  The more you mint the cheaper it gets.  On demand minting allows you to mint up to 50,000 NFTs in one transaction.
+
+https://youtu.be/rbw0W7nEtmI
+
+GOATiE has developed their 22 Racing Series Racing game on Phantasma using  Smart NFTs.  They have minted 280k car parts with various performance attributes that the player can buy, build, mint all the NFT parts into one NFT to own and race their car. On Ethereum it would have cost over $300k.  On Phantasma ~$50.  Beta available on Steam with Pavillion Hub, full release Q2 2021.
+
+https://youtu.be/tKE3GSYni-k
+
+https://www.pavillionhub.com/",1610593667.0,1,ra9j6h5,NFT
+SomeJasonGuy,"One of the most valuable NFT projects out there is Node Runners. It's valuable because you can actually stake their Hero NFTs for insanely high yields and earn their native token $NDR.  
+Check it out here it's amazing - [https://noderunners.io/stake](https://noderunners.io/stake)",1610616713.0,1,7mxsw,NFT
+TankieWankies85,Heres an Art piece I minted youll get the physical one too! Check it out! [Man in the Shadows](https://opensea.io/assets/0x60f80121c31a0d46b5279700f9df786054aa5ee5/100668),1613337806.0,1,ad47ethw,NFT
+sungodshamash,Unfortunately ETH  gas fees are ridiculous a $50 cost just to mint a NFT art fee is crazy. Got tired of it and decided to build a platform on where the cost to mint is just a buck or two. Would love to connect with NFT artist for beta  here r/kelekshen,1613794302.0,1,7k32v1vs,NFT
+rogiyer594,"Check out [https://noderunners.io/](https://noderunners.io/) \- it's a cyberpunk themed game, which combines both NFT and DeFi. Farm & stake NFTs to earn $NDR, or fight Villains to claim their NFTs and stake them too ;) Have fun!",1610540227.0,0,8wvgm65d,NFT
+BitBoyFAN101,"NFTs are easy to make. You can use the website [app.rarible.com](https://app.rarible.com) to easily make one at a ethereum price charge. 
+
+Heres an example: [https://app.rarible.com/user/0x640956ead23361dd84eee8a8ee10cc290f5c01d4/collectibles](https://app.rarible.com/user/0x640956ead23361dd84eee8a8ee10cc290f5c01d4/collectibles)",1611789030.0,0,a0xrls7m,NFT
+juanjom182,"\*\*\*once in a lifetime opportunity to be among the first to buy a #satoshi nakamoto NFT\*\*\*
+
+Inspired by decentralized networks and artificial intelligence this [UNIQUE PIECE](https://app.rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:146507:0x4212d8e0f61574d1002acdc6c688148ad415de59?tab=owners) uses simulated growth to create mesmerizing forms out of a set of simple rules that dictate its growth.",1613687123.0,0,abs5dmel,NFT
+rsuhas469, <!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}-->have you seen maybe you know who will be here? it seems to me here will be something about NFTs and tokens....https://www.youtube.com/watch?v=JCgcdqzEQa8,1614165487.0,0,aijzvdms,NFT
+bicboipapa,"I can see the use in gaming. If someone creates a super sick skin or something and they can use it in-game, I think that would be a good advantage of NFTs. Other than that, I can't see it with trading cards since many people would rather have a physical trading card.",1614463469.0,0,3x5km7hd,NFT
+yerosow02,"https://app.rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:292271:0xa27805cf1e095ba6e27a5282f8e261289a38db2f
+
+Is this a good one?",1615054915.0,0,214ljmgr,NFT
+Beans-The-Jackchi,Just listed my first NFT. https://mintable.app/profile/current-item-list,1615384888.0,0,5ungnjf6,NFT
+NefariousnessOdd3942,"https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:359008
+
+Is anyone else getting the NFT creative itch.. I just created a commemorative NFT, for fun, would love the communities feedback - images of Kobe's Rings ",1615402977.0,0,6ze8e30x,NFT
+BrokenTrojanMan,Are all NFTs exchanged in crypto? Or can I pay regular USD to buy an NFT? Asking because coinbase wont let me transfer all my ethereum to my coinbase wallet until the funds settle and I want to snag a drop on nifty gateway on Friday. On the website it gives you the option to use a credit card so I assume they do but Im not sure and dont wanna miss this drop,1615420998.0,0,4rixkn54,NFT
+Alarmed_Minimum2626,"THIS! is pretty awesome stuff,well done. im working on a german version of a guide line myself",1611394193.0,1,7cxy89yu,NFT
+minusthelela,"Maybe someone can help answer this for me but when someone makes a bid on an NFT I've minted on an above mentioned site, do I have to pay a gas fee just to accept the bid as well?",1613224035.0,1,b1na9,NFT
+skramboney,Add NiftyGateway to the marketplaces! Its where all the biggest artists tend to do their drops!,1613332010.0,1,r2vvx3w,NFT
+imustbedead,"I think people raise a lot of good questions, but remember the market is already leaving rules behind. Art is nonsense sometimes and NFT is lawless.",1613374572.0,1,4aqni,NFT
+fuzzyunimo,When you say minting what exactly does this mean?,1613603187.0,1,9d199m9r,NFT
+sungodshamash,Thanks,1613607511.0,1,7k32v1vs,NFT
+Nomadic8893,"Noob question, trying to understand this emerging space - what's the value of buying an NFT?  If someone posts a cool image/piece of art on OpenSea anyone can just screenshot it? Why pay Ether just to say you own it and have it verified on the Blockhain? and once you buy an NFT what can you do with it? Just have it in your files or on some website? Can you print it physically and hang the art work in your home?",1613676835.0,1,7stwguix,NFT
+Stylo977,So I cant use pancake swap/trust wallet to get nfts ?,1613763045.0,1,a1fp5t6g,NFT
+superbashbro95,If i want to store NFT and buy it can i do so on a ledger Nano s?,1613955496.0,1,1oqb3wxy,NFT
+Chief_keif-,"Ok I still dont get why I would want to pay thousands of dollars for a picture some random thing. Like you wouldnt buy a picture of a piece of art, that wouldnt usually cost much, for a lot of money just because its unique. I could pay someone to draw me an intricate character for under $100 and it would be unique but then suddenly it could be worth hundreds or thousands as an nft?",1613967139.0,1,3wuglc06,NFT
+Mithmorthmin," 
+
+Yes its a License Agreement. Yes it has structure and sections and intimidating boring words. No it's not long at all. Its easy to follow and make sense of. It should take you 7 minutes tops to read the whole thing. Enjoy.
+
+[https://www.nftlicense.org/](https://www.nftlicense.org/)",1614052087.0,1,kymok,NFT
+Connor21777,"So what if ETH crashes, is the art worth less now or just more ETH? How does one know this price changed? How is this all calculated?",1614075506.0,1,4jbjqycm,NFT
+screenagersdesign,"Nice info you can also check a **Quick Guide to NFTs**  
+ 
+
+ [https://www.reddit.com/r/PandoraProtocol/comments/lqxgjv/a\_quick\_guide\_to\_nfts/](https://www.reddit.com/r/PandoraProtocol/comments/lqxgjv/a_quick_guide_to_nfts/)",1614132542.0,1,5x92l2yd,NFT
+vfxb84,What if someone copies the digital art and sells somewhere else that are not the block chain websites?,1614139569.0,1,6ybq5cub,NFT
+uninslalm,I like the idea of NFTs and it's application one which I find interesting are the smart NFTs. They add properties like time based access and infusing the NFT with other assets or different layers of properties to make it truly one of a kind. Another use case which I find interesting is if these NFTs could be used say as an invoice or a receipt or even a prenup. The NFT becomes invaluable but not necessarily from a monetary stand point.,1614140326.0,1,,NFT
+rsuhas469,have you seen maybe you know who will be here? it seems to me here will be something about NFTs and tokens....https://www.youtube.com/watch?v=JCgcdqzEQa8,1614165507.0,1,aijzvdms,NFT
+Hipurisud,"I think that the idea of how do we actually value these natively digital assets is one of the most hardest and overlooked questions and topics. Everyone comes in with a traditional mindset and framework, but that also doesn't make sense. We are undeniably living in a natively digital economy almost. We need to look at unique digital factors to value these assets and in my opinion that comes down to rarity + a story. These are the biggest components that are able to back the asset, provide a maintenance margin and price floor to its value.
+
+Any thoughts anyone?",1614191813.0,1,88x9jtur,NFT
+portacade,"Why would you have your own store with gas fees over having gasless minting... also what is minting, is it just a verification of the art work to the original creator?",1614192976.0,1,4tpevfhy,NFT
+DenverDuckDude,"If it hasn't been mentioned already, I think it's important to realize that the collectors of NFTs are all in on digital and perhaps have no interest in traditional physical art, just as they are all in on cryptocurrency and no interest in fiat.  This demand for a new type of blockchain-based collectible will be unlikely to go away and in the same way that traditional, physical art collectors consider one of a kinds like the Mona Lisa, etc. to be extremely valuable, blockchain/crypto/digital collectors consider Cryptopunks, etc., in the same light.",1614214982.0,1,77xjn2i7,NFT
+thebeardlessladx,Can I setup royalties for my NFT without having to start a store?,1614218525.0,1,9yt6sncm,NFT
+Apprehensive_Dig_163,"NTFs - Unique hash that you can sell and if it'll get more attention and if it'll be sold a couple of times, price starts skyrocketing.",1614256776.0,1,8kdk2abh,NFT
+Flyingdogeeeeee,I have the feeling the whole NFT market is going completely insane! Why would someone pay so much for a meme like this: https://opensea.io/assets/because-i-can,1614292389.0,1,a5op7g30,NFT
+repmel007,can NFT have music/sounds attached to them?,1614302307.0,1,11vji2,NFT
+lf_dy,"Speaking as an artist who's now interested in this, I've been watching videos to wrap my head around this whole ordeal and I still can't understand why people would buy any digital assets. I guess in the sense of btc going up, it shouldn't make much sense but there actually is a plausibility of btc being applicable in terms of digitizing currency in the future. 'Crypto art' being sold can always be stolen, copied, and reproduced so why would anyone actually pay x amount of money for something so trivial as a 'certificate of autheticity' in comparison to it's physical counter parts?",1614315838.0,1,4c2gwv5m,NFT
+dk2014neverforgets,Isn't NFT for OnlyFans a great usecase? Real talk,1614338372.0,1,7xladzyb,NFT
+Spiritual_Major_4656,Gas prices can be monitored from etherscan or adding a chrome app then timing your upload when gas prices are low. Hope that helps newbies. I took some time figuring that out when starting,1614342170.0,1,a1bvcaoc,NFT
+carlos_botas,"What's interesting is that some of the concerns I'm seeing here about people stealing work: 
+
+1) already effect web-hosted art with or without NFTs 
+
+and 
+
+2) actually have parallels to problems that exist with more traditional forms of art. Verifying the history of works of art is its own world. There are more than 1 Da Vinci paintings, for example, that are under question.
+
+People get accustomed to old problems, but get nervous about ""new"" problems.",1614372072.0,1,v9eyk,NFT
+fircx,Can I mint NFT without gas fee ?Does it work on other blockchains rather than Ethereum  ?,1614375311.0,1,c0w22,NFT
+brvgv,"I have a question, if my artwork resembles some other card games that already exist but is of course a bit different in style, will i get in trouble?
+Basically should i create the art solely from scratch or can i use templates?",1614388568.0,1,158u9d,NFT
+SubstantialCat6221,"I am new to this and understand what an NFT is but am struggling with the gas concept, well I understand but have a question. I currently have a pending transaction from meta mask to open sea for an art NFT. Does that mean the NFT art piece is reserved for me or do I have to put a certain amount of gas to reserve it?",1614394398.0,1,8taxrvh8,NFT
+WhoIsTillman,"My artwork just got minted, check it out 
+
+https://opensea.io/assets/adam-crins-arts",1614397691.0,1,a4cuuyo8,NFT
+drgiii72,"Could I make a physical display of an nft? Like an nba topshot, could I have like a holographic display of one of those if I purchased it? Or a moving art piece framed in a screen?",1614402762.0,1,15sxwy,NFT
+Phillyike,I have an idea. I have money. I have connections. I need a developer to create a NFT platform to seek material. Who can help me? You will get ownership.,1614419124.0,1,altaw27k,NFT
+Educational_Agent820,"Excellent post! thanks a ton for this!
+
+I was introduced to NFTs in clubhouse and let me say that the conversations and debate I have seen over there are not as clear or as deep as this thread....
+
+One question, what is a good ETH wallet to start?",1614440107.0,1,a1ktt6t0,NFT
+Albert3232,What are the steps I need to say open an account and sell some of my beats. I have no experience with cryptos or token or blockchain at all. Mind someone guide me tru this?,1614448593.0,1,l89qf,NFT
+greatm31,Is it possible to create an NFT that uses the address (?) (I don't understand crypto) as part of itself? E.g. imagine some generative art that is created in the process of minting it. So it would be perfectly verifiable as authentic. The simplest example would be simply a print of the address itself - all one would need to do is look it up to verify that that is the correct picture. Is that possible?,1614463183.0,1,7k3f0,NFT
+CryptoInvestNFT,"Im just getting involved in NFTS. 
+My take so far is to not invest in collections that have been around for a while because most of them are over inflated. Im paying attention to Collections that seem well put together and have a good plan.  Too many of them are playing off crypto punks or riding the coat tails of pop culture. Or theyre are too many that are just dumb art. I dont think those will last. 
+Besides CryptoPunks so far I think HashMasks, CannaPals, and Rude Boys look good.",1614486388.0,1,a0ge0jjw,NFT
+kwinz,Is an NFT ownership a proof of ownership of the copyright of the work? Or is an NFT ownership a proof of an (exclusive?) license to use a copy of the work? Or is either possible? I still haven't figured it out.,1614487340.0,1,mtl12,NFT
+wayanonforthis,If I buy an image NFT am I allowed to print it and hang it on my wall?  What stops me printing multiple copies and selling them (either as the artist's work or even putting my name to it?)  If I am the creator of the work how can I stop this happening?,1614497277.0,1,5uom8,NFT
+4thmode,"Thank you so much! As somebody totally fresh in this subject, I have some questions.
+
+1 - If I have content available on Instagram, am I still legally able to sell them as NFT's? I probably would need to delete the content I have on my social media, right? 
+
+2 - Seems like I can have many copies without the NFT ""signature"" on them because what gives value to the art is not the art itself but the fact of being an NFT. Is that right?
+
+3 - If that's not the case, and I can't have copies of my art without being an NFT spread through the internet, how can people know that?",1614526734.0,1,amcf14x9,NFT
+frickfinley,"I am a photographer and heavily interested in this realm, has anybody else tried selling their photos? How did it go?",1614574251.0,1,326rd84o,NFT
+Pretend-Ad-6734,"Yes please I haven't been able to sell any of my NFTs because I guess there soooo last year or something and I now see most NFTS that sell more then likely the picture moves may you please help me out and tell me what programs or apps are mostly being used to make the current hottest NFTS... I would like to even try and make some kind of passive income and not for nothing you NFT is so simple but so originally unique its fkn awsome!! I'm actually a tattoo artist so I know how to make art but not the kind people want to own and collect with value I guess because NFTS are upgrading everyday and I cant find the programs to help me get from behind even for atleast 1 creation! @everyone may someone please help and thanks so much for the article 1000, ,better explained then I myself could have ever done it!",1614617491.0,1,ag9yrcqv,NFT
+the_starship,"Is it possible that video games themselves can be an NFT? Like currently if I have a digital copy of Celeste, I just own a license. But can it be NFT or would it be too hard to make enough copies for it to be worth while (and have the gamer trade their digital games?)",1614623124.0,1,fp6gk,NFT
+mercedesdude,"A nubie question about NFTs: Can an artist sell an NFT created from handcrafted artwork depicting characters from a well know movie franchise to appeal to fans? or will there be copyright concerns even though its original artwork done in paint or pastels, hand drawn renderings and illustrations etc.  ?",1614626005.0,1,acgouqh2,NFT
+jellysart,Hey guys. Noob question. I made a totoro fan art and working on a new fan art. Am I allow to post it as NFT or IP don't allow it ? https://www.instagram.com/p/BqswoARgtyh/?igshid=n9lw8jrfcg9t my totoro fan art,1614635808.0,1,42anxan5,NFT
+Solace-001,Are there any free stores? Or do you have to pay to create your own store first,1614652942.0,1,453fg9t2,NFT
+brendroid,"I have some questions about NFTs as a content creator.
+
+1. What would happen if I upload my creation to social media then sell it to a bidder after?
+2. Can I do anything with my art after I have sold it?
+3. Since it is digital, how is it possible for the NFT to stay unique? Is it a technical thing?",1614697257.0,1,1ii1t2mg,NFT
+screenagersdesign,Great post! This article is worth reading  Do also check Quick Guide To Nfts :[https://www.reddit.com/r/PandoraProtocol/comments/lqxgjv/a\_quick\_guide\_to\_nfts/?utm\_source=share&utm\_medium=web2x&context=3](https://www.reddit.com/r/PandoraProtocol/comments/lqxgjv/a_quick_guide_to_nfts/?utm_source=share&utm_medium=web2x&context=3),1614710862.0,1,5x92l2yd,NFT
+Foundation_Logical,Which NFTs are on Coinbase,1614716889.0,1,7gbddyqo,NFT
+LunarMacizm,Heard of NFT whiles back and after reading this Im ready to get started!,1614718575.0,1,a4h5xpxk,NFT
+Haha-poker,"Im not seeing the utility as described? It sounds like a NFT is just a signed copy of art that can be linked back to the artist. If thats the case, isnt the value of an NFT, to allow artist to sell multiple versions of their work to a mass of people while a still being able to prove that its their work (and get paid fairly)? Someone help me understand what Im missing?",1614734612.0,1,9xia41lo,NFT
+heeooii,"i see a listing for a pokemon card 'blastoise first edition psa 9', im just wondering how this actually works. Like are they selling the actual physical product as an NFT, so if someone was to purchase it, it would be delivered to them?",1614742839.0,1,57petn3n,NFT
+sassyover123,What about real art? Can you sell like a picture of it? And then do you just ship it out or do you keep your original artwork?,1614767604.0,1,90gey3gb,NFT
+jupectios,"NFTs are valuable depending of the rarity and background of the artists, I will say such artist as Boss Logic will bring value to NFTs on Ethernity . The Hashmasks NFTs for example have really special design and it makes it more valuable.",1614767740.0,1,,NFT
+PeteKirtley,Hey there. Is there anyone here providing answers to some questions I have on NFTs and commissions ?  Thanks,1614784626.0,1,a3fl4cyd,NFT
+IndependentDiver952,"Maybe I didn't see it in the comments and I dont know if I'm even asking the question correctly, so bare with me (a newbie to this world)...
+
+An artist creates ""digital art"" that is one unique design. Can the artist sell just 10 copies of that one design?",1614790172.0,1,78ejcxjh,NFT
+founderathome,Great summary! Thank you for sharing!,1614802031.0,1,9ngu437v,NFT
+Elbrenderino,"If I choose to post the link to my NFT on reddit, am I exposing it to view only or also info about myself? I want to show off a purchase but am brand new to this. Thanks",1614804848.0,1,5fqqw9vl,NFT
+unibathbomber,Total newb here. Does anyone know how one can become an artist that can sell on Foundation? Any help much appreciated.,1614825754.0,1,5zc7rpar,NFT
+Mission_Historian_70,Can this work for literary publications? especially College Text Books?,1614839955.0,1,,NFT
+pierogis-live,"If a minting platform takes the money and runs, how does anyone know what file your token points to? And where is it stored?",1614877444.0,1,8yo8looj,NFT
+Consistent_Bat4586,"What are the top NFT Utility Tokens?  I've already picked up some $WAXP and $OMI  
+What are the other ecosystems y'all would recommend?",1614889393.0,1,8gp4a6ae,NFT
+RuneShiStorm,Can I sell a game that has already been released on other platforms? Or do I have to make it different in some way to make in uniqe/exclusive?,1614909320.0,1,6zghte5s,NFT
+Baddiedi3000,"Okay so now I have questions after trying to wrap my head around all of this. On platforms like Tik Tok or Youtube, creators like Colleen Ballinger made the character Miranda Sings who became wildly popular and had a bunch of endorsements... what if she had posted that character on one of these platforms as an NFT? Would that be something worth buying into before she became super famous? And could that purchase be equity in the character?",1614910891.0,1,ap14o43u,NFT
+_j_pow_,New guy here.  I do glassblowing/painting/visual art.  How do i get into the NFT world with that?  Or does it only work with digital art?,1614914909.0,1,m6y2w,NFT
+Sarahhjoooo,"NFTs are definitely the future! For those interested Ive just created a group for all the latest updates 
+Facebook Groups (https://www.facebook.com/groups/421091635854220/)",1614933119.0,1,apvj47w2,NFT
+RobertCutter," I have several questions.png 
+
+1. What happens if one of those NFT marketplaces goes bankrupt? For example if I would put my stuff on opensea and that site shuts down someday. 
+
+2. How has the experience been for artists who are not famous like beeble? 
+
+3. Can NFTS that were created on opensea traded on Superrare since they are all on the same blockchain? 
+
+4. What stops people from stealing somebodys work to just put it online and pretend its theirs?",1614933459.0,1,3b5kx6he,NFT
+Gloomy_Veterinarian8,"I think eventually there will be things to fill up certain gaps. Products and other services to verify your NFT and store it beyond the platforms lifespan. Like an NFT box or wallet or thing. Interesting times! 
+
+Im a amateur musician and as Im excited about this tech, it might only be an addition to my income streams and might not replace existing ones (as small as they are) at least for next couple of years.",1614944827.0,1,4qhyqese,NFT
+LucidCiC,"https://app.rarible.com/token/0xd07dc4262bcdbf85190c01c996b4c06a461d2430:209883:0x97731141adb595a344805addedd95304cb29b7a2
+Check out mine",1614962166.0,1,a4yvbzve,NFT
+Jasdavi," Hello I've noticed the huge boom in NFT trading and digital artists jumping on and selling their work by converting them into NFTs (not sure if this correctly describing it), and I'm just wondering how does someone start by doing this? I am a digital artist and the idea of selling work in any tip of digital form that isn't a commission is just mind blowing to me. With the rise of crypto art it looks like artists like myself who didn't think their work could be sold, finally have a chance to get out there and ""make it"".
+
+I'm just wondering how does someone start? It really seems like you have to have an in to be invited by someone on platforms or apply and hope for the best?
+
+If possible I would love some guidance, really would love to try to get into this!",1614965170.0,1,26toqeua,NFT
+natty_peche,Could an artist sell an artwork as an NFT if it is already posted on their social media or perhaps used on merchandise for sale? Or does the artwork have to be original/unused prior to minting it? Apologies if this is a stupid question :),1614982010.0,1,3tcp8qm7,NFT
+Farangsayt,There is NFTs artwork that are made of pixel so what a 8mega pixel version will do unless you give the png,1615013807.0,1,2i1ptjrh,NFT
+kolormore,Are artists including rights to reproduction?,1615042124.0,1,p2m2o4d,NFT
+crisperstorm,I almost want to make an NFT but also it looks pricy to make one and I doubt I'd make the money back. At best I can make some simple abstract art and I'm not sure anyone would be interested,1615140259.0,1,gmu52,NFT
+No-Promotion-6143,What NFT do you think is worth buying?,1615202547.0,1,a1b5ub17,NFT
+tsafa88,Anybody know what are the best options for playing with NFTs on test net?,1615214072.0,1,52qndydz,NFT
+Santamatrix,Which place is best to buy sport cards?,1615241657.0,1,310zid94,NFT
+Frequent-Beginning-4,"https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/61955723432266316220788940743080113607378547522930916744509838327115033870337 
+
+This one's valuable! Holy shit !",1615367209.0,1,7yaaxodt,NFT
+uninslalm,"For the most part, a lot of people think there's no real value in buying NFTs, I would argue that most people simply haven't seen how NFT in general makes sense and that perhaps, if there is a credible example of how an NFT or more precisely ""an authentic or licensed"" NFT can show objective value, this will make people more receptive. 
+
+Recently, an NFT collection was created honoring the 50 year anniversary of the iconic Muhammed Ali/Joe Frazier match in collaboration with the original photographer of the images. This collection will be auctioned and at the end of it all, a percentage of the proceeds will go to the Ali Center as charity.
+
+[https://in.news.yahoo.com/muhammad-ali-nft-minted-50-160545231.html](https://in.news.yahoo.com/muhammad-ali-nft-minted-50-160545231.html)  
+
+
+Is this a good example of an NFT you would in your opinion?
+
+Is this an auction you would like to partake in if you could afford it?",1615374368.0,1,,NFT
+gillepils,"[https://arkane.network](https://arkane.network) also allows you to mint NFTs via an API, which makes it easy to integrate it into games. NFTs can be minted on Ethereum, Matic and Binance for now, Avalanche coming soon.
+
+There is also an NFT market: https://arkane.market",1615384778.0,1,a8j21,NFT
+IrishScotty32,"Hi everyone, I'm just looking for some advice. I don't have any idea about graphic or digital design. Still, I really want to start creating NFTs, and I have loads of ideas I would love to do. I'm just wondering how I would go about getting someone to design my thoughts. Obviously, I would pay them, but how would I copyright the concept? For instance, how would I know they hadn't already minted my idea on the blockchain after they designed it for me? I'm pretty new to all this, but I feel very excited about the world of NFTs. Any advice would be very much appreciated.",1615398951.0,1,afk0wmrw,NFT
+9quid,Is this an advert for Mintable?,1615458590.0,1,,NFT
+tinytempo,"How successful have photo NFTs been?  
+
+
+ I see a lot of moving digital art, but what about good ol' fashioned photographic images? Thanks",1615463138.0,1,f6etm,NFT
+qabadai,I wonder how some of these people are determining price. I see so many with 0 offers and reserve prices between $200-1800 and no history of sales.,1615471796.0,1,rull0,NFT
+Beans-The-Jackchi,Guys can you ask your girlfriends boyfriend if its alright to look at my art please? https://guidotakespictures.com/#/516551/,1615510047.0,1,5ungnjf6,NFT
+noisyturtle,"I have read so many articles and I get what an NFT is, but what is the actual function of an NFT? What does the owner use it for? I don't understand what the buyer is paying for. Like BTC is a currency, you use it in exchange for goods and services, what function does the NFT give the owner?",1615516382.0,1,,NFT
+420AlexWeeD420,But can it dunk tho?,1615518826.0,1,7t9snnf,NFT
+thundergoose2020,"For anyone who thinks the gas fees on Ethereum based platforms is too high then I made some videos on how to use my favorite blockchain for NFTs which is the Wax blockchain.  I have tried so many of them by far Wax is my favorite.   
+
+
+First you will need to create a Wax Cloud Wallet [https://youtu.be/e\_PFBldS0Qo](https://youtu.be/e_PFBldS0Qo)  
+
+
+How to Mint NFTs on Atomic Hub (Way cheaper than ETH platforms)   
+[https://youtu.be/-Qv9Sk-YNjM](https://youtu.be/-Qv9Sk-YNjM)",1615523129.0,1,6io3kv6c,NFT
+pewdiepieobama,Okay but whats the point? If you can own the exact same thing but for free why would u throw thousands of dollars away? I cant comprehend it,1615524878.0,1,9h0i8cuh,NFT
+Puzzleheaded_Top447,I don't get why you can't just screenshot or video record the NFT digital assets and then resell them in the platform or a different platform? Then turn ETH into Fiat. Are there any controls limiting that?,1615533905.0,1,,NFT
+pinacoladaiced,"1/ is a nft a smart contract? Or trade nft can have different contracts?
+2/ smart contracts are attached to every trade/transaction? 
+3/ many can use the same smart contracts, or unless you have to do some complex deals? Aka customized triggers?
+4/ how come crypto kitties changes when u transact, but nft arts doesnt?(or it does?) like beetles for example.
+5/ etherum is a giant App Store with their own store credits(ether) and cryptokitties are one of their apps? Whats the relationship between etherum and marketplace? Is marketplace an app on top of etherum platform? Kind of like an ecom app(amazon lets say)that you can download from an App Store?
+6/ whats the difference between flow or etherum? Is flow docked on etherum or just another platform completely? 
+7/ is a token a cryptocurrency? Is a token a smart contract?
+8/why can you mine coins? Is it because there are many undiscovered?",1615538339.0,1,5ydfcz0e,NFT
+sadgirl45,Hi I had a question can a Twitter dm become an NFT?,1615541387.0,1,13nzqp,NFT
+sadgirl45,And who owns the dm?,1615541405.0,1,13nzqp,NFT
+Competitive-Dot-3333,"Pity all these websites are already overloaded with a lot of trash.  Giant trash pile with some art in between...Combining NFT tokens of ownership with real artworks seems to be something interesting for the future.
+
+I tried a couple of sites, but Mintable seems the best option at the moment, no fees and fast: [https://mintable.app/u/1bit](https://mintable.app/u/1bit)",1615550206.0,1,6h06q9n7,NFT
+Seisachthia,"This sounds like a convoluted way to sell copyrights, typically digital copyrights. Why not just call it a digital copyright? How does one use crypto technology on a copyright? The whole point of a copyright is to secure a guarantee from a government that has monopoly use of coercive force on its populous that it will not allow anyone to use or otherwise profit from the intellectual property you create, or in this case purchase without the owners permission. That guarantee is only as good as long that that government says its good. How does crypto achieve that guarantee? Crypto technology cannot arrest people when they violate copyrights?",1615553411.0,1,112wrs,NFT
+kycat11,Thank you for this,1615561630.0,1,94mnqd7k,NFT
+CoatiFinancial,"Hi everyone! 
+Is it possible to mint a file in mintable and sell it on another platform?
+What is the difference between minting in rarible and minting in mintable? Just the size of the fees?",1615563157.0,1,a3dwnhu5,NFT
+fircx,How can I sell real physical painting using NFT?,1615577810.0,1,c0w22,NFT
+Deltre_,Once you guys have the basics reach out to professionals that know how to get you into the space. Superfarm is that company and their coin SUPER is exploding right now!,1615588751.0,1,9znzxjst,NFT
+timdavidmz,How ecologically sustainable is Mintable compared to the other platforms?,1615601595.0,1,a1prozp9,NFT
+JEGIZNICEE,"Hey Famalee. I was wondering if anyone could provide me some direction in getting my Artists music sold on a Mintable or Open Sea.  Which one is the best?
+Whats the first step in setting it up?
+Thanks a Billlion in advance",1615611961.0,1,aqr0rewp,NFT
+DVrij,"My nft on Mintable is stuck on 'verifying your upload'
+
+How long should this take?",1615627375.0,1,107qqv,NFT
+alnitak35,"Everyone is a genius during the bull run and all kinds of scams come out during the euphoria to take money from idiots.
+
+Many people who are so bullish about NFTs or any other garbage right now will act like they have never heard of it after the bull market is over. 
+
+Do you know how I'm so sure? Because that's happened after the bull run in 2017. Most of the scams and their enablers just went radio silent after the crash. 
+
+No this time isn't different and no we are not in a new paradigm.",1615627898.0,1,3csw5sro,NFT
+goodbeginnings,How long does it usually take to make a sale? And is it easy to get your art discovered?,1615632368.0,1,2upjofn,NFT
+shredder_rat,"NFTs are getting crazy, have you seen the Numa Numa Dance vid up? https://opensea.io/collection/gman250",1615639782.0,1,4xp88q6p,NFT
+Inquisitive1313,Can people just post images/pictures abd sell them?,1615644402.0,1,avv14zuz,NFT
+Mochi_mami,Hi guys! Happy to be in this group. We are building a new exciting Nft product.,1615663715.0,1,aw19zhw4,NFT
+android_69,Can't someone change one pixel of an artpiece and then NFT it?,1615673797.0,1,8wdzz,NFT
+iCoinnn,I just tried to mint a NFT on rarible. The gas cost is about 0.34 Eth that is almost $700. I was thinking to sell it for $100 to test the market. What do you people do with high gas fee and not knowing how much you can get from minting your NFT from your artwork?,1615688790.0,1,cqihsxk,NFT
+kirin1905,"Lets say I own an NBA Top Shot NFT. Can I view that NFT picture/gif on other sites? Is there a universal place I can view the gif, or is it just displayed as a token id? 
+
+
+If I create an NFT on Opensea, can someone from rarible buy it?",1615695174.0,1,bc8if,NFT
+kirin1905,Last question: What stops someone from creating actual pokemon cards as NFT and selling them? Would they get in trouble from the Pokemon company? But crypto is decentralized so its not regulated?,1615695264.0,1,bc8if,NFT
+aryll44,"If I sell an NFT can I still make merch of that piece? (aka prints, stickers, t-shirts etc.)",1615695932.0,1,wnrcl,NFT
+toxic12093ureta,What stops me from copying videos from a movie and creating an nft out of em?,1615703270.0,1,4le7yt5r,NFT
+GoldenExperience2,"So I'm a starting artist and I'll like to sell some drawings of mine that will be card-like, just as Magic or Yu Gi Oh, but all of this is really new to me and a little bit more of help could be very useful. I alredy read all but Im still confused. Maybe bcs its too late here, I'll read it again tomorrow:D",1615722580.0,1,3kv2y3k7,NFT
+Bat858,"Is that kind of work may be considered as a NFT?
+
+https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/2384857830961243004359957817368892939167174261875409875411988850042587840513",1615723974.0,1,ab8s6q9d,NFT
+darling_015,Bondly and opensea has a crypto token??,1615739814.0,1,8qn565ne,NFT
+samhickmann,Can someone explain why minting an NFT on Mintable is totally free but cost $75 in gas on OpenSea?,1615743163.0,1,j9mhj,NFT
+6295,"How do NFTs work with famous works of art or peoples likeness? If someone creates an NFT of a famous painting and they are not the artist, how does that work? If someone creates and NFT of the Mona Lisa, can someone come after the creator or the current owner for it? 
+I would love to have a collection of art that I enjoy but I dont want to buy something and later be litigated in some way because I purchased something that someone else owned or owns copyright to. And with artists who are still alive and creating content, I wouldnt want to buy an NFT that never financially benefited them because someone took it from their social media or snapped a picture at a gallery.",1615744246.0,1,ytk7y,NFT
+mrextra11,Very helpful!,1615745591.0,1,93sqybw7,NFT
+toscanotto,"As per your experience, if you're a new content creator (digital artist, illustrator, 3D modeller) without a huge fanbase, **which combination of key factors are more likely to make your NFTs desirable?** Have you ever seen visual/stylistic patterns often recurring?",1615752853.0,1,9ggc2e2i,NFT
+Influencedby,"Check out this new NFT 
+
+https://rarible.com/token/0x60f80121c31a0d46b5279700f9df786054aa5ee5:439177:0xb70c5ac3bc6e7c99bcf9f7e557a04865711cd8fd",1615761516.0,1,awtlpzqk,NFT
+Soft-Brush5126,"The NFT Alphabet is available at (https://opensea.io/assets/the-nft-alphabet)
+
+You can buy T,E,S,L,A for $84 each (or all of them for $420).  'B' goes to auction in 2 days!  26 items only in this collection",1615769837.0,1,8q2hb82a,NFT
+jackybeeblebrox,"I wrote an article about how the framework for NFTs in the art space will be expanded into other industries and disrupt modern businesses. Let me know what you think!
+
+[https://wilybobolink.substack.com/p/the-digitization-of-ownership](https://wilybobolink.substack.com/p/the-digitization-of-ownership)",1615823518.0,1,33bl3h6x,NFT
+MrAngryBeards,"So by now I can't be the only one that saw many people mentioning how NFTs can be harmful to the environment. But I'm reluctant as I couldn't find any source explaining how is the carbon footprint of an ETH transaction even measured/estimated, let alone many articles have massively disparities in their measurements/estimates.
+
+It all just smells like someone somewhere don't want digital art to be highly profitable, but that is borderline conspiration and I'd much prefer to get some better quality info on this matter. So I got a couple of questions.
+
+1. Is the environmental impact of NFTs really that big?
+
+2. How do we measure/estimate it?",1615829188.0,1,7m65o,NFT
+mrcelophane,"I have a lot of questions about NFT in general and also have an idea of one/a collection I could create. However I want to know about the legal ramifications and the best way to accomplish what I want (I am a software engineer by trade and have an idea of things/websites around it but am still fuzzy on Crypto and NFT). 
+
+Is there anyone here that wouldn't mind taking me under their wing?",1615930959.0,1,acbuq,NFT
+TheMarketBuzz,"Thanks for the breakdown, I really was looking for think kind of info.",1615996739.0,1,9om436bn,NFT
+Art_of_Selene,Can someone bless me with an invite for the foundation app  Im ready to submit my first Nft just need an invite.,1616021209.0,1,a0uetiem,NFT
+uninslalm,"Is there a place for limited edition physical NFTs like merch, watches, iPhone skin and cases. If yes, what would make you want to buy them",1616025410.0,1,,NFT
+GooGadget,"Hey, what up, u/MintableOfficial
+
+ First, I'd like to give props and say thanks on the amazing DD you provided in this post. Very helpful, thank you. Second, I'm new to NFT and this sub and am still learning. That being stated, I have a few questions and scenarios that will not only be helpful to myself,  but may even coin some answers for others. 
+
+1)  If NFT is a digitally modified picture of a photo taken or drawn personally by me w/ original photo or drawing in my possession,  would that increase value? 
+
+I have NFT's of images that I have personally photographed and/ or drawn myself that have been digitally modified and enhanced that I have in my possession.  
+
+2) Do NFT's with self produced soundtracks w/ original audio files add to value? 
+
+I have NFT's with self produced soundtracks with original audio files in my possession. 
+
+3) If buyer is interested, would sending said original photographed photos and/or drawings through mail or sending compressed audio files separately as added bonus be a bad idea? 
+
+I was thinking I would send original photos,  drawings,  and/or soundtracks to heighten the buyers satisfaction and personal experience. 
+
+4)Do you personally think that's a good idea? 
+
+You've obviously got some skin in this game, so I'd like to get your  input and hear your personal thoughts on this. 
+
+Thanks again.",1616030459.0,1,70fct0sw,NFT
+EdithRojo,Can I mint an NFT of a cartoon image I do not own the rights? (Eg Hannah barberas scooby doo image),1616030603.0,1,ae98mtz2,NFT
+okaymoose,So how much does it cost to create a token? Including what I need to create an ethereum wallet?,1616031197.0,1,13w2gn,NFT
+atycrz,"Im just learning more about the topic and I was really curious, can NFTs be used by a physical creator (say a furniture maker)? Ive seen QR codes on Nifty NFT frames, but cant each physical item have a printed QR code linking to its signed certificate on the blockchain?",1616037523.0,1,2qq8gvgw,NFT
+madad123,"I've been considering recording some live drum samples and getting an NFT library together of these for producers to use. The only thinig is, I don't really understand why people would buy them? When I hear about NFTs that are being sold, I tend to understand the impulse to buy as a recognition of the authors fame or brand recognition, and the understanding that the token will appreciate in value over time. Essentially these NFT sellers are monetizing their own fame. Would people who are completely unknown be able to actually make money this way by selling infinitely reproducable digital assets?",1616067780.0,1,ewga1,NFT
+goodfellah101," What I don't get, who would pay these ethers for this ""art work""?
+
+F.e.: [https://opensea.io/collection/d9eth-art-the-first-pixel](https://opensea.io/collection/d9eth-art-the-first-pixel) is being sold for 0.01 ETH, but basically it's nothing more than just a dot. So this is something that just nobody will ever buy...",1616070376.0,1,48cm1jh1,NFT
+HotHousePie,$TKAT,1616098626.0,1,a6evj4mc,NFT
+knapper696969,"can yall checkout my post on my first nft and leave some criticism 
+
+&#x200B;
+
+&#x200B;
+
+lets nft",1616111175.0,1,6lq5uofk,NFT
+Howling929,"So....ya, I'll be the one to say this.
+Has..has anyone told the porn industry about NFT's or where ""Digital Art"" is currently going??",1616126047.0,1,abw22n0q,NFT
+conspiracycatz,Gas fee for creating a store is now about $776,1616128382.0,1,52ozm3c5,NFT
+LeulRomanesc,Can someone help me with an invite on Foundation App? Thanks!,1616141975.0,1,49lpqek2,NFT
+BobGnarlie,"I attempted to create a store in mintable yesterday and almost paid over $800 in ETH to add to the block chain! Thank goodness I did not have sufficient funds so the transaction was cancelled. Is there some way to find out how much the transaction cost will be before clicking the create button?   It is there a time of day or day of week that has less traffic, less fees for creation?",1616157486.0,1,idamz,NFT
+GrasshopperHaiku,"Do you know much about how different cryptowallets interact? Especially those connected to NFT sites like Opensea? For example. I found it interesting that Opensea asks for a wallet address to send payment to, despite already being connected to Opensea through a wallet for purposes of listing and selling. So can you put a different wallet address for accepting payment to than the one you use to list the items for sale?",1616167760.0,1,awu7q44i,NFT
+wtoisb,"Speaking of legality, what about Mike Deodato selling really great drawings/images of Marvel characters that (I assume) he drew himself, whether he was working at Marvel at the time or not.
+
+Would Marvel win if they sued him?   If you bought one from Deodato, and Marvel sues Deodato and wins, what happens to your NFT and the funds you spent?   Can Marvel come after the secondary market winners?   If your ownership is etched in blockchain, then they can find out who owns it.",1616178952.0,1,10t8iy,NFT
+HOLDthisLINE,"I am an artist who has created a few NFTs recently (haven't sold any yet). I now have an idea for a series of NFT artworks. Are there are advantages to minting a 'collection' in Rarible vs. just putting the artworks on my normal verified Rarible page? It appears that creating a 'collection' can cost $1,000-$2,000. Also, if I did decide to not put them in a collection now, would it cost gas money later to 'transfer' (is that the correct way?) them to the collection if I decide to do it later? Thanks in advance!!",1616189823.0,1,4h8irilz,NFT
+jsza87,What do yall think of HOFV as an NFT play?,1616190931.0,1,2aaqcgc7,NFT
+limitlessjan,So you create digital art on anther platform then upload it to your own store and sell it? Im kinda still trying to understand,1616208276.0,1,1463w1,NFT
+AsleepSatisfaction0,"I joined a discord server and the admin gave me an invite for an NFT platform
+
+[https://egorithms.com/what-does-nft-mean-the-token-explained/](https://egorithms.com/what-does-nft-mean-the-token-explained/)
+
+Still not sure how to create an nft art piece.... Anyone? Know?",1616228550.0,1,1tznz91l,NFT
+donotgogenlty,"Digital artists - what do you use to create your art (equipment & software)?
+
+Looking for opinions on what's worked the best and why",1616257145.0,1,,NFT
+Particular_Account_2,Can the same underlying asset be minted as different nfts on different blockchains?,1616261934.0,1,63xwhg8j,NFT
+maxbergheim,"Digital uniqueness can be guaranteed by blockchain technology, but not everything operates based on a blockchain in the world, so if it used outside of it there is still need for legal laws to be able to protect your IP. (I saw elon musk, who was joking obviously, selling his tweet, but lets say he done something like that, anybody can copy paste his tweet so he still needs legal laws to prove anything).",1616261995.0,1,64800hsg,NFT
+g7gg77,"need some help with posting my nft on opensea.
+
+the price of the nft does not show up...",1616279484.0,1,b0ibxskk,NFT
+kvltovkristofer,"Question; as a traditional artist, learning about NFTs via crypto, and learning digital art, what are the specs on NFTs, such as resolution? Are they usually 300dpi, 72dpi? I cant seem to find this info anywhere. And does anyone know of a place that talks about the technical side, such as sizes? Thanks.",1616312974.0,1,a0v96cdi,NFT
+Noyanozlu,This was delicious,1616350185.0,1,b1u15ur1,NFT
+Ben-Swole-O,"I love this person. Made my first portfolio this weekend and its all due to this blog.
+
+Heres my portfolio thus far to prove how easy it is to follow these steps :
+
+https://mintable.app/u/darvillionaire
+
+This literally took me 2 days when Ive been trying to find out how to mint the last 2 weeks!!",1616357694.0,1,69vy7wfz,NFT
+malooch,"[https://youtu.be/CsVTClcxe-8](https://youtu.be/CsVTClcxe-8)
+
+this guy gets NFT's",1616361789.0,1,9ef52h1z,NFT
+jrf1,"I have a never seen before photo of Elvis Presley. Would this make a good NFT? My dad was/is a huge Elvis fan. When he was a kid a family friend, who was a professional photographer who took the photo of Elvis backstage in 1956 when he came to perform in Philadelphia. He gave it to my dad.  Its an awesome photo and I've scoured the net (several times) looking for the photo and have never found it. Ive been trying to figure out what to do with it and am wondering if an NFT makes sense. Thoughts anyone?",1616364634.0,1,7gy59,NFT
+Pelle-31,"I read Elon Musks could have sold his tweet NFT for over a million $$.  If he spunked into a jar and said he was going to make his sperm a NFT.  What is that worth? You could possibly produce the next genius.   WAFE UP PEOPLE, this is stupid !!  .... is this world we live in?  
+Never mind , Ill just take some hair and clone him.  NFT , Elon Musk hair.  How much idiots ?",1616380936.0,1,15me15,NFT
+jst_jck,I just want this shit to stop.,1616411026.0,1,8p59ezc2,NFT
+sophiaisone,Check out my NFT art! https://rarible.com/sophiaisone,1616440216.0,1,2qnq04,NFT
+ardevd,"So for a painter who's used to putting their work in galleries, what would be the most sensible way to approach the NFT space. Digitize a painting, selling it as an NFT and shredding the original, or selling them both separately? Or something else?",1616492392.0,1,2qfqjnj,NFT
+pandaSmore,What does fungible mean?,1616525132.0,1,281nn,NFT
+Superdotcom,"This is an example of a NFT https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51974546984573551324928511781181350803095001671460969681889921272423987019777   
+Someone Just sold CHEAP copy of this for 100 ETH",1616528176.0,1,5d1q4vtk,NFT
