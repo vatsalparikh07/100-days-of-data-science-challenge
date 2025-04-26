@@ -417,3 +417,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2084.%20Analyzing%20Sora%20Discourse%3A%20Topic%20Modeling%20on%20Reddit%20Discussions)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2084.%20Analyzing%20Sora%20Discourse%3A%20Topic%20Modeling%20on%20Reddit%20Discussions/solution.ipynb)
+
+## Day 85. NFT Discourse Analysis : Sentiment Evolution on Reddit - 04/26/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2085.%20NFT%20Discourse%20Analysis%3A%20Sentiment%20Evolution%20on%20Reddit)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2085.%20NFT%20Discourse%20Analysis%3A%20Sentiment%20Evolution%20on%20Reddit/solution.ipynb)
