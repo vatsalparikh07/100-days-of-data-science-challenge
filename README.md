@@ -422,3 +422,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2085.%20NFT%20Discourse%20Analysis%3A%20Sentiment%20Evolution%20on%20Reddit)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2085.%20NFT%20Discourse%20Analysis%3A%20Sentiment%20Evolution%20on%20Reddit/solution.ipynb)
+
+## Day 86. Building NLP Applications with Hugging Face - 04/27/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2086.%20Building%20NLP%20Applications%20with%20Hugging%20Face)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2086.%20Building%20NLP%20Applications%20with%20Hugging%20Face/solution.ipynb)
