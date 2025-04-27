@@ -78,10 +78,10 @@ This project followed a structured pipeline, detailed within `solution.ipynb`:
     *   **Distribution:** Created a **histogram** (`seaborn.histplot`) of the `clean_sentiment_score`, revealing a strong skew towards positive reviews.
     *   **Trends Over Time:** Extracted the `year` from `review_date`. Grouped review counts by `year` and `clean_sentiment_category`. Visualized this using a **grouped bar chart** (`seaborn.barplot`), showing the dominance of positive reviews across all years in the dataset.
 
-![Sentiment Score Distribution](https://via.placeholder.com/600x350.png?text=Histogram+of+Sentiment+Scores)
+![image](https://github.com/user-attachments/assets/55748f37-3b05-40b7-9285-52aa7d22d33e)
 *Fig 1: Distribution heavily skewed towards positive sentiment.*
 
-![Sentiment Over Years](https://via.placeholder.com/600x350.png?text=Bar+Plot:+Sentiment+by+Year)
+![image](https://github.com/user-attachments/assets/d04a183c-052c-4ac7-8fc8-09962621b5b4)
 *Fig 2: Positive reviews consistently outnumber negative ones each year.*
 
 5.  **Capturing Meaning: Text Embeddings (`Task 6 & 7`):**
