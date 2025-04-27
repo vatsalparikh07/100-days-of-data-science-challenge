@@ -94,6 +94,9 @@ This project followed a structured pipeline, detailed within `solution.ipynb`:
     *   Utilized `semantic_search(query_embeddings, embeddings, top_k=5)` to efficiently find the 5 reviews whose embeddings had the highest **cosine similarity** to each query embedding.
     *   Displayed the query and its top 5 most semantically similar reviews from the dataset, demonstrating the ability to find conceptually related text beyond simple keyword matching.
 
+![image](https://github.com/user-attachments/assets/be92169c-b138-42e9-a01d-f0a4c009f407)
+*Fig 3: Embeddings visualized for 'rented for' reasons and category using t-SNE*
+
 ---
 
 ## 💡 Key Learnings & Impact
