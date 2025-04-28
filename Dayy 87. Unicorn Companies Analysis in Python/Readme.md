@@ -100,8 +100,6 @@ The dataset used is **`unicorn_companies.csv`**, containing information like:
 | **Funding Stages Distribution**         | Most unicorns achieve $1B value during Series C or D |
 | **Average Valuation per Industry**     | E-commerce and AI startups fetch the highest average valuations |
 
-![image](https://github.com/user-attachments/assets/2ebce8f6-adb2-417e-9536-33579438e7c0)
-
 ![newplot](https://github.com/user-attachments/assets/674abd42-9bc0-466b-beb0-087fa2cbf3fa)
 
 ![newplot2](https://github.com/user-attachments/assets/57670b0b-05b6-4359-870f-8105e3255d65)
