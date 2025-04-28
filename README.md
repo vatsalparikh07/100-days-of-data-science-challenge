@@ -427,3 +427,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2086.%20Building%20NLP%20Applications%20with%20Hugging%20Face)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2086.%20Building%20NLP%20Applications%20with%20Hugging%20Face/solution.ipynb)
+
+## Day 87. Unicorn Company Analysis in Python - 04/28/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2087.%20Unicorn%20Companies%20Analysis%20in%20Python)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2087.%20Unicorn%20Companies%20Analysis%20in%20Python/solution.ipynb)
