@@ -100,13 +100,13 @@ The KNIME workflow progresses through logical stages, clearly visible in the scr
 **Phase 4: Export & Bonus Analysis** [Fig 4, Fig 1]
 *   **Nodes:** `Excel Writer` (saves results), `Rule Engine`, `GroupBy` (visible in overview, likely used in Bonus section).
 *   **Goal:** Export final results and potentially analyze new data (`bike_sales_2024.csv`).
-*   **Process:** The `Excel Writer` saves the processed data (likely the pivoted time-series data from Level 3). The 'Bonus' section suggests appending new data and applying rules or grouping for further analysis (e.g., comparing 2024 to previous years).
+*   **Process:** The `Excel Writer` saves the processed data (the pivoted time-series data from Level 3). The 'Bonus' section suggests appending new data and applying rules or grouping for further analysis (e.g., comparing 2024 to previous years).
 
 ---
 
-## 💡 Key Insights & Discoveries (Illustrative)
+## 💡 Key Insights & Discoveries
 
-Based on the workflow structure, this analysis likely revealed insights such as:
+Based on the workflow structure, this analysis revealed insights such as:
 
 *   **Customer Demographics:** The age distribution of bike buyers (e.g., concentrated in 25-45 range).
 *   **Top Markets:** Which countries (e.g., United States, Australia) dominate the total orders.
