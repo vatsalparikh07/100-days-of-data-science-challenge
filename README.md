@@ -437,3 +437,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2088.%20Bike%20Sales%20Data%20Analysis%20in%20KNIME)
 - [Solution Workflow](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2088.%20Bike%20Sales%20Data%20Analysis%20in%20KNIME/Bike%20sales%20data%20analysis.knwf)
+
+# Day 89. Image Analytics with ApertureDB and PyTorch - 04/30/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2089.%20Image%20Analytics%20with%20ApertureDB%20and%20PyTorch)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2089.%20Image%20Analytics%20with%20ApertureDB%20and%20PyTorch)
