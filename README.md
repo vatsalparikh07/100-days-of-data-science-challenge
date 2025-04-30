@@ -432,3 +432,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2087.%20Unicorn%20Companies%20Analysis%20in%20Python)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2087.%20Unicorn%20Companies%20Analysis%20in%20Python/solution.ipynb)
+
+## Day 88. Bike Sales Data Analysis in KNIME - 04/29/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2088.%20Bike%20Sales%20Data%20Analysis%20in%20KNIME)
+- [Solution Workflow](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Dayy%2088.%20Bike%20Sales%20Data%20Analysis%20in%20KNIME/Bike%20sales%20data%20analysis.knwf)
