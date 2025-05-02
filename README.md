@@ -442,3 +442,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2089.%20Image%20Analytics%20with%20ApertureDB%20and%20PyTorch)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2089.%20Image%20Analytics%20with%20ApertureDB%20and%20PyTorch)
+
+## Day 90. NYC Tree Census Analysis Case Study - 05/01/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2090.%20NYC%20Tree%20Census%20Analysis%20Case%20Study)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2090.%20NYC%20Tree%20Census%20Analysis%20Case%20Study/solution.ipynb)
