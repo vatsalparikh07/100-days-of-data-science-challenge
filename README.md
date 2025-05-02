@@ -447,3 +447,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2090.%20NYC%20Tree%20Census%20Analysis%20Case%20Study)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2090.%20NYC%20Tree%20Census%20Analysis%20Case%20Study/solution.ipynb)
+
+## Day 91. Exploring Cell Phone Data in Tableau - 05/02/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2091.%20Exploring%20Cell%20Phone%20Data%20in%20Tableau)
+- [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2091.%20Exploring%20Cell%20Phone%20Data%20in%20Tableau/cellphone_data.twb)
