@@ -452,3 +452,8 @@
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2091.%20Exploring%20Cell%20Phone%20Data%20in%20Tableau)
 - [Solution Workbook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2091.%20Exploring%20Cell%20Phone%20Data%20in%20Tableau/cellphone_data.twb)
+
+## Day 92. Building an AI Note-taking Application - 05/03/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application/solution.ipynb)
