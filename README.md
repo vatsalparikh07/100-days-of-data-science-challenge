@@ -459,3 +459,5 @@
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application/solution.ipynb)
 
 ## Day 93. 
+
+## Day 94.
