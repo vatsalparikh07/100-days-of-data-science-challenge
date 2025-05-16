@@ -456,9 +456,9 @@
 ## Day 92. Building an AI Note-taking Application - 05/03/2025
 
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application)
-- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application/generation-pipeline.ipynb)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2092.%20Building%20an%20AI%20Note-taking%20Application/generation_pipeline.ipynb)
 
-## Day 93. 
+## Day 93. Solving an HR Analytics Case Study with Power BI - 05/04/2025
 
 ## Day 94.
 
