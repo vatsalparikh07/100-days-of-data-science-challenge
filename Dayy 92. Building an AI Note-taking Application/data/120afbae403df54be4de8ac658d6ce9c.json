@@ -1,0 +1,44 @@
+{
+    "id": "120afbae403df54be4de8ac658d6ce9c",
+    "metadata": {
+        "id": "120afbae403df54be4de8ac658d6ce9c",
+        "url": "https://www.notion.so/Agents-120afbae403df54be4de8ac658d6ce9c",
+        "title": "Agents",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "9eb462d2f0ae0c8bf6baad664ce2f9ea",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Notes\n\n\n\n<child_page>\n# Agents Memory\n\n🔗 Source: [https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj?utm_source=share&utm_medium=member_desktop)\n---\n\nA simple way to explain 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁 𝗠𝗲𝗺𝗼𝗿𝘆.\nIn general, the memory for an agent is something that we provide via context in the prompt passed to LLM that helps the agent to better plan and react given past interactions or data not immediately available.\nIt is useful to group the memory into four types:\n𝟭. Episodic - This type of memory contains past interactions and actions performed by the agent. After an action is taken, the application controlling the agent would store the action in some kind of persistent storage so that it can be retrieved later if needed. A good example would be using a vector Database to store semantic meaning of the interactions.\n𝟮. Semantic - Any external information that is available to the agent and any knowledge the agent should have about itself. You can think of this as a context similar to one used in RAG applications. It can be internal knowledge only available to the agent or a grounding context to isolate part of the internet scale data for more accurate answers.\n𝟯. Procedural - This is systemic information like the structure of the System Prompt, available tools, guardrails etc. It will usually be stored in Git, Prompt and Tool Registries.\n𝟰. Occasionally, the agent application would pull information from long-term memory and store it locally if it is needed for the task at hand.\n𝟱. All of the information pulled together from the long-term or stored in local memory is called short-term or working memory. Compiling all of it into a prompt will produce the prompt to be passed to the LLM and it will provide further actions to be taken by the system.\nWe usually label 1. - 3. as Long-Term memory and 5. as Short-Term memory.\nA visual explanation of potential implementation details 👇\nAnd that is it! The rest is all about how you architect the flow of your Agentic systems.\n[Image](No URL)\n</child_page>\n\n\n\n\n---\n\n# Community\n\n\t[https://github.com/neural-maze/agentic_patterns](https://github.com/neural-maze/agentic_patterns)\n\t[Prompt Engineering Guide](https://www.promptingguide.ai/)\n\t[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent)\n\t[LLM Agents](https://www.promptingguide.ai/research/llm-agents)\n\t[https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html)\n\t[https://github.com/coleam00/ai-agents-masterclass/tree/main](https://github.com/coleam00/ai-agents-masterclass/tree/main)\n\n# Science\n\n\t[Chain of Thought](https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN) prompting, which asks LLMs to think step by step\n\t[Self-consistency](https://arxiv.org/abs/2203.11171?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN), which prompts a model to generate several responses and pick the one that’s most consistent with the others\n\t[ReAc](https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN)t, which interleaves reasoning and action steps to accomplish a goal\n\t[Self-Refine](https://arxiv.org/abs/2303.17651?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN), which enables an agent to reflect on its own output\n\t[Reflexion](https://arxiv.org/abs/2303.11366?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN), which enables a model to act, evaluate, reflect, and repeat.\n\t[Test-time compute](https://arxiv.org/abs/2408.03314?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN), which increases the amount of processing power allotted to inference\n\n# Tools\n\n\t- [AgentGPT](https://github.com/reworkd/AgentGPT)\n\t- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)\n\t- [babyagi](https://github.com/yoheinakajima/babyagi)\n\t- [https://github.com/gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)\n\t\n\t[https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents)\n\t[https://github.com/pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)\n\t[https://docs.llamaindex.ai/en/stable/module_guides/workflow/](https://docs.llamaindex.ai/en/stable/module_guides/workflow/)\n\t[https://www.langchain.com/langgraph](https://www.langchain.com/langgraph)\n\t[https://github.com/crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)",
+    "content_quality_score": null,
+    "summary": null,
+    "child_urls": [
+        "https://docs.llamaindex.ai/en/stable/module_guides/workflow/",
+        "https://huyenchip.com//2025/01/07/agents.html/",
+        "https://www.langchain.com/langgraph/",
+        "https://github.com/neural-maze/agentic_patterns/",
+        "https://github.com/pydantic/pydantic-ai/",
+        "https://arxiv.org/abs/2203.11171?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/",
+        "https://www.promptingguide.ai/",
+        "https://github.com/coleam00/ai-agents-masterclass/tree/main/",
+        "https://github.com/gpt-engineer-org/gpt-engineer/",
+        "https://github.com/yoheinakajima/babyagi/",
+        "https://www.promptingguide.ai/research/llm-agents/",
+        "https://arxiv.org/abs/2303.17651?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/",
+        "https://arxiv.org/abs/2303.11366?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/",
+        "https://github.com/huggingface/smolagents/",
+        "https://github.com/crewAIInc/crewAI/",
+        "https://www.linkedin.com/posts/aurimas-griciunas_llm-ai-machinelearning-activity-7284520203705610240-gkSj?utm_source=share&utm_medium=member_desktop/",
+        "https://lilianweng.github.io/posts/2023-06-23-agent/",
+        "https://github.com/reworkd/AgentGPT/",
+        "https://arxiv.org/abs/2201.11903?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/",
+        "https://arxiv.org/abs/2408.03314?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/",
+        "https://github.com/Significant-Gravitas/AutoGPT/",
+        "https://research.google/blog/react-synergizing-reasoning-and-acting-in-language-models/?utm_campaign=The%20Batch&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8TWMQ2pzYlyupoha6NJn2_c8a9NVXjbrj_SXljxGjznmQTE8OZx9MLwfZlDobYLwnqPJjN/"
+    ]
+}

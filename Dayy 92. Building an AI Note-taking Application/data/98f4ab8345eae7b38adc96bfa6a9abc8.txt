@@ -1,0 +1,4 @@
+# Videos
+
+	- [Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks](https://www.youtube.com/watch?v=MCQfOj9iqig&t=2508s)
+	- [Lightricks Customer Story: Building A Recommendation Engine From Scratch](https://www.qwak.com/academy/lightricks-customer-story-building-a-recommendation-engine-from-scratch)

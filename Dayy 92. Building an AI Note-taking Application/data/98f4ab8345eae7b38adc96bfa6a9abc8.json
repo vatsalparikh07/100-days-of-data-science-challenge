@@ -1,0 +1,24 @@
+{
+    "id": "98f4ab8345eae7b38adc96bfa6a9abc8",
+    "metadata": {
+        "id": "98f4ab8345eae7b38adc96bfa6a9abc8",
+        "url": "https://www.notion.so/Recommender-Systems-98f4ab8345eae7b38adc96bfa6a9abc8",
+        "title": "Recommender Systems",
+        "properties": {
+            "Type": "Leaf"
+        }
+    },
+    "parent_metadata": {
+        "id": "5ed6f96f8acab4095ea74dcd42e1aa77",
+        "url": "",
+        "title": "",
+        "properties": {}
+    },
+    "content": "# Videos\n\n\t- [Scaling TikTok's Recommendation System: 1M Writes/Second with Hopsworks](https://www.youtube.com/watch?v=MCQfOj9iqig&t=2508s)\n\t- [Lightricks Customer Story: Building A Recommendation Engine From Scratch](https://www.qwak.com/academy/lightricks-customer-story-building-a-recommendation-engine-from-scratch)",
+    "content_quality_score": 0.1,
+    "summary": null,
+    "child_urls": [
+        "https://www.youtube.com/watch?v=MCQfOj9iqig&t=2508s/",
+        "https://www.qwak.com/academy/lightricks-customer-story-building-a-recommendation-engine-from-scratch/"
+    ]
+}

@@ -1,0 +1,409 @@
+# Notes
+
+
+
+<child_page>
+# Main LLM optimization techniques
+
+Directly supported by LLM inference engines (e.g., vLLM, TGI, TensorRT-LLM):
+- Caching:
+	- KV-caching
+	- prompt caching (in memory, disk or semantic)
+
+- Compilers:
+	- torch.compile()
+	- TensorRT
+
+- Continuous batching
+- Speculative decoding
+- Optimized attention mechanisms
+	- PagedAttention
+	- FlashAttention
+
+- Model parallelism
+	- data
+	- pipeline (lower VRAM)
+	- tensor (lower latency)
+
+
+Additional steps before loading LLMs into inference engines:
+- Quantization:
+	- GGUF - optimized for CPU
+	- GPTQ, EXL2, AWQ - optimized for GPU
+</child_page>
+
+
+
+<child_page>
+# Speculative Decoding: A Guide With Implementation Examples
+
+[https://www.datacamp.com/tutorial/speculative-decoding](https://www.datacamp.com/tutorial/speculative-decoding)
+# Summary
+
+
+
+
+# Notes
+
+Let's break down the process of speculative decoding into simple steps:
+- ​Draft generation: The smaller model (e.g., Gemma2-2B-it) generates multiple token suggestions based on the input prompt. These tokens are generated speculatively, meaning the model is not certain they are correct but provides them as “draft” tokens.
+- Parallel ​verification: The larger model (e.g., Gemma2-9B-it) verifies these tokens in parallel, checking their probability against the model’s learned distribution. If the tokens are deemed acceptable, they are used in the final output. If not, the larger model corrects them.
+- ​Final output: Once the tokens are verified (or corrected), they are passed on to the user as the final output. This entire process happens much faster than traditional one-token-at-a-time decoding.
+[Image](No URL)
+This can reduce response time by 30-40%, cutting latency from 25-30 seconds to as little as 15-18 seconds.
+Additionally, speculative decoding optimizes memory usage by shifting most of the token generation to the smaller model, reducing memory requirements from 26 GB to around 14 GB and making [on-device](https://www.datacamp.com/blog/edge-ai) inference more accessible.
+Finally, it lowers compute demands by 50%, as the larger model only verifies rather than generates tokens, enabling smoother performance on mobile devices with limited power and preventing overheating.
+```
+import torch
+from transformers import AutoTokenizer, AutoModelForCausalLM, set_seed
+
+
+def speculative_decoding(small_model, big_model, small_tokenizer, big_tokenizer, prompt, max_new_tokens=50):
+    # Step 1: Use the small model to generate the draft
+    inputs = small_tokenizer(prompt, return_tensors='pt').to(device)
+    small_outputs = small_model.generate(inputs['input_ids'], max_new_tokens=max_new_tokens)
+    draft = small_tokenizer.decode(small_outputs[0], skip_special_tokens=True)
+
+    # Step 2: Verify the draft with the big model
+    big_inputs = big_tokenizer(draft, return_tensors='pt').to(device)
+
+    # Step 3: Calculate log-likelihood of the draft tokens under the large model
+    with torch.no_grad():
+        outputs = big_model(big_inputs['input_ids'])
+        log_probs = torch.log_softmax(outputs.logits, dim=-1)
+
+    draft_token_ids = big_inputs['input_ids']
+    log_likelihood = 0
+    for i in range(draft_token_ids.size(1) - 1):
+        token_id = draft_token_ids[0, i + 1]
+        log_likelihood += log_probs[0, i, token_id].item()
+
+    avg_log_likelihood = log_likelihood / (draft_token_ids.size(1) - 1)
+
+    # Return the draft and its log-likelihood score
+    return draft, avg_log_likelihood
+````
+</child_page>
+
+
+
+<child_page>
+# Optimizing LLMs for Speed and Memory
+
+ [https://huggingface.co/docs/transformers/en/llm_tutorial_optimization](https://huggingface.co/docs/transformers/en/llm_tutorial_optimization)
+# Summary
+
+
+
+---
+
+
+In this guide, we will go over the effective techniques for efficient LLM deployment:
+- Lower Precision (quantization): Research has shown that operating at reduced numerical precision, namely [8-bit and 4-bit](https://huggingface.co/docs/transformers/en/main_classes/quantization.md) can achieve computational advantages without a considerable decline in model performance.
+- Flash Attention: Flash Attention is a variation of the attention algorithm that not only provides a more memory-efficient approach but also realizes increased efficiency due to optimized GPU memory utilization.
+- Architectural Innovations: Considering that LLMs are always deployed in the same way during inference, namely autoregressive text generation with a long input context, specialized model architectures have been proposed that allow for more efficient inference. The most important advancement in model architectures hereby are [Alibi](https://arxiv.org/abs/2108.12409), [Rotary embeddings](https://arxiv.org/abs/2104.09864), [Multi-Query Attention (MQA)](https://arxiv.org/abs/1911.02150) and [Grouped-Query-Attention (GQA)](https://huggingface.co/docs/transformers/en/(https://arxiv.org/abs/2305.13245)).
+
+# Lower Precision
+
+“Loading the weights of a model having X billion parameters requires roughly 4 X GB of VRAM in float32 precision*
+“Loading the weights of a model having X billion parameters requires roughly 2 X GB of VRAM in bfloat16/float16 precision*
+
+# Flash Attention
+
+By keeping track of softmax normalization statistics and by using some smart mathematics, Flash Attention gives numerical identical outputs compared to the default self-attention layer at a memory cost that only increases linearly with N.
+Flash Attention is much faster in inference compared to default attention which comes from its ability to significantly reduce the demands on the slower, high-bandwidth memory of the GPU (VRAM), focusing instead on the faster on-chip memory (SRAM).
+Essentially, Flash Attention makes sure that all intermediate write and read operations can be done using the fast on-chip SRAM memory instead of having to access the slower VRAM memory to compute the output vector O.
+In practice, there is currently absolutely no reason to not use Flash Attention if available. The algorithm gives mathematically the same outputs, and is both faster and more memory-efficient.
+```
+model.to_bettertransformer()
+
+start_time = time.time()
+with torch.backends.cuda.sdp_kernel(enable_flash=True, enable_math=False, enable_mem_efficient=False):
+    result = pipe(long_prompt, max_new_tokens=60)[0]["generated_text"][len(long_prompt):]
+
+print(f"Generated in {time.time() - start_time} seconds.")
+````
+
+# Architectural Innovations
+
+Let’s now look into how we can change the architecture of an LLM so that it is most effective and efficient for task that require long text inputs, e.g.:
+- Retrieval augmented Questions Answering,
+- Summarization,
+- Chat
+Note that chat not only requires the LLM to handle long text inputs, but it also necessitates that the LLM is able to efficiently handle the back-and-forth dialogue between user and assistant (such as ChatGPT).
+
+Two important components of the model architecture that quickly become memory and/or performance bottlenecks for large input sequences:
+- The positional embeddings
+- The key-value cache
+
+# Improving positional embeddings of LLMs
+
+Sinusoidal and learned position embeddings used to be the predominant methods to encode sentence order into LLMs, but a couple of problems related to these positional encodings were found:
+- Sinusoidal and learned position embeddings are both absolute positional embeddings: lead to poor LLM performance for long text inputs. For long text inputs, it is advantageous if the model learns the relative positional distance input tokens have to each other instead of their absolute position.
+- When using learned position embeddings, the LLM has to be trained on a fixed input lengthN, which makes it difficult to extrapolate to an input length longer than what it was trained on.
+Recently, relative positional embeddings that can tackle the above mentioned problems have become more popular, most notably:
+- [Rotary Position Embedding (RoPE)](https://arxiv.org/abs/2104.09864)
+- [ALiBi](https://arxiv.org/abs/2108.12409)
+Both RoPE and ALiBi argue that it’s best to cue the LLM about sentence order directly in the self-attention algorithm as it’s there that word tokens are put into relation with each other. More specifically, sentence order should be cued by modifying the QKT computation.
+RoPE notes that positional information can be encoded into query-key pairs by rotating each vector by an angle.
+RoPE is used in multiple of today’s most important LLMs, such as:
+- [Falcon](https://huggingface.co/tiiuae/falcon-40b)
+- [Llama](https://arxiv.org/abs/2302.13971)
+- [PaLM](https://arxiv.org/abs/2204.02311)
+As an alternative, ALiBi proposes a much simpler relative position encoding scheme. The relative distance that input tokens have to each other is added as a negative integer scaled by a pre-defined value m to each query-key entry of the QKT matrix right before the softmax computation.
+[Image](No URL)
+ALiBi is used in multiple of today’s most important LLMs, such as:
+- [MPT](https://huggingface.co/mosaicml/mpt-30b)
+- [BLOOM](https://huggingface.co/bigscience/bloom)
+Both RoPE and ALiBi position encodings can extrapolate to input lengths not seen during training whereas it has been shown that extrapolation works much better out-of-the-box for ALiBi as compared to RoPE.
+For RoPE , keeping the same θ that was used during training leads to poor results when passing text inputs much longer than those seen during training
+The further text input tokens are from each other, the lower the probability of their query-value probability. Both RoPE and ALiBi lower the query-key probability of tokens far away from each other. RoPE by decreasing their vector product by increasing the angle between the query-key vectors. ALiBi by adding large negative numbers to the vector product
+note that even if an LLM with RoPE and ALiBi has been trained only on a fixed length of say N1=2048 it can still be used in practice with text inputs much larger than N1, like N2=8192>N1 by extrapolating the positional embeddings.
+
+# The key-value cache
+
+```
+past_key_values = None # past_key_values is the key-value cache
+generated_tokens = []
+next_token_id = tokenizer(prompt, return_tensors="pt")["input_ids"].to("cuda")
+
+for _ in range(5):
+  next_logits, past_key_values = model(next_token_id, past_key_values=past_key_values, use_cache=True).to_tuple()
+  next_logits = next_logits[:, -1:]
+  next_token_id = torch.argmax(next_logits, dim=-1)
+
+  print("shape of input_ids", next_token_id.shape)
+  print("length of key-value cache", len(past_key_values[0][0]))  # past_key_values are of shape [num_layers, 0 for k, 1 for v, batch_size, length, hidden_dim]
+  generated_tokens.append(next_token_id.item())
+
+generated_text = tokenizer.batch_decode(generated_tokens)
+generated_text
+````
+Output:
+```
+shape of input_ids torch.Size([1, 1])
+length of key-value cache 20
+shape of input_ids torch.Size([1, 1])
+length of key-value cache 21
+shape of input_ids torch.Size([1, 1])
+length of key-value cache 22
+shape of input_ids torch.Size([1, 1])
+length of key-value cache 23
+shape of input_ids torch.Size([1, 1])
+length of key-value cache 24
+````
+As one can see, when using the key-value cache the text input tokens are not increased in length, but remain a single input vector. The length of the key-value cache on the other hand is increased by one at every decoding step.
+Making use of the key-value cache means that the QKT is essentially reduced to qcKT with qc being the query projection of the currently passed input token which is always just a single vector.
+Using the key-value cache has two advantages:
+- Significant increase in computational efficiency as less computations are performed compared to computing the fullQKT matrix. This leads to an increase in inference speed
+	QKT
+
+- The maximum required memory is not increased quadratically with the number of generated tokens, but only increases linearly.
+“One should always make use of the key-value cache as it leads to identical results and a significant speed-up for longer input sequences.”
+Note that, despite our advice to use key-value caches, your LLM output may be slightly different when you use them. This is a property of the matrix multiplication kernels themselves.
+
+# Multi-round conversation
+
+The key-value cache is especially useful for applications such as chat where multiple passes of auto-regressive decoding are required.
+Two things should be noted here:
+- Keeping all the context is crucial for LLMs deployed in chat so that the LLM understands all the previous context of the conversation. 
+- The key-value cache is extremely useful for chat as it allows us to continuously grow the encoded chat history instead of having to re-encode the chat history again from scratch (as e.g. would be the case when using an encoder-decoder architecture).
+Example on how to use previous key-value results from a different generation step:
+```
+# Generation as usual
+prompt = system_prompt + "Question: Please write a function in Python that transforms bytes to Giga bytes.\n\nAnswer: Here"
+model_inputs = tokenizer(prompt, return_tensors='pt')
+generation_output = model.generate(**model_inputs, max_new_tokens=60, return_dict_in_generate=True)
+decoded_output = tokenizer.batch_decode(generation_output.sequences)[0]
+
+# Piping the returned `past_key_values` to speed up the next conversation round
+prompt = decoded_output + "\nQuestion: How can I modify the function above to return Mega bytes instead?\n\nAnswer: Here"
+model_inputs = tokenizer(prompt, return_tensors='pt')
+generation_output = model.generate(
+  **model_inputs,
+  past_key_values=generation_output.past_key_values,
+  max_new_tokens=60,
+  return_dict_in_generate=True
+)
+tokenizer.batch_decode(generation_output.sequences)[0][len(prompt):]
+````
+Output:
+```
+ is a modified version of the function that returns Mega bytes instead.
+
+def bytes_to_megabytes(bytes):
+   return bytes / 1024 / 1024
+
+Answer: The function takes a number of bytes as input and returns the number of
+````
+There is however one catch: holding the key-value cache in memory can become very memory expensive for long input sequences or multi-turn chat.
+Computing this for our LLM at a hypothetical input sequence length of 16000 gives:
+```
+config = model.config # bigcode/octocoder
+2 * 16_000 * config.n_layer * config.n_head * config.n_embd // config.n_head
+````
+Roughly 8 billion float values! Storing 8 billion float values in float16 precision requires around 15 GB of RAM
+# Multi-Query-Attention (MQA)
+
+Noam found out that instead of using n_head key-value projections weights, one can use a single head-value projection weight pair that is shared across all attention heads without that the model’s performance significantly degrades.
+As most LLMs use between 20 and 100 attention heads, MQA significantly reduces the memory consumption of the key-value cache.
+In addition to memory savings, MQA also leads to improved computational efficiency
+MQA has seen wide adoption by the community and is now used by many of the most popular LLMs:
+- [Falcon](https://huggingface.co/tiiuae/falcon-40b)
+- [PaLM](https://arxiv.org/abs/2204.02311)
+- [MPT](https://huggingface.co/mosaicml/mpt-30b)
+- [BLOOM](https://huggingface.co/bigscience/bloom)
+# Grouped-Query-Attention (GQA)
+
+[Grouped-Query-Attention](https://arxiv.org/abs/2305.13245), as proposed by Ainslie et al. from Google, found that using MQA can often lead to quality degradation compared to using vanilla multi-key-value head projections. 
+ Instead of using just a single key-value projection weight, n < n_head key-value projection weights should be used.
+By choosing n to a significantly smaller value than n_head, such as 2,4 or 8 almost all of the memory and speed gains from MQA can be kept while sacrificing less model capacity and thus arguably less performance.
+GQA was only recently proposed which is why there is less adoption at the time of writing this notebook. The most notable application of GQA is [Llama-v2](https://huggingface.co/meta-llama/Llama-2-70b-hf).
+
+As a conclusion, it is strongly recommended to make use of either GQA or MQA if the LLM is deployed with auto-regressive decoding and is required to handle large input sequences as is the case for example for chat.
+</child_page>
+
+
+
+<child_page>
+# Continuous vs dynamic batching for AI inference
+
+[https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/](https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/)
+# Summary
+
+
+
+
+# Notes
+
+There are four ways inference requests can be batched on a GPU:
+- No batching: each request is processed one at a time.
+- Static batching: requests are placed in batches that are run when full.
+- Dynamic batching: requests are placed in batches as they’re received and batches run once full or once enough time has elapsed since the first request.
+- Continuous batching: requests are processed token-by-token, with new requests getting processed as older requests finish and free up space on the GPU.
+Batching method depends on model architecture and modality. In production, you’ll generally want continuous batching for LLMs and dynamic batching for most other generative models.
+
+When running inference on an LLM, or many other ML models, your bottleneck is the memory bandwidth used to load model weights. Model weights are much bigger than the activations (which are the "state" of a request mid-processing), so when loading a single layer of weights into the GPU's cache, you want to share that cost across processing many independent sets of activations.
+
+Static batching works well for daily jobs or behind-the-scenes processing. But for latency-sensitive production deployments, like generating images in response to user input, static batching won’t cut it.
+
+Dynamic batching works the same way. You set up dynamic batching with:
+- A preset maximum batch size, which you hope to reach before kicking off each run.
+- A window to wait after receiving the first request before running a partial batch.
+
+Dynamic batching is great for live traffic on models like [Stable Diffusion XL](https://www.baseten.co/library/stable-diffusion-xl/), where each inference request takes about the same amount of time.
+
+While dynamic batching is great for modalities like image generation where each output takes about the same amount of time to create, we can do even better for LLMs with continuous batching.
+
+Continuous batching works at the token level rather than at the request level. The bottleneck in LLM inference is loading model weights. So for continuous batching, the model server loads each layer of the model sequentially and applies it to the next token of each request. In continuous batching, the same model weights could be used to generate the fifth token of one response and the eighty-fifth token of another.
+[Image](No URL)
+Like with dynamic batching, you need to configure continuous batching based on your anticipated traffic patterns. You need to specify:
+- Maximum batch size: how many requests the model can process at once.
+- Anticipated sequence shapes: how many tokens the input and output sequences are expected to contain.
+Continuous batching is implemented at the inference server layer. Model servers like TGI and VLLM offer continuous batching, while TensorRT-LLM uses “in-flight batching” to essentially the same effect.
+</child_page>
+
+
+
+<child_page>
+# RoPE (Rotary Position Embedding) Scaling 
+
+RoPE (Rotary Position Embedding) Scaling is a technique used to extend the context window of Large Language Models (LLMs) during training and inference, enabling them to process sequences longer than their original training length. It addresses the challenge of maintaining positional awareness and model performance when handling longer input sequences without retraining the model from scratch.
+---
+
+# What Problem Does RoPE Scaling Solve?
+
+Transformers rely on position embeddings to understand token order. Standard RoPE encodes positions by rotating query/key vectors using sinusoidal functions. However, when a model trained on sequences of length L (e.g., 4k tokens) encounters inputs longer than L during inference, its positional understanding breaks down, leading to poor performance. RoPE Scaling modifies the original RoPE mechanism to generalize better to longer sequences.
+---
+
+# How RoPE Works (Brief Recap)
+
+- Rotary Position Embedding (RoPE) injects positional information by rotating the query (Q) and key (K) vectors in the attention mechanism using complex-number rotations. The rotation angle depends on the token's position.
+- Mathematically, for a token at position m, the rotation is applied as:
+\[
+Q_m = Q \cdot e^{i m \theta}, \quad K_n = K \cdot e^{i n \theta}
+\]
+where θ is a frequency parameter. The dot product Q_m · K_n then inherently encodes the relative distance (m − n).
+---
+
+# RoPE Scaling Techniques
+
+To adapt RoPE for longer sequences, the rotation mechanism is adjusted by modifying the frequency parameters (θ) or interpolation strategies. Common methods include:
+- Linear Scaling (Position Interpolation):
+	- Compresses the position indices of longer sequences into the original training range.
+	- Example: For a model trained on 2048 tokens, scaling to 8192 tokens would divide position indices by 4 (interpolating positions).
+	- Used in models like LLaMA 2 (extending context from 4k → 8k/16k).
+
+- NTK-Aware Scaling:
+	- Based on Neural Tangent Kernel (NTK) theory, it gradually increases high-frequency resolution while preserving low-frequency information.
+	- Instead of directly interpolating positions, it tweaks the base frequency θ to balance short- and long-range attention.
+
+- Dynamic NTK Scaling:
+	- Dynamically adjusts the interpolation factor based on input length.
+	- For shorter sequences (≤ trained length), uses original RoPE. For longer sequences, applies NTK-aware scaling.
+
+- YaRN (Yet another RoPE extensioN):
+	- Combines NTK-aware scaling with "temperature" tuning to minimize degradation in attention patterns.
+	- Achieves strong performance for extreme extrapolation (e.g., 128k context in Mistral 7B).
+
+---
+
+# Why It Matters for LLMs
+
+- Longer Context: Enables models to process books, codebases, or multi-document inputs.
+- Efficiency: Avoids full retraining on longer sequences (costly for large models).
+- Zero-Shot Adaptation: Many LLMs (e.g., LLaMA, GPT-NeoX) can use RoPE scaling during inference with minimal code changes.
+---
+
+# Technical Intuition
+
+- Frequency Bands: RoPE assigns different frequencies to positions. Scaling adjusts these frequencies to avoid "spectral distortion" when extrapolating.
+- Interpolation vs. Extrapolation:
+	- Naive extrapolation (using positions beyond training length) causes attention scores to degrade.
+	- Scaling "stretches" the frequency spectrum to cover longer sequences smoothly.
+
+(Analogy: Imagine stretching a spring. Linear scaling compresses the spring, while NTK-aware scaling adjusts its stiffness to avoid breaking.)
+---
+
+# Challenges
+
+- Loss of High-Frequency Details: Aggressive scaling can blur fine-grained positional relationships.
+- Calibration: Requires balancing interpolation strength to avoid performance drops.
+- Attention Head Variance: Some attention heads are more sensitive to positional changes than others.
+---
+
+# Applications
+
+- Code Completion: Handling long code files.
+- Document Analysis: Summarizing/researching multi-page texts.
+- Chatbots: Retaining context over long conversations.
+Models like CodeLlama, Mistral 7B, and Yi-34B use variants of RoPE scaling to achieve context windows up to 200k tokens.
+---
+
+# Key Takeaway
+
+RoPE Scaling is a clever computational tweak to the positional encoding mechanism, enabling LLMs to generalize to longer sequences without retraining. It bridges the gap between fixed-context training and variable-context real-world use cases.
+</child_page>
+
+
+---
+
+# Resources [Community]
+
+	[https://steelph0enix.github.io/posts/llama-cpp-guide](https://steelph0enix.github.io/posts/llama-cpp-guide)
+	[https://www.datacamp.com/tutorial/speculative-decoding](https://www.datacamp.com/tutorial/speculative-decoding)
+	[https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/](https://www.baseten.co/blog/continuous-vs-dynamic-batching-for-ai-inference/)
+	[https://huggingface.co/docs/transformers/en/llm_tutorial_optimization](https://huggingface.co/docs/transformers/en/llm_tutorial_optimization)
+	[https://www.youtube.com/watch?v=sNv5jpAwkcU](https://www.youtube.com/watch?v=sNv5jpAwkcU)
+
+# Resources [Science]
+
+	
+
+# Tools
+
+	# Quantization
+	
+	[Link Preview](https://github.com/ggerganov/llama.cpp)
+	[Link Preview](https://github.com/turboderp/exllamav2)
+	 [AutoQuant](https://colab.research.google.com/drive/1b6nqC7UZVt8bx4MksX7s656GXPM-eWw4?usp=sharing#scrollTo=fD24jJxq7t3k)
