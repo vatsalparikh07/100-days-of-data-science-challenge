@@ -460,6 +460,9 @@
 
 ## Day 93. Solving an HR Analytics Case Study with Power BI - 05/04/2025
 
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2093.%20Solving%20an%20HR%20Analytics%20Case%20Study%20with%20Power%20BI)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2093.%20Solving%20an%20HR%20Analytics%20Case%20Study%20with%20Power%20BI/solution.pbix)
+  
 ## Day 94.
 
 ## Day 95.
