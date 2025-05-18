@@ -69,9 +69,11 @@ This project follows a structured approach to stock market analysis:
     *   Generated a **faceted area chart** to compare individual stock price movements more clearly, with each ticker in its own subplot.
 
 ![image](https://github.com/user-attachments/assets/9dd5d195-db00-47be-8d8b-2a906dca64d1)
+
 *Fig 1: Plotly line chart showing closing prices for AAPL, MSFT, NFLX, GOOG over the last 3 months.*
 
 ![image](https://github.com/user-attachments/assets/341cbdb2-65db-4503-ab31-feed2edad78f)
+
 *Fig 2: Plotly faceted area chart for individual stock price trends.*
 
 3.  **Moving Average Analysis:**
@@ -79,6 +81,7 @@ This project follows a structured approach to stock market analysis:
     *   Generated separate **line charts for each ticker**, plotting the 'Close' price along with its `MA10` and `MA20` to identify trends and potential crossover signals.
 
 ![image](https://github.com/user-attachments/assets/888aacae-d711-4328-a884-3f14b710fd2d)
+
 *Fig 3: Apple (AAPL) closing price with 10-day and 20-day Moving Averages. Bullish/bearish signals can be inferred from MA crossovers.*
 
 4.  **Volatility Analysis:**
@@ -87,6 +90,7 @@ This project follows a structured approach to stock market analysis:
     *   Created a **line chart** plotting `Volatility` over 'Date' for all tickers, colored by 'Ticker'.
 
 ![image](https://github.com/user-attachments/assets/562f6aa6-f75e-4be1-879b-f494bee8c066)
+
 *Fig 4: Plotly line chart showing the 10-day rolling volatility for each stock.*
 
 5.  **Correlation Analysis (Apple vs. Microsoft):**
@@ -95,6 +99,7 @@ This project follows a structured approach to stock market analysis:
     *   Generated a **scatter plot** of AAPL 'Close' price vs. MSFT 'Close' price, including an Ordinary Least Squares (OLS) `trendline` to visualize the correlation.
 
 ![image](https://github.com/user-attachments/assets/691bb7f4-51ed-4b91-bec4-93900c364f61)
+
 *Fig 5: Scatter plot showing a strong positive correlation between Apple and Microsoft stock prices over the period.*
 
 ---
