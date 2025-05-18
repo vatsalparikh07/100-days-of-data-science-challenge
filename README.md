@@ -473,8 +473,11 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2095.%20Building%20a%20Deep%20Research%20AI%20Multi-Agent%20with%20LlamaIndex)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2095.%20Building%20a%20Deep%20Research%20AI%20Multi-Agent%20with%20LlamaIndex/solution.ipynb)
 
-## Day 96.
+## Day 96. Twitter Content Analysis on Tesla Cybertruck Discourse - 05/07/2025
 
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2096.%20Twitter%20Content%20Analysis%20on%20Cybertruck%20Discourse)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2096.%20Twitter%20Content%20Analysis%20on%20Cybertruck%20Discourse/Content_Analysis.ipynb)
+  
 ## Day 97.
 
 ## Day 98.
