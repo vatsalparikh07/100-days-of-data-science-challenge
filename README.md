@@ -468,7 +468,10 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2094.%20Stock%20Market%20Analysis%20with%20GitHub%20Copilot)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2094.%20Stock%20Market%20Analysis%20with%20GitHub%20Copilot/solution.ipynb)
 
-## Day 95.
+## Day 95. Building a Deep Research AI Multi-Agent with LlamaIndex - 05/06/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2095.%20Building%20a%20Deep%20Research%20AI%20Multi-Agent%20with%20LlamaIndex)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2095.%20Building%20a%20Deep%20Research%20AI%20Multi-Agent%20with%20LlamaIndex/solution.ipynb)
 
 ## Day 96.
 
