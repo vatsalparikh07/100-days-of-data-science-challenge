@@ -10,7 +10,10 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%202.%20Advanced%20Emotion%20Classification%20Using%20NLP%20Techniques)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/blob/main/Day%202.%20Advanced%20Emotion%20Classification%20Using%20NLP%20Techniques/solution.ipynb)
   
-## Day 3.  - 02/03/2025
+## Day 3. Analysing Product Demand in SQL - 02/03/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%203.%20Analysing%20Product%20Demand%20in%20SQL)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Day%203.%20Analysing%20Product%20Demand%20in%20SQL/solution.ipynb)
 
 ## Day 4. Sentiment Analysis on GameSphere Game Reviews - 02/04/2025
 
