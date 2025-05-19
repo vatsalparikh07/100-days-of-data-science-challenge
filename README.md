@@ -493,4 +493,7 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2099.%20English%20Premier%20League%20(EPL)%20Performance%20Analysis)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2099.%20English%20Premier%20League%20(EPL)%20Performance%20Analysis/solution.ipynb)
 
-## Day 100.
+## Day 100. Evaluating LLM Responses with TruLens - 05/11/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayyy%20100.%20Evaluating%20LLM%20Responses%20with%20TruLens)
+- [Solution File](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayyy%20100.%20Evaluating%20LLM%20Responses%20with%20TruLens/1_rag_prototype.ipynb)
