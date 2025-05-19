@@ -488,6 +488,9 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2098.%20NumPy%20Crash%20Course)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2098.%20NumPy%20Crash%20Course/solution.ipynb)
 
-## Day 99.
+## Day 99. English Premier League (EPL) Performance Analysis - 05/10/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2099.%20English%20Premier%20League%20(EPL)%20Performance%20Analysis)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2099.%20English%20Premier%20League%20(EPL)%20Performance%20Analysis/solution.ipynb)
 
 ## Day 100.
