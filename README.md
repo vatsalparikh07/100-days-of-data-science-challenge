@@ -483,7 +483,10 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2097.%20Bicycle%20Sales%20Tracking%20%26%20Automated%20Slack%20Reporting)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2097.%20Bicycle%20Sales%20Tracking%20%26%20Automated%20Slack%20Reporting/solution.ipynb)
 
-## Day 98.
+## Day 98. NumPy Crash Course - 05/09/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2098.%20NumPy%20Crash%20Course)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2098.%20NumPy%20Crash%20Course/solution.ipynb)
 
 ## Day 99.
 
