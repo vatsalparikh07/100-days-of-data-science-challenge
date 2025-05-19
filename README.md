@@ -478,7 +478,10 @@
 - [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2096.%20Twitter%20Content%20Analysis%20on%20Cybertruck%20Discourse)
 - [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2096.%20Twitter%20Content%20Analysis%20on%20Cybertruck%20Discourse/Content_Analysis.ipynb)
   
-## Day 97.
+## Day 97. Bicycle Sales Tracking & Automated Slack Reporting - 05/08/2025
+
+- [Project Description](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2097.%20Bicycle%20Sales%20Tracking%20%26%20Automated%20Slack%20Reporting)
+- [Solution Notebook](https://github.com/vatsalparikh07/100-days-of-data-science-challenge/tree/main/Dayy%2097.%20Bicycle%20Sales%20Tracking%20%26%20Automated%20Slack%20Reporting/solution.ipynb)
 
 ## Day 98.
 
