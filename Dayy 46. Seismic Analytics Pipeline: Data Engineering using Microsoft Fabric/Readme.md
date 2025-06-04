@@ -1,4 +1,4 @@
-# 🌍 Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric
+## 🌍 Seismic Analytics Pipeline: Data Engineering using Microsoft Fabric
 
 Welcome to my **Seismic Analytics Pipeline** project! This is a dynamic, end-to-end data engineering solution built using **Microsoft Fabric**, designed to process and analyze earthquake data from around the globe. 
 
